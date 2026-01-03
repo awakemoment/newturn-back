@@ -1,0 +1,41 @@
+{
+  "ticker": "AMZN",
+  "section": "item_1_business",
+  "analyzed_at": "2025-11-06",
+  
+  "business_model": {
+    "segments": [
+      {
+        "name": "North America",
+        "revenue_share": "60.7%",
+        "description": "미국, 캐나다 전자상거래, AWS"
+      },
+      {
+        "name": "International",
+        "revenue_share": "22.4%",
+        "description": "미국 외 전자상거래"
+      },
+      {
+        "name": "AWS",
+        "revenue_share": "16.9%",
+        "description": "클라우드 컴퓨팅"
+      }
+    ],
+    
+    "products": [
+      "제품 판매 (온라인 소매)",
+      "제3자 판매자 수수료",
+      "AWS (클라우드)",
+      "광고 서비스",
+      "Amazon Prime 구독",
+      "디지털 미디어 구독"
+    ]
+  },
+  
+  "key_takeaways": [
+    "✅ AWS 고성장 고마진 (16.9% 매출, 높은 마진)",
+    "✅ North America 60.7% (최대 세그먼트)",
+    "📊 3개 세그먼트 운영"
+  ]
+}
+

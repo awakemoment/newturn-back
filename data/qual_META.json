@@ -1,0 +1,66 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms Inc.",
+  "business_model": {
+    "model_type": "Social Media + Advertising",
+    "description": "Facebook, Instagram, WhatsApp 운영. 광고 수익 95%+.",
+    "understandability_score": 10,
+    "reason": "Facebook, Instagram 누구나 사용. 비즈니스 매우 명확."
+  },
+  "competitive_advantages": {
+    "moat_strength": "매우 강함",
+    "moat_sustainability": 8,
+    "moat_factors": [
+      {
+        "type": "Network Effects",
+        "strength": 10,
+        "description": "30억 사용자. 친구가 쓰니까 나도 써야 함."
+      },
+      {
+        "type": "Data Moat",
+        "strength": 9,
+        "description": "사용자 데이터 20년 축적. 광고 타겟팅 최강."
+      },
+      {
+        "type": "Multi-App",
+        "strength": 9,
+        "description": "FB + Insta + WhatsApp. 한 개 떠나도 다른 앱 사용."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "중간",
+    "risk_score": 55,
+    "top_3_risks": [
+      "Apple ATT (광고 추적 제한)",
+      "TikTok 경쟁",
+      "메타버스 손실"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 82,
+    "grade": "A"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 78,
+      "assessment": "BUY",
+      "verdict": "FCF 강력. PER 20대로 합리적. 메타버스 투자는 우려."
+    },
+    "fisher": {
+      "score": 80,
+      "assessment": "BUY",
+      "verdict": "Reels 성장. AI 광고 개선. 메타버스는 장기 베팅."
+    },
+    "greenblatt": {
+      "score": 90,
+      "assessment": "STRONG BUY",
+      "verdict": "ROIC 30%+. 마법공식 상위권."
+    },
+    "daily": {
+      "score": 95,
+      "assessment": "MUST OWN",
+      "verdict": "매일 쓰는 Instagram. 친구, 가족 모두 사용."
+    }
+  }
+}

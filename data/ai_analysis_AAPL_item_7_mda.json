@@ -1,0 +1,289 @@
+{
+  "ticker": "AAPL",
+  "section": "item_7_mda",
+  "analyzed_at": "2025-11-06",
+  "fiscal_year": 2025,
+  
+  "financial_performance": {
+    "total_revenue": {
+      "fy2025": 416161,
+      "fy2024": 391035,
+      "fy2023": 383285,
+      "growth_2025": 6.0,
+      "growth_2024": 2.0
+    },
+    
+    "product_performance": {
+      "iPhone": {
+        "fy2025": 209586,
+        "growth": 4.0,
+        "share": 50.3,
+        "driver": "Pro 모델 판매 증가"
+      },
+      "Mac": {
+        "fy2025": 33708,
+        "growth": 12.0,
+        "share": 8.1,
+        "driver": "노트북 및 데스크탑 판매 증가",
+        "insight": "🚀 강한 성장! Apple Silicon 효과"
+      },
+      "iPad": {
+        "fy2025": 28023,
+        "growth": 5.0,
+        "share": 6.7,
+        "driver": "iPad Air, iPad mini, iPad 판매 증가 (iPad Pro는 감소)",
+        "insight": "회복 중 (2024년 -6% 후 반등)"
+      },
+      "Wearables": {
+        "fy2025": 35686,
+        "growth": -4.0,
+        "share": 8.6,
+        "driver": "Accessories 및 Wearables 판매 감소",
+        "insight": "⚠️ 2년 연속 하락 (-7% → -4%)"
+      },
+      "Services": {
+        "fy2025": 109158,
+        "growth": 14.0,
+        "share": 26.2,
+        "driver": "광고, App Store, 클라우드 서비스 판매 증가",
+        "insight": "✅ 지속 고성장! 고마진 반복 수익"
+      }
+    },
+    
+    "geographic_performance": {
+      "Americas": {
+        "fy2025": 178353,
+        "growth": 7.0,
+        "share": 42.9,
+        "driver": "iPhone, Services 판매 증가",
+        "fx_impact": "환율 약세로 부정적 영향"
+      },
+      "Europe": {
+        "fy2025": 111032,
+        "growth": 10.0,
+        "share": 26.7,
+        "driver": "Services, iPhone, Mac 판매 증가",
+        "insight": "✅ 강한 성장!"
+      },
+      "Greater_China": {
+        "fy2025": 64377,
+        "growth": -4.0,
+        "share": 15.5,
+        "driver": "iPhone 판매 감소 (Mac 증가로 일부 상쇄)",
+        "insight": "🚨 2년 연속 하락 (-8% → -4%)",
+        "concern": "중국 리스크 지속"
+      },
+      "Japan": {
+        "fy2025": 28703,
+        "growth": 15.0,
+        "share": 6.9,
+        "driver": "iPhone, Services, iPad 판매 증가",
+        "insight": "🚀 강한 성장!"
+      },
+      "Rest_Asia_Pacific": {
+        "fy2025": 33696,
+        "growth": 10.0,
+        "share": 8.1,
+        "driver": "iPhone, Services, Mac 판매 증가",
+        "insight": "✅ 두 자릿수 성장"
+      }
+    },
+    
+    "profitability": {
+      "gross_margin": {
+        "total_fy2025": 195201,
+        "total_fy2024": 180683,
+        "products_margin_pct": "36.8%",
+        "services_margin_pct": "75.4%",
+        "insight": "Services 마진이 Products의 2배 이상!"
+      },
+      
+      "operating_expenses": {
+        "rd_fy2025": 34550,
+        "rd_pct": 8.3,
+        "rd_growth": 9.0,
+        "rd_driver": "인력 비용 및 인프라 비용 증가",
+        
+        "sga_fy2025": 27601,
+        "sga_pct": 6.6,
+        "sga_growth": 6.0,
+        "sga_driver": "인력 비용 및 변동 판매비 증가"
+      },
+      
+      "tax": {
+        "effective_rate_fy2025": 15.6,
+        "effective_rate_fy2024": 24.1,
+        "reason_for_decline": "EU State Aid Decision 관련 $10.7B 세금 감소 (전년 대비)",
+        "insight": "세율 크게 하락 → 순이익 개선"
+      }
+    }
+  },
+  
+  "new_product_launches_fy2025": [
+    {
+      "quarter": "Q1 2025",
+      "products": ["MacBook Pro", "Mac mini", "iMac", "iPad mini"]
+    },
+    {
+      "quarter": "Q2 2025",
+      "products": ["iPhone 16e", "iPad Air", "iPad", "MacBook Air", "Mac Studio"]
+    },
+    {
+      "quarter": "Q3 2025",
+      "products": ["iOS 26", "macOS Tahoe 26", "iPadOS 26", "watchOS 26", "visionOS 26", "tvOS 26"]
+    },
+    {
+      "quarter": "Q4 2025",
+      "products": ["iPhone 17", "iPhone Air", "iPhone 17 Pro", "iPhone 17 Pro Max", "Apple Watch Series 11", "Apple Watch SE 3", "Apple Watch Ultra 3", "AirPods Pro 3"]
+    }
+  ],
+  
+  "tariff_impact": {
+    "timing": "2025 Q2부터 시작",
+    "affected_regions": ["중국", "인도", "일본", "한국", "대만", "베트남", "EU"],
+    "types": "수입 관세, 보복 관세",
+    "investigation": "Section 232 반도체 조사 진행 중 (반도체, 반도체 제조 장비, 파생 제품)",
+    "impact": "공급망, 희토류/원자재/부품 가용성, 가격 및 총마진에 중대한 악영향 가능",
+    "uncertainty": "추가 관세, 보복 조치, 규모, 기간 불확실",
+    "financial_impact": "명시되지 않음 (구체적 금액 없음)",
+    "severity": "Very High"
+  },
+  
+  "capital_structure": {
+    "cash_position": {
+      "total_fy2025": 132400,
+      "description": "현금, 현금성자산 및 유가증권",
+      "sufficiency": "향후 12개월 이상 충분"
+    },
+    
+    "debt": {
+      "fixed_rate_notes": 91300,
+      "due_within_12m": 12400,
+      "future_interest_payments": 37000,
+      "interest_due_within_12m": 2600,
+      "commercial_paper": 8000
+    },
+    
+    "share_repurchase": {
+      "program_2024": 110000,
+      "program_2025": 100000,
+      "utilized_2025_q4": "May 2024 프로그램 $19.8B 소진, May 2025 프로그램 $221M 사용",
+      "insight": "적극적 자사주 매입 지속 ($110B + $100B 프로그램)"
+    }
+  },
+  
+  "forward_guidance": {
+    "revenue": {
+      "outlook": "명시적 가이던스 없음",
+      "factors": [
+        "신제품 출시 타이밍 및 수용도",
+        "거시경제 상황",
+        "관세 및 무역 조치",
+        "환율 변동",
+        "경쟁 환경"
+      ]
+    },
+    
+    "margins": {
+      "outlook": "명시적 가이던스 없음",
+      "pressure_factors": [
+        "제품/서비스 믹스 변화",
+        "지역/통화/채널 믹스 변화",
+        "부품 비용 증가",
+        "관세",
+        "환율 변동"
+      ]
+    },
+    
+    "opex": {
+      "rd_trend": "지속 증가 (인력 및 인프라)",
+      "sga_trend": "지속 증가 (인력 및 판매비)"
+    },
+    
+    "capex": {
+      "outlook": "명시되지 않음",
+      "note": "Item 7에 구체적 CAPEX 계획 언급 없음"
+    }
+  },
+  
+  "key_insights": {
+    "strengths": [
+      "✅ Services +14% (고마진 75.4%, 지속 고성장)",
+      "✅ Mac +12% (Apple Silicon 효과)",
+      "✅ Europe +10%, Japan +15% (강한 지역 성장)",
+      "✅ 세율 15.6% (전년 24.1% → 대폭 하락, State Aid Decision 영향)",
+      "✅ 신제품 라인업 확대 (iPhone Air, Vision Pro 등)"
+    ],
+    
+    "concerns": [
+      "🚨 Greater China -4% (2년 연속 하락, -8% → -4%)",
+      "⚠️ Wearables -4% (2년 연속 하락, -7% → -4%)",
+      "🚨 관세 영향 시작 (2025 Q2~, 금액 불확실)",
+      "⚠️ 환율 약세 (Americas 매출에 부정적 영향)",
+      "⚠️ iPhone 의존도 여전히 높음 (50.3%)"
+    ],
+    
+    "strategic_trends": [
+      "Services 비중 확대 (22.2% → 24.6% → 26.2%)",
+      "고마진 반복 수익 모델 강화",
+      "R&D 투자 지속 증가 (+9%)",
+      "적극적 자사주 매입 ($210B 프로그램)",
+      "현금 창출 능력 우수 ($132B)"
+    ]
+  },
+  
+  "investment_implications": {
+    "positive": [
+      "Services 성장 → 수익 구조 개선",
+      "Mac 부활 → 제품 포트폴리오 강화",
+      "강한 캐시 포지션 → 주주 환원 지속",
+      "세율 하락 → 순이익 증가"
+    ],
+    
+    "negative": [
+      "중국 리스크 (2년 연속 하락)",
+      "Wearables 성장 둔화",
+      "관세 불확실성 (비용 증가 가능)",
+      "iPhone 의존도 (단일 제품 리스크)"
+    ],
+    
+    "watch_items": [
+      "Q1 2026 실적 (관세 영향 확인)",
+      "중국 매출 추이 (반등 여부)",
+      "Services 성장 지속성",
+      "Wearables 회복 여부",
+      "Vision Pro 매출 기여도"
+    ]
+  },
+  
+  "mate_score_impact": {
+    "benjamin": {
+      "score_change": "-3",
+      "reason": "중국 리스크 증가, 관세 불확실성"
+    },
+    "fisher": {
+      "score_change": "+2",
+      "reason": "Services 고성장, Mac 부활, 혁신 지속"
+    },
+    "greenblatt": {
+      "score_change": "0",
+      "reason": "마진 안정적, ROE 높음"
+    },
+    "daily": {
+      "score_change": "+1",
+      "reason": "신제품 라인업 확대, 브랜드 강세"
+    }
+  },
+  
+  "key_takeaways": [
+    "✅ Services +14% (고마진 75.4%) - 수익 구조 개선 지속",
+    "✅ Mac +12% - Apple Silicon 대성공",
+    "✅ 세율 15.6% (전년 24.1%) - 순이익 크게 개선",
+    "✅ 강한 캐시 $132B + 자사주 $210B 프로그램",
+    "🚨 Greater China -4% (2년 연속 하락) - 중국 리스크 현실화",
+    "🚨 관세 시작 (2025 Q2~) - 비용 증가 우려",
+    "⚠️ Wearables -4% (2년 연속) - 성장 동력 상실",
+    "⚠️ iPhone 50.3% - 여전히 높은 의존도"
+  ]
+}
+

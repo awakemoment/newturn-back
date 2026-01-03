@@ -1,0 +1,57 @@
+{
+  "ticker": "MSFT",
+  "collected_at": "2025-11-06T13:29:48.146478",
+  "filing_info": {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "filing_date": "2025-07-30",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm",
+    "primary_document": "msft-20250630.htm",
+    "filing_type": "10-K"
+  },
+  "parsed": {
+    "text_length": 318184,
+    "line_count": 10835,
+    "structure": {
+      "has_toc": true,
+      "toc_position": 303633,
+      "items_found": [
+        "Part I - Item 1",
+        "Part I - Item 1A",
+        "Part II - Item 7",
+        "Part II - Item 7A",
+        "Part II - Item 8",
+        "Part I - Item 1A"
+      ]
+    },
+    "sections": {
+      "item_1_business": {
+        "char_count": 150000,
+        "word_count": 21696,
+        "line_count": 1389,
+        "page_estimate": 50.0,
+        "start_position": 4249,
+        "end_position": 154249,
+        "text_file": "data/section_MSFT_item_1_business.txt"
+      },
+      "item_1a_risk_factors": {
+        "char_count": 150000,
+        "word_count": 21696,
+        "line_count": 1393,
+        "page_estimate": 50.0,
+        "start_position": 4317,
+        "end_position": 154317,
+        "text_file": "data/section_MSFT_item_1a_risk_factors.txt"
+      },
+      "item_7_mda": {
+        "char_count": 182670,
+        "word_count": 26637,
+        "line_count": 1877,
+        "page_estimate": 60.89,
+        "start_position": 4668,
+        "end_position": 187338,
+        "text_file": "data/section_MSFT_item_7_mda.txt"
+      }
+    }
+  }
+}

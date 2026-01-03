@@ -1,0 +1,242 @@
+{
+  "Technology": [
+    {
+      "ticker": "AAPL",
+      "status": "SUCCESS",
+      "filing_date": "2025-10-31",
+      "text_length": 207614,
+      "line_count": 4635,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 6.450333333333333,
+      "item_1_business_words": 2868,
+      "item_1a_risk_factors_pages": 29.127333333333333,
+      "item_1a_risk_factors_words": 12648,
+      "item_7_mda_pages": 38.855666666666664,
+      "item_7_mda_words": 17166
+    },
+    {
+      "ticker": "MSFT",
+      "status": "SUCCESS",
+      "filing_date": "2025-07-30",
+      "text_length": 318184,
+      "line_count": 10835,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 50.0,
+      "item_1_business_words": 21696,
+      "item_1a_risk_factors_pages": 50.0,
+      "item_1a_risk_factors_words": 21696,
+      "item_7_mda_pages": 60.89,
+      "item_7_mda_words": 26637
+    }
+  ],
+  "Finance": [
+    {
+      "ticker": "JPM",
+      "status": "SUCCESS",
+      "filing_date": "2025-02-14",
+      "text_length": 1217681,
+      "line_count": 40906,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 13.976333333333333,
+      "item_1_business_words": 6189,
+      "item_1a_risk_factors_pages": 59.27333333333333,
+      "item_1a_risk_factors_words": 25501,
+      "item_7_mda_pages": 61.06066666666667,
+      "item_7_mda_words": 26323
+    },
+    {
+      "ticker": "BAC",
+      "status": "SUCCESS",
+      "filing_date": "2025-02-25",
+      "text_length": 887537,
+      "line_count": 34766,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 7.746333333333333,
+      "item_1_business_words": 3476,
+      "item_1a_risk_factors_pages": 51.961333333333336,
+      "item_1a_risk_factors_words": 22527,
+      "item_7_mda_pages": 151.19933333333333,
+      "item_7_mda_words": 66884
+    }
+  ],
+  "Healthcare": [
+    {
+      "ticker": "JNJ",
+      "status": "SUCCESS",
+      "filing_date": "2025-02-13",
+      "text_length": 422414,
+      "line_count": 9556,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 10.706333333333333,
+      "item_1_business_words": 4575,
+      "item_1a_risk_factors_pages": 13.756,
+      "item_1a_risk_factors_words": 5970,
+      "item_7_mda_pages": 51.363,
+      "item_7_mda_words": 22703
+    },
+    {
+      "ticker": "PFE",
+      "status": "SUCCESS",
+      "filing_date": "2025-02-27",
+      "text_length": 650238,
+      "line_count": 15594,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 6.3486666666666665,
+      "item_1_business_words": 2727,
+      "item_1a_risk_factors_pages": 68.98466666666667,
+      "item_1a_risk_factors_words": 30148,
+      "item_7_mda_pages": 106.991,
+      "item_7_mda_words": 47334
+    }
+  ],
+  "Energy": [
+    {
+      "ticker": "XOM",
+      "status": "SUCCESS",
+      "filing_date": "2025-02-19",
+      "text_length": 442849,
+      "line_count": 16897,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 2.8633333333333333,
+      "item_1_business_words": 1256,
+      "item_1a_risk_factors_pages": 13.637333333333334,
+      "item_1a_risk_factors_words": 5896,
+      "item_7_mda_pages": 33.90133333333333,
+      "item_7_mda_words": 15486
+    },
+    {
+      "ticker": "CVX",
+      "status": "SUCCESS",
+      "filing_date": "2025-02-21",
+      "text_length": 479056,
+      "line_count": 18245,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 24.847333333333335,
+      "item_1_business_words": 11523,
+      "item_1a_risk_factors_pages": 12.857666666666667,
+      "item_1a_risk_factors_words": 5556,
+      "item_7_mda_pages": 50.0,
+      "item_7_mda_words": 22764
+    }
+  ],
+  "Consumer": [
+    {
+      "ticker": "KO",
+      "status": "SUCCESS",
+      "filing_date": "2025-02-20",
+      "text_length": 605190,
+      "line_count": 11219,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 1.0493333333333332,
+      "item_1_business_words": 454,
+      "item_1a_risk_factors_pages": 49.617,
+      "item_1a_risk_factors_words": 21820,
+      "item_7_mda_pages": 100.89466666666667,
+      "item_7_mda_words": 45219
+    },
+    {
+      "ticker": "WMT",
+      "status": "SUCCESS",
+      "filing_date": "2025-03-14",
+      "text_length": 372022,
+      "line_count": 6598,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 11.594666666666667,
+      "item_1_business_words": 5137,
+      "item_1a_risk_factors_pages": 49.10066666666667,
+      "item_1a_risk_factors_words": 21663,
+      "item_7_mda_pages": 74.743,
+      "item_7_mda_words": 33436
+    }
+  ],
+  "Industrial": [
+    {
+      "ticker": "CAT",
+      "status": "SUCCESS",
+      "filing_date": "2025-02-14",
+      "text_length": 437929,
+      "line_count": 16262,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 13.563,
+      "item_1_business_words": 5778,
+      "item_1a_risk_factors_pages": 31.42,
+      "item_1a_risk_factors_words": 13688,
+      "item_7_mda_pages": 72.02233333333334,
+      "item_7_mda_words": 32153
+    },
+    {
+      "ticker": "BA",
+      "status": "SUCCESS",
+      "filing_date": "2025-02-03",
+      "text_length": 416851,
+      "line_count": 9880,
+      "sections_found": [
+        "item_1_business",
+        "item_1a_risk_factors",
+        "item_7_mda"
+      ],
+      "sections_count": 3,
+      "item_1_business_pages": 2.1893333333333334,
+      "item_1_business_words": 958,
+      "item_1a_risk_factors_pages": 25.796333333333333,
+      "item_1a_risk_factors_words": 11300,
+      "item_7_mda_pages": 59.79866666666667,
+      "item_7_mda_words": 26435
+    }
+  ]
+}

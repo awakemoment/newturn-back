@@ -1,0 +1,156 @@
+{
+  "batch_2": {
+    "name": "Tech Giants + Major Industries",
+    "count": 20,
+    "stocks": [
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft",
+        "industry": "Technology",
+        "priority": "Very High",
+        "reason": "Azure 클라우드, AI (Copilot), Office 365"
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet (Google)",
+        "industry": "Technology",
+        "priority": "Very High",
+        "reason": "검색 독점 90%+, Google Cloud, YouTube"
+      },
+      {
+        "ticker": "V",
+        "name": "Visa",
+        "industry": "Financial Services",
+        "priority": "Very High",
+        "reason": "결제 과점, ROIC 무한대급, 베니 1위"
+      },
+      {
+        "ticker": "PG",
+        "name": "Procter & Gamble",
+        "industry": "Consumer Goods",
+        "priority": "High",
+        "reason": "소비재 안정주, 브랜드 포트폴리오"
+      },
+      {
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "industry": "Healthcare",
+        "priority": "High",
+        "reason": "헬스케어 대장주, 안정적 FCF"
+      },
+      {
+        "ticker": "JPM",
+        "name": "JPMorgan Chase",
+        "industry": "Banking",
+        "priority": "High",
+        "reason": "미국 최대 은행, 금융 대표주"
+      },
+      {
+        "ticker": "WMT",
+        "name": "Walmart",
+        "industry": "Retail",
+        "priority": "High",
+        "reason": "소매 1위, 온라인 성장"
+      },
+      {
+        "ticker": "XOM",
+        "name": "ExxonMobil",
+        "industry": "Energy",
+        "priority": "Medium",
+        "reason": "에너지 대표주, 배당"
+      },
+      {
+        "ticker": "CVX",
+        "name": "Chevron",
+        "industry": "Energy",
+        "priority": "Medium",
+        "reason": "에너지 대표주, 배당"
+      },
+      {
+        "ticker": "KO",
+        "name": "Coca-Cola",
+        "industry": "Beverages",
+        "priority": "High",
+        "reason": "브랜드 파워, 글로벌 유통망"
+      },
+      {
+        "ticker": "ADBE",
+        "name": "Adobe",
+        "industry": "Software",
+        "priority": "High",
+        "reason": "디자인 소프트웨어 독점, 구독 모델"
+      },
+      {
+        "ticker": "NFLX",
+        "name": "Netflix",
+        "industry": "Streaming",
+        "priority": "High",
+        "reason": "스트리밍 1위, 콘텐츠 투자"
+      },
+      {
+        "ticker": "CRM",
+        "name": "Salesforce",
+        "industry": "Software",
+        "priority": "Medium",
+        "reason": "CRM 소프트웨어 1위"
+      },
+      {
+        "ticker": "DIS",
+        "name": "Disney",
+        "industry": "Entertainment",
+        "priority": "Medium",
+        "reason": "미디어 & 엔터테인먼트, Disney+"
+      },
+      {
+        "ticker": "CSCO",
+        "name": "Cisco",
+        "industry": "Networking",
+        "priority": "Medium",
+        "reason": "네트워킹 장비 1위"
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel",
+        "industry": "Semiconductors",
+        "priority": "High",
+        "reason": "반도체 (vs NVDA, AMD)"
+      },
+      {
+        "ticker": "AMD",
+        "name": "AMD",
+        "industry": "Semiconductors",
+        "priority": "High",
+        "reason": "CPU/GPU, NVDA 경쟁사"
+      },
+      {
+        "ticker": "ORCL",
+        "name": "Oracle",
+        "industry": "Software/Cloud",
+        "priority": "Medium",
+        "reason": "데이터베이스, 엔터프라이즈 소프트웨어"
+      },
+      {
+        "ticker": "BA",
+        "name": "Boeing",
+        "industry": "Aerospace",
+        "priority": "Medium",
+        "reason": "항공우주, 방산"
+      },
+      {
+        "ticker": "NKE",
+        "name": "Nike",
+        "industry": "Apparel",
+        "priority": "Medium",
+        "reason": "스포츠 브랜드 1위"
+      }
+    ]
+  },
+  
+  "analysis_notes": {
+    "total_to_analyze": 20,
+    "estimated_time": "종목당 30분 × 20 = 10시간",
+    "can_batch": "한 번에 3-5개씩 처리 가능",
+    "priority_first": "Very High (MSFT, GOOGL, V) 먼저"
+  }
+}
+

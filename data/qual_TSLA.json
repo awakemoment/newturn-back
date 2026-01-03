@@ -1,0 +1,66 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla Inc.",
+  "business_model": {
+    "model_type": "Electric Vehicles + Energy",
+    "description": "전기차 제조 및 판매. 배터리, 태양광 패널, FSD(자율주행).",
+    "understandability_score": 9,
+    "reason": "전기차. 길거리에서 매일 봄. 비즈니스 명확."
+  },
+  "competitive_advantages": {
+    "moat_strength": "강함",
+    "moat_sustainability": 7,
+    "moat_factors": [
+      {
+        "type": "Brand Power",
+        "strength": 10,
+        "description": "전기차 = Tesla. 브랜드 인지도 압도적."
+      },
+      {
+        "type": "Technology",
+        "strength": 8,
+        "description": "배터리 기술, FSD. 선도."
+      },
+      {
+        "type": "Scale",
+        "strength": 7,
+        "description": "생산 규모 1위. 원가 경쟁력."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "높음",
+    "risk_score": 70,
+    "top_3_risks": [
+      "경쟁 심화 (BYD, 레거시)",
+      "Elon Musk 리스크",
+      "밸류에이션 높음"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 75,
+    "grade": "B+"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 40,
+      "assessment": "SELL",
+      "verdict": "PER 60+. 자동차는 저마진. 안전마진 없음."
+    },
+    "fisher": {
+      "score": 85,
+      "assessment": "BUY",
+      "verdict": "혁신 능력. FSD 잠재력. 장기 성장 가능."
+    },
+    "greenblatt": {
+      "score": 50,
+      "assessment": "HOLD",
+      "verdict": "ROIC 낮음. 자본 집약적. 마법공식 하위."
+    },
+    "daily": {
+      "score": 90,
+      "assessment": "BUY",
+      "verdict": "길거리에서 매일 봄. 멋진 차. 친환경."
+    }
+  }
+}

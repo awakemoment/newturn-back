@@ -1,0 +1,66 @@
+{
+  "ticker": "NVDA",
+  "collected_at": "2025-11-06T12:26:58.505013",
+  "filing_info": {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "filing_date": "2025-02-26",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+    "primary_document": "nvda-20250126.htm"
+  },
+  "parsed": {
+    "text_length": 350943,
+    "line_count": 6216,
+    "structure": {
+      "has_toc": true,
+      "toc_position": 0,
+      "items_found": [
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15",
+        "Part IV - Item 15"
+      ]
+    },
+    "sections": {
+      "item_1_business": {
+        "char_count": 44853,
+        "word_count": 6507,
+        "line_count": 235,
+        "page_estimate": 14.951,
+        "start_position": 5022,
+        "end_position": 49875,
+        "text_file": "data/section_NVDA_item_1_business.txt"
+      },
+      "item_1a_risk_factors": {
+        "char_count": 170989,
+        "word_count": 25430,
+        "line_count": 669,
+        "page_estimate": 56.99633333333333,
+        "start_position": 5042,
+        "end_position": 176031,
+        "text_file": "data/section_NVDA_item_1a_risk_factors.txt"
+      },
+      "item_7_mda": {
+        "char_count": 219169,
+        "word_count": 32889,
+        "line_count": 1232,
+        "page_estimate": 73.05633333333333,
+        "start_position": 5375,
+        "end_position": 224544,
+        "text_file": "data/section_NVDA_item_7_mda.txt"
+      }
+    }
+  }
+}

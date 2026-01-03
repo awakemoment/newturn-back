@@ -1,0 +1,58 @@
+{
+  "ticker": "GOOGL",
+  "collected_at": "2025-11-06T12:26:41.746223",
+  "filing_info": {
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "filing_date": "2025-02-05",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm",
+    "primary_document": "goog-20241231.htm"
+  },
+  "parsed": {
+    "text_length": 352260,
+    "line_count": 7659,
+    "structure": {
+      "has_toc": true,
+      "toc_position": 5996,
+      "items_found": [
+        "Part III - Item 12",
+        "Part I - Item 1",
+        "Part I - Item 1A",
+        "Part II - Item 7",
+        "Part I - Item 1A",
+        "Part II - Item 7",
+        "Part II - Item 7",
+        "Part II - Item 8"
+      ]
+    },
+    "sections": {
+      "item_1_business": {
+        "char_count": 29012,
+        "word_count": 4401,
+        "line_count": 271,
+        "page_estimate": 9.670666666666667,
+        "start_position": 6167,
+        "end_position": 35179,
+        "text_file": "data/section_GOOGL_item_1_business.txt"
+      },
+      "item_1a_risk_factors": {
+        "char_count": 121579,
+        "word_count": 18225,
+        "line_count": 553,
+        "page_estimate": 40.52633333333333,
+        "start_position": 6186,
+        "end_position": 127765,
+        "text_file": "data/section_GOOGL_item_1a_risk_factors.txt"
+      },
+      "item_7_mda": {
+        "char_count": 148831,
+        "word_count": 22334,
+        "line_count": 831,
+        "page_estimate": 49.61033333333334,
+        "start_position": 6512,
+        "end_position": 155343,
+        "text_file": "data/section_GOOGL_item_7_mda.txt"
+      }
+    }
+  }
+}

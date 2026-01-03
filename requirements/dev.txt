@@ -1,0 +1,20 @@
+-r base.txt
+
+# 개발 도구
+django-extensions==3.2.3
+ipython==8.21.0
+jupyter==1.0.0
+
+# 테스트
+pytest==8.0.0
+pytest-django==4.8.0
+pytest-cov==4.1.0
+
+# 코드 품질
+black==24.1.1
+flake8==7.0.0
+isort==5.13.2
+
+# 디버깅
+django-debug-toolbar==4.3.0
+

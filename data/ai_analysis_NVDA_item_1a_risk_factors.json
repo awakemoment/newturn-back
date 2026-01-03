@@ -1,0 +1,58 @@
+{
+  "ticker": "NVDA",
+  "section": "item_1a_risk_factors",
+  "analyzed_at": "2025-11-06",
+  "note": "57 pages - 매우 상세한 리스크 (수출 규제 중심)",
+  
+  "top_5_risks": [
+    {
+      "rank": 1,
+      "risk": "U.S. 수출 규제 (중국 차단)",
+      "description": "2023년 10월부터 중국 라이선스 받지 못함. 2025년 1월 AI Diffusion IFR (전세계 라이선스). H100, B200, GB200 등 모든 고성능 제품 영향.",
+      "impact": "중국 시장 (전세계 2위 경제) 사실상 차단. 중동, 베트남 등 제한. 매출 및 경쟁력 대폭 감소.",
+      "severity": "Very High",
+      "new": true
+    },
+    {
+      "rank": 2,
+      "risk": "클라우드 자체 칩 개발",
+      "description": "Amazon, Google, Microsoft 등 주요 고객이 자체 AI 칩 설계. NVIDIA 의존도 감소 시도.",
+      "impact": "Data Center 매출 감소 (89% 세그먼트)",
+      "severity": "High",
+      "new": false
+    },
+    {
+      "rank": 3,
+      "risk": "공급망 제약 (TSMC, CoWoS)",
+      "description": "AI 수요 폭발로 웨이퍼 및 패키징 공급 부족. TSMC, CoWoS 의존도 높음.",
+      "impact": "제품 공급 부족, 매출 기회 상실, 비용 증가",
+      "severity": "High",
+      "new": false
+    },
+    {
+      "rank": 4,
+      "risk": "AI 수요 지속성 불확실",
+      "description": "AI 투자가 장기적으로 지속될지 불확실. 거품 우려.",
+      "impact": "수요 급감 시 재고 과잉, 매출 폭락",
+      "severity": "Medium-High",
+      "new": false
+    },
+    {
+      "rank": 5,
+      "risk": "경쟁 심화 (AMD, 신규 업체)",
+      "description": "AMD MI300, 스타트업 AI 칩, 클라우드 자체 칩 등 경쟁 증가",
+      "impact": "시장 점유율 손실, 가격 압박",
+      "severity": "Medium",
+      "new": false
+    }
+  ],
+  
+  "key_takeaways": [
+    "🚨 수출 규제가 최대 리스크 (중국 차단!)",
+    "🚨 2025 AI Diffusion IFR (전세계 라이선스)",
+    "⚠️ 클라우드 자체 칩 개발 (Amazon, Google, MS)",
+    "⚠️ 공급망 제약 (TSMC, CoWoS)",
+    "⚠️ AI 수요 지속성 불확실"
+  ]
+}
+

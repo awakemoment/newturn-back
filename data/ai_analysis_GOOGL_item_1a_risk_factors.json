@@ -1,0 +1,21 @@
+{
+  "ticker": "GOOGL",
+  "section": "item_1a_risk_factors",
+  "analyzed_at": "2025-11-06",
+  
+  "top_5_risks": [
+    {"rank": 1, "risk": "독점금지 소송 (검색 독점 판결)", "severity": "Very High", "note": "2024년 8월 판결"},
+    {"rank": 2, "risk": "광고 의존도 75%+", "severity": "High"},
+    {"rank": 3, "risk": "프라이버시 규제 (EU GDPR 등)", "severity": "High"},
+    {"rank": 4, "risk": "클라우드 경쟁 (AWS, Azure)", "severity": "Medium"},
+    {"rank": 5, "risk": "AI 경쟁 (OpenAI, Anthropic 등)", "severity": "Medium-High"}
+  ],
+  
+  "key_takeaways": [
+    "🚨 검색 독점 판결 (2024년 8월)",
+    "⚠️ 광고 의존도 75%+",
+    "⚠️ EU 규제 리스크",
+    "⚠️ Google Cloud는 3위 (AWS, Azure 뒤)"
+  ]
+}
+

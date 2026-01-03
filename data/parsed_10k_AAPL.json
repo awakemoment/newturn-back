@@ -1,0 +1,56 @@
+{
+  "ticker": "AAPL",
+  "collected_at": "2025-11-06T13:28:10.352574",
+  "filing_info": {
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "filing_date": "2025-10-31",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+    "primary_document": "aapl-20250927.htm",
+    "filing_type": "10-K"
+  },
+  "parsed": {
+    "text_length": 207614,
+    "line_count": 4635,
+    "structure": {
+      "has_toc": true,
+      "toc_position": 5240,
+      "items_found": [
+        "Part I - Item 1",
+        "Part II - Item 7",
+        "Part I - Item 1A",
+        "Part II - Item 7",
+        "Part II - Item 8"
+      ]
+    },
+    "sections": {
+      "item_1_business": {
+        "char_count": 19351,
+        "word_count": 2868,
+        "line_count": 208,
+        "page_estimate": 6.450333333333333,
+        "start_position": 5270,
+        "end_position": 24621,
+        "text_file": "data/section_AAPL_item_1_business.txt"
+      },
+      "item_1a_risk_factors": {
+        "char_count": 87382,
+        "word_count": 12648,
+        "line_count": 330,
+        "page_estimate": 29.127333333333333,
+        "start_position": 5289,
+        "end_position": 92671,
+        "text_file": "data/section_AAPL_item_1a_risk_factors.txt"
+      },
+      "item_7_mda": {
+        "char_count": 116567,
+        "word_count": 17166,
+        "line_count": 813,
+        "page_estimate": 38.855666666666664,
+        "start_position": 5613,
+        "end_position": 122180,
+        "text_file": "data/section_AAPL_item_7_mda.txt"
+      }
+    }
+  }
+}

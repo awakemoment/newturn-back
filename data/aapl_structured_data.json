@@ -1,0 +1,75 @@
+{
+  "ticker": "AAPL",
+  "product_revenue": {
+    "iPhone": {
+      "fy2024": 201183,
+      "fy2023": 189698,
+      "fy2022": 193639,
+      "growth_2024": "+6%",
+      "growth_2023": "-2%",
+      "trend": "회복 중"
+    },
+    "Services": {
+      "fy2024": 96169,
+      "fy2023": 85200,
+      "fy2022": 78129,
+      "growth_2024": "+13%",
+      "growth_2023": "+9%",
+      "trend": "지속 고성장"
+    },
+    "Mac": {
+      "note": "별도 표시 없음 (통합)",
+      "estimate": "~$30B"
+    },
+    "iPad": {
+      "note": "별도 표시 없음",
+      "estimate": "~$25B"
+    },
+    "Wearables": {
+      "note": "별도 표시 없음",
+      "estimate": "~$40B"
+    }
+  },
+  "geographic_revenue": {
+    "Americas": {
+      "fy2024": 167000,
+      "growth": "+4%",
+      "share": "45%"
+    },
+    "Europe": {
+      "fy2024": 93000,
+      "share": "25%"
+    },
+    "Greater_China": {
+      "fy2024": 66900,
+      "growth": "-8%",
+      "share": "18%",
+      "alert": "WARNING"
+    },
+    "Japan": {
+      "fy2024": 22000,
+      "share": "6%"
+    },
+    "Rest_Asia_Pacific": {
+      "fy2024": 22000,
+      "share": "6%"
+    }
+  },
+  "key_ratios": {
+    "gross_margin": "45.5%",
+    "operating_margin": "30.7%",
+    "net_margin": "25.3%",
+    "roe": "150%+",
+    "debt_ratio": "매우 낮음"
+  },
+  "rd_investment": {
+    "fy2024": 29900,
+    "as_pct_of_revenue": "7.7%",
+    "focus": [
+      "Apple Silicon",
+      "Vision Pro",
+      "AI/ML",
+      "Health"
+    ]
+  }
+}

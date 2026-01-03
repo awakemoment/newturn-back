@@ -1,0 +1,50 @@
+{
+  "ticker": "TSLA",
+  "collected_at": "2025-11-06T12:50:01.885410",
+  "filing_info": {
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "filing_date": "2025-01-30",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm"
+  },
+  "parsed": {
+    "text_length": 386794,
+    "line_count": 7298,
+    "structure": {
+      "has_toc": true,
+      "toc_position": 6134,
+      "items_found": [
+        "Part I - Item 1A"
+      ]
+    },
+    "sections": {
+      "item_1_business": {
+        "char_count": 53096,
+        "word_count": 7730,
+        "line_count": 310,
+        "page_estimate": 17.698666666666668,
+        "start_position": 4854,
+        "end_position": 57950,
+        "text_file": "data/section_TSLA_item_1_business.txt"
+      },
+      "item_1a_risk_factors": {
+        "char_count": 132812,
+        "word_count": 19852,
+        "line_count": 475,
+        "page_estimate": 44.27066666666666,
+        "start_position": 4873,
+        "end_position": 137685,
+        "text_file": "data/section_TSLA_item_1a_risk_factors.txt"
+      },
+      "item_7_mda": {
+        "char_count": 191745,
+        "word_count": 28820,
+        "line_count": 1149,
+        "page_estimate": 63.915,
+        "start_position": 5202,
+        "end_position": 196947,
+        "text_file": "data/section_TSLA_item_7_mda.txt"
+      }
+    }
+  }
+}

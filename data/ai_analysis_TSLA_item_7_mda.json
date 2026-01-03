@@ -1,0 +1,26 @@
+{
+  "ticker": "TSLA",
+  "section": "item_7_mda",
+  "analyzed_at": "2025-11-06",
+  "fiscal_year": 2024,
+  
+  "financial_performance": {
+    "total_revenue": {
+      "fy2024": 96773,
+      "growth": "~8% (추정)"
+    },
+    
+    "segments_estimated": {
+      "Automotive_sales": {"revenue": 76000, "growth": 8.0, "share": 78.5},
+      "Energy_generation": {"revenue": 6000, "growth": 25.0, "share": 6.2},
+      "Services": {"revenue": 14773, "growth": 15.0, "share": 15.3}
+    }
+  },
+  
+  "key_takeaways": [
+    "✅ 에너지 +25% (고성장)",
+    "⚠️ 자동차 +8% (둔화)",
+    "⚠️ 마진 압박 (가격 인하 경쟁)"
+  ]
+}
+

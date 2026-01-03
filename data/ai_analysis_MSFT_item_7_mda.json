@@ -1,0 +1,40 @@
+{
+  "ticker": "MSFT",
+  "section": "item_7_mda",
+  "analyzed_at": "2025-11-06",
+  "fiscal_year": 2025,
+  
+  "financial_performance": {
+    "total_revenue": {
+      "fy2025": 245122,
+      "growth": "~15% (추정)"
+    },
+    
+    "segments": {
+      "Productivity_Business": {
+        "revenue_share": "~33%",
+        "key_products": "Microsoft 365, LinkedIn, Dynamics",
+        "growth": "~12%"
+      },
+      "Intelligent_Cloud": {
+        "revenue_share": "~43%",
+        "key_products": "Azure, Server products",
+        "growth": "~20%",
+        "insight": "🚀 Azure AI 고성장"
+      },
+      "Personal_Computing": {
+        "revenue_share": "~24%",
+        "key_products": "Windows, Surface, Xbox, Search",
+        "growth": "~5%"
+      }
+    }
+  },
+  
+  "key_takeaways": [
+    "✅ Intelligent Cloud ~43% (최대 세그먼트)",
+    "🚀 Azure AI 고성장 (~20%+)",
+    "✅ Microsoft 365 Copilot 출시",
+    "📊 Total ~$245B"
+  ]
+}
+

@@ -1,0 +1,61 @@
+{
+  "ticker": "KO",
+  "company_name": "The Coca-Cola Company",
+  "business_model": {
+    "model_type": "Beverage",
+    "description": "코카콜라 및 음료 브랜드.",
+    "understandability_score": 10,
+    "reason": "코카콜라. 세계에서 가장 이해하기 쉬운 비즈니스."
+  },
+  "competitive_advantages": {
+    "moat_strength": "매우 강함",
+    "moat_sustainability": 10,
+    "moat_factors": [
+      {
+        "type": "Brand Power",
+        "strength": 10,
+        "description": "세계 1위 브랜드. 130년+ 역사."
+      },
+      {
+        "type": "Distribution",
+        "strength": 10,
+        "description": "200개국. 어디서나 코카콜라."
+      },
+      {
+        "type": "Customer Loyalty",
+        "strength": 10,
+        "description": "한 번 맛보면 평생 고객."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "매우 낮음",
+    "risk_score": 20
+  },
+  "investment_appeal": {
+    "overall_score": 85,
+    "grade": "A"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 88,
+      "assessment": "BUY",
+      "verdict": "Buffett이 가장 좋아하는 종목. 배당 60년+. 완벽한 디펜시브."
+    },
+    "fisher": {
+      "score": 65,
+      "assessment": "HOLD",
+      "verdict": "성장 둔화. 탄산 소비 감소. 혁신 제한적."
+    },
+    "greenblatt": {
+      "score": 92,
+      "assessment": "STRONG BUY",
+      "verdict": "ROE 40%+. 자본 필요 거의 없음. 완벽."
+    },
+    "daily": {
+      "score": 100,
+      "assessment": "MUST OWN",
+      "verdict": "매일 마시는 코카콜라. 삶의 일부."
+    }
+  }
+}

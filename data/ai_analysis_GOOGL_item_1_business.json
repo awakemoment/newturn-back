@@ -1,0 +1,76 @@
+{
+  "ticker": "GOOGL",
+  "section": "item_1_business",
+  "analyzed_at": "2025-11-06",
+  
+  "business_model": {
+    "mission": "정보를 전 세계적으로 접근 가능하고 유용하게 만들기",
+    
+    "segments": [
+      {
+        "name": "Google Services",
+        "revenue_share": "~88%",
+        "products": [
+          "Search & other (검색 광고)",
+          "YouTube (동영상 광고)",
+          "Google Network (파트너 사이트 광고)",
+          "Google Play (앱 스토어)",
+          "Pixel (하드웨어)",
+          "구독 서비스"
+        ]
+      },
+      {
+        "name": "Google Cloud",
+        "revenue_share": "~10%",
+        "products": [
+          "Google Cloud Platform (IaaS, PaaS)",
+          "Google Workspace (Gmail, Docs, Drive, Meet)",
+          "Vertex AI (AI 플랫폼)"
+        ]
+      },
+      {
+        "name": "Other Bets",
+        "revenue_share": "~1.4%",
+        "products": [
+          "Waymo (자율주행)",
+          "Healthcare/Life Sciences",
+          "기타 R&D 프로젝트"
+        ]
+      }
+    ],
+    
+    "revenue_model": [
+      "광고 (검색, YouTube, Network) - 75%+",
+      "클라우드 구독 (GCP, Workspace)",
+      "앱 스토어 수수료 (Google Play)",
+      "하드웨어 (Pixel)",
+      "구독 (YouTube Premium, Google One)"
+    ],
+    
+    "differentiation": [
+      "검색 독점 90%+",
+      "YouTube 동영상 플랫폼 1위",
+      "Android 모바일 OS 점유율 1위",
+      "AI 리더 (Gemini 2.0)",
+      "글로벌 인프라",
+      "R&D $150B+ (5년간)"
+    ]
+  },
+  
+  "ai_leadership": {
+    "gemini": "가장 강력한 AI 모델 (Gemini 2.0)",
+    "integration": "7개 20억 사용자 제품 (Android, Chrome, Gmail, Maps, Play, Search, YouTube)",
+    "enterprise": "Vertex AI (AI 개발 플랫폼), Gemini for Workspace"
+  },
+  
+  "key_takeaways": [
+    "✅ 검색 독점 90%+ (압도적!)",
+    "✅ YouTube 1위",
+    "✅ Android 모바일 OS 1위",
+    "✅ Gemini 2.0 AI 리더",
+    "✅ Google Cloud 고성장 (~35%)",
+    "⚠️ 광고 의존도 75%+",
+    "⚠️ Waymo 등 Other Bets 손실"
+  ]
+}
+

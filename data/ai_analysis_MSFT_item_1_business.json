@@ -1,0 +1,92 @@
+{
+  "ticker": "MSFT",
+  "section": "item_1_business",
+  "analyzed_at": "2025-11-06",
+  
+  "business_model": {
+    "mission": "지구상 모든 사람과 조직이 더 많은 것을 달성할 수 있도록 역량 강화",
+    
+    "segments": [
+      {
+        "name": "Productivity and Business Processes",
+        "revenue_share": "~33%",
+        "products": [
+          "Microsoft 365 Commercial (Office, Teams, SharePoint, Exchange, Copilot)",
+          "Microsoft 365 Consumer",
+          "LinkedIn (Talent, Marketing, Premium, Sales Solutions)",
+          "Dynamics 365 (ERP, CRM, Power Apps, Power Automate)"
+        ]
+      },
+      {
+        "name": "Intelligent Cloud",
+        "revenue_share": "~43%",
+        "products": [
+          "Azure (IaaS, PaaS, AI 서비스, Azure AI Foundry)",
+          "GitHub (코드 협업, AI 개발 도구)",
+          "Nuance Healthcare (AI 헬스케어)",
+          "SQL Server, Windows Server, Visual Studio"
+        ]
+      },
+      {
+        "name": "More Personal Computing",
+        "revenue_share": "~24%",
+        "products": [
+          "Windows OEM (PC 라이선스)",
+          "Surface (Copilot+ PC)",
+          "Xbox (하드웨어, Game Pass, Xbox Cloud Gaming)",
+          "Bing, Edge, Copilot (검색 및 광고)"
+        ]
+      }
+    ],
+    
+    "revenue_model": [
+      "클라우드 구독 (Azure, Microsoft 365)",
+      "라이선스 (Windows, Office, SQL Server)",
+      "광고 (Bing, LinkedIn)",
+      "하드웨어 (Surface, Xbox)",
+      "게임 콘텐츠 및 구독 (Xbox Game Pass)"
+    ],
+    
+    "differentiation": [
+      "AI 전 레이어 통합 (인프라 → 앱)",
+      "Microsoft Cloud 통합 (Azure + Microsoft 365 + Dynamics)",
+      "하이브리드 클라우드 (온프레미스 + 클라우드)",
+      "Microsoft 365 Copilot (AI 생산성)",
+      "글로벌 데이터센터 규모의 경제",
+      "보안 우선 설계"
+    ]
+  },
+  
+  "ai_strategy": {
+    "focus": "AI를 모든 제품에 통합",
+    "offerings": [
+      "Azure AI (LLM 학습/추론, Azure AI Foundry)",
+      "Microsoft 365 Copilot (생산성 AI)",
+      "GitHub Copilot (코딩 AI)",
+      "Bing Copilot (검색 AI)",
+      "Dynamics 365 Copilot (비즈니스 AI)"
+    ],
+    "infrastructure": "커스텀 실리콘 + 칩 제조사 파트너십",
+    "competitive_advantage": "하이퍼스케일러 + AI 신규 업체 경쟁"
+  },
+  
+  "competition": {
+    "azure": ["AWS", "Google Cloud", "오픈소스 제공 업체", "AI 하이퍼스케일러"],
+    "office": ["Google Workspace", "웹/모바일 앱", "AI 우선 앱"],
+    "windows": ["대체 OS 및 플랫폼"],
+    "linkedin": ["온라인 전문가 네트워크", "채용/HR 서비스"],
+    "gaming": ["PlayStation", "Nintendo", "PC 게임 플랫폼"],
+    "search": ["Google", "기타 검색 엔진"]
+  },
+  
+  "key_takeaways": [
+    "✅ AI 전 제품 통합 (Copilot)",
+    "✅ Azure 고성장 (IaaS, PaaS, AI)",
+    "✅ 3개 세그먼트 균형 (33%, 43%, 24%)",
+    "✅ 하이브리드 클라우드 강점",
+    "✅ LinkedIn 독보적 (전문가 네트워크)",
+    "📊 CEO: Satya Nadella (57세)",
+    "📊 본사: Washington, Redmond"
+  ]
+}
+

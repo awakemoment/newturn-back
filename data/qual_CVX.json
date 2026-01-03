@@ -1,0 +1,39 @@
+{
+  "ticker": "CVX",
+  "company_name": "Chevron Corporation",
+  "business_model": {
+    "model_type": "Integrated Oil & Gas",
+    "description": "Exxon과 유사. 석유/가스.",
+    "understandability_score": 9
+  },
+  "competitive_advantages": {
+    "moat_strength": "강함",
+    "moat_sustainability": 7
+  },
+  "risks": {
+    "overall_risk_level": "중간",
+    "risk_score": 55
+  },
+  "investment_appeal": {
+    "overall_score": 74,
+    "grade": "B+"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 78,
+      "assessment": "BUY"
+    },
+    "fisher": {
+      "score": 48,
+      "assessment": "SELL"
+    },
+    "greenblatt": {
+      "score": 63,
+      "assessment": "HOLD"
+    },
+    "daily": {
+      "score": 83,
+      "assessment": "BUY"
+    }
+  }
+}

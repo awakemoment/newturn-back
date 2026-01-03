@@ -1,0 +1,66 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMorgan Chase & Co.",
+  "business_model": {
+    "model_type": "Universal Bank",
+    "description": "상업은행, 투자은행, 자산관리, 카드 사업.",
+    "understandability_score": 7,
+    "reason": "은행. 돈 빌려주고 이자 받음. 기본은 쉬우나 투자은행은 복잡."
+  },
+  "competitive_advantages": {
+    "moat_strength": "강함",
+    "moat_sustainability": 8,
+    "moat_factors": [
+      {
+        "type": "Scale",
+        "strength": 9,
+        "description": "미국 최대 은행. $3.7T 자산."
+      },
+      {
+        "type": "Brand Trust",
+        "strength": 8,
+        "description": "금융권 신뢰도 최고."
+      },
+      {
+        "type": "Diversification",
+        "strength": 8,
+        "description": "리테일+IB+자산관리. 분산 우수."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "중간",
+    "risk_score": 45,
+    "top_3_risks": [
+      "금리 변동",
+      "경기 침체 (대출 부실)",
+      "규제 강화"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 80,
+    "grade": "A"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 85,
+      "assessment": "BUY",
+      "verdict": "배당 우수. PBR 1.5. 재무 안전. 은행 중 최고."
+    },
+    "fisher": {
+      "score": 70,
+      "assessment": "HOLD",
+      "verdict": "성장성 제한적. 은행은 성숙 산업."
+    },
+    "greenblatt": {
+      "score": 75,
+      "assessment": "BUY",
+      "verdict": "ROE 15%+. 우량하나 자본 집약적."
+    },
+    "daily": {
+      "score": 75,
+      "assessment": "BUY",
+      "verdict": "체이스 카드. ATM. 이해 쉬움."
+    }
+  }
+}

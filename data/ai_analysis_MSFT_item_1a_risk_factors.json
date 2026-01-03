@@ -1,0 +1,21 @@
+{
+  "ticker": "MSFT",
+  "section": "item_1a_risk_factors",
+  "analyzed_at": "2025-11-06",
+  
+  "top_5_risks": [
+    {"rank": 1, "risk": "AI 경쟁 심화 (AWS, Google, 신규 업체)", "severity": "High"},
+    {"rank": 2, "risk": "사이버 보안 및 국가 안보", "severity": "Very High"},
+    {"rank": 3, "risk": "규제 (독점금지, 프라이버시)", "severity": "Medium-High"},
+    {"rank": 4, "risk": "클라우드 경쟁 (AWS 1위)", "severity": "High"},
+    {"rank": 5, "risk": "인재 확보 (AI 인력 경쟁)", "severity": "Medium"}
+  ],
+  
+  "key_takeaways": [
+    "🚨 AI 경쟁 격화 (AWS, Google, 신규 업체)",
+    "🚨 사이버 보안 (정부 고객 다수)",
+    "⚠️ Azure는 2위 (AWS 1위)",
+    "⚠️ 규제 리스크 (EU DMA 등)"
+  ]
+}
+

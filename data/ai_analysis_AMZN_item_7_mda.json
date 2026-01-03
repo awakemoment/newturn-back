@@ -1,0 +1,27 @@
+{
+  "ticker": "AMZN",
+  "section": "item_7_mda",
+  "analyzed_at": "2025-11-06",
+  "fiscal_year": 2024,
+  
+  "financial_performance": {
+    "total_revenue": {
+      "fy2024": 637959,
+      "growth": 11.0
+    },
+    
+    "segments": {
+      "North_America": {"revenue": 387497, "growth": 10.0},
+      "International": {"revenue": 142906, "growth": 9.0},
+      "AWS": {"revenue": 107556, "growth": 19.0}
+    }
+  },
+  
+  "key_takeaways": [
+    "✅ AWS +19% (고성장!)",
+    "✅ North America +10%",
+    "✅ International +9%",
+    "📊 Total +11%"
+  ]
+}
+

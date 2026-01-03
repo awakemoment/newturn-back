@@ -1,0 +1,66 @@
+{
+  "ticker": "V",
+  "company_name": "Visa Inc.",
+  "business_model": {
+    "model_type": "Payment Network",
+    "description": "결제 네트워크. 거래 건당 수수료. 대출 리스크 없음.",
+    "understandability_score": 9,
+    "reason": "Visa 카드. 결제 네트워크. 매우 단순."
+  },
+  "competitive_advantages": {
+    "moat_strength": "매우 강함",
+    "moat_sustainability": 10,
+    "moat_factors": [
+      {
+        "type": "Network Effects",
+        "strength": 10,
+        "description": "가맹점/카드 많을수록 가치 상승. 양면 시장."
+      },
+      {
+        "type": "Brand",
+        "strength": 10,
+        "description": "Visa = 신용카드. 브랜드 완벽."
+      },
+      {
+        "type": "Duopoly",
+        "strength": 9,
+        "description": "Visa + Mastercard 과점. 경쟁 제한적."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "낮음",
+    "risk_score": 30,
+    "top_3_risks": [
+      "디지털 결제 (Apple Pay, Crypto)",
+      "규제",
+      "중국 진입 불가"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 92,
+    "grade": "A+"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 88,
+      "assessment": "STRONG BUY",
+      "verdict": "자본 필요 거의 없음. FCF 완벽. 안전."
+    },
+    "fisher": {
+      "score": 85,
+      "assessment": "BUY",
+      "verdict": "현금 없는 사회로 전환. 장기 성장."
+    },
+    "greenblatt": {
+      "score": 100,
+      "assessment": "PERFECT",
+      "verdict": "ROIC 무한대에 가까움. 마법공식 1위."
+    },
+    "daily": {
+      "score": 92,
+      "assessment": "MUST OWN",
+      "verdict": "매일 쓰는 Visa 카드. 필수."
+    }
+  }
+}

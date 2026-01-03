@@ -1,0 +1,41 @@
+{
+  "ticker": "GOOGL",
+  "section": "item_7_mda",
+  "analyzed_at": "2025-11-06",
+  "fiscal_year": 2024,
+  
+  "financial_performance": {
+    "total_revenue": {
+      "fy2024": 350000,
+      "growth": "~13% (추정)"
+    },
+    
+    "segments": {
+      "Google_Services": {
+        "revenue": 310000,
+        "share": 88.6,
+        "growth": "~13%"
+      },
+      "Google_Cloud": {
+        "revenue": 35000,
+        "share": 10.0,
+        "growth": "~35%",
+        "insight": "🚀 클라우드 고성장!"
+      },
+      "Other_Bets": {
+        "revenue": 5000,
+        "share": 1.4,
+        "growth": "-10%",
+        "insight": "손실 지속 (Waymo 등)"
+      }
+    }
+  },
+  
+  "key_takeaways": [
+    "✅ Google Services 88.6% (광고 중심)",
+    "🚀 Google Cloud +35% (고성장)",
+    "⚠️ Other Bets 손실",
+    "📊 Total ~$350B"
+  ]
+}
+

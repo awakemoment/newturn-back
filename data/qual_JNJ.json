@@ -1,0 +1,66 @@
+{
+  "ticker": "JNJ",
+  "company_name": "Johnson & Johnson",
+  "business_model": {
+    "model_type": "Healthcare Conglomerate",
+    "description": "의약품, 의료기기. (소비재는 분사)",
+    "understandability_score": 9,
+    "reason": "Band-Aid, Tylenol. 병원 약. 이해 쉬움."
+  },
+  "competitive_advantages": {
+    "moat_strength": "강함",
+    "moat_sustainability": 9,
+    "moat_factors": [
+      {
+        "type": "Brand Trust",
+        "strength": 9,
+        "description": "100년+ 역사. 의료 신뢰도 최고."
+      },
+      {
+        "type": "Diversification",
+        "strength": 8,
+        "description": "수백 제품. 분산 우수."
+      },
+      {
+        "type": "R&D",
+        "strength": 8,
+        "description": "신약 파이프라인 풍부."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "낮음",
+    "risk_score": 35,
+    "top_3_risks": [
+      "특허 만료",
+      "소송 (탈크)",
+      "규제"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 85,
+    "grade": "A"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 90,
+      "assessment": "STRONG BUY",
+      "verdict": "배당 60년+ 연속 증액. 재무 완벽. 디펜시브."
+    },
+    "fisher": {
+      "score": 75,
+      "assessment": "BUY",
+      "verdict": "신약 개발. 성장 안정적. 헬스케어 전망 양호."
+    },
+    "greenblatt": {
+      "score": 82,
+      "assessment": "BUY",
+      "verdict": "ROE 25%+. 우량."
+    },
+    "daily": {
+      "score": 88,
+      "assessment": "BUY",
+      "verdict": "Band-Aid, Tylenol. 집에 다 있음."
+    }
+  }
+}

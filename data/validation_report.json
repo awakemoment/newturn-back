@@ -1,0 +1,100 @@
+{
+  "AAPL": {
+    "ticker": "AAPL",
+    "file_exists": true,
+    "file_size": 116567,
+    "tables_found": 1,
+    "tables": [
+      {
+        "pattern": "net sales by category",
+        "position": 103783,
+        "context": "ales increased during 2025 compared to 2024 primarily due to higher net sales of iPhone, Services and Mac.\nApple Inc. | 2025 Form 10-K | 22\nProducts and Services Performance\nThe following table shows net sales by category for 2025, 2024 and 2023 (dollars in millions):\n2025\nChange\n2024\nChange\n2023\niPhone\n$\n209,586\n4\n%\n$\n201,183\n—\n%\n$\n200,583\nMac\n33,708\n12\n%\n29,984\n2\n%\n29,357\niPad\n28,023\n5\n%\n26,694\n(6)\n%\n28,300\nWearables, Home and Accessories\n35,686\n(4)\n%\n37,005\n(7)\n%\n39,845\nServices\n(1)\n109,158\n1"
+      }
+    ]
+  },
+  "MSFT": {
+    "status": "NO_FILE"
+  },
+  "GOOGL": {
+    "ticker": "GOOGL",
+    "file_exists": true,
+    "file_size": 148831,
+    "tables_found": 0,
+    "tables": []
+  },
+  "AMZN": {
+    "ticker": "AMZN",
+    "file_exists": true,
+    "file_size": 128308,
+    "tables_found": 4,
+    "tables": [
+      {
+        "pattern": "segment information",
+        "position": 2214,
+        "context": "way the Company evaluates its business performance and manages its operations. Information on our net sales is contained in Item 8 of Part II, “Financial Statements and Supplementary Data — Note 10 — Segment Information.”\nConsumers\nWe serve consumers through our online and physical stores and focus on selection, price, and convenience. We design our stores to enable hundreds of millions of unique products to be sold by us and by third parties across dozens of product categories. Customers access"
+      },
+      {
+        "pattern": "segment information",
+        "position": 78875,
+        "context": "allocated among the segments based on usage and primarily relate to facilities that hold our technology infrastructure. See Item 8 of Part II, “Financial Statements and Supplementary Data — Note 10 — Segment Information.”\nWe own and lease our corporate headquarters in Washington’s Puget Sound region and Arlington, Virginia.\nItem 3.\nLegal Proceedings\nSee Item 8 of Part II, “Financial Statements and Supplementary Data — Note 7 — Commitments and Contingencies — Legal Proceedings.”\nItem 4.\nMine Safe"
+      },
+      {
+        "pattern": "segment information",
+        "position": 103371,
+        "context": "nal, and AWS. These segments reflect the way the Company evaluates its business performance and manages its operations. See Item 8 of Part II, “Financial Statements and Supplementary Data — Note 10 — Segment Information.”\nOverview\nMacroeconomic factors, including changes in inflation and interest rates, global economic and geopolitical developments, and the development and adoption of technologies and services, including artificial intelligence, have direct and indirect impacts on our results of"
+      }
+    ]
+  },
+  "NVDA": {
+    "ticker": "NVDA",
+    "file_exists": true,
+    "file_size": 219169,
+    "tables_found": 0,
+    "tables": []
+  },
+  "META": {
+    "ticker": "META",
+    "file_exists": true,
+    "file_size": 346866,
+    "tables_found": 0,
+    "tables": []
+  },
+  "V": {
+    "ticker": "V",
+    "file_exists": true,
+    "file_size": 203153,
+    "tables_found": 0,
+    "tables": []
+  },
+  "PG": {
+    "ticker": "PG",
+    "file_exists": true,
+    "file_size": 162275,
+    "tables_found": 1,
+    "tables": [
+      {
+        "pattern": "segment information",
+        "position": 631,
+        "context": "nsolidated Statements of Shareholders' Equity\n38\nConsolidated Statements of Cash Flows\n39\nNotes to Consolidated Financial Statements\n40\nNote 1:  Summary of Significant Accounting Policies\n40\nNote 2:  Segment Information\n42\nNote 3:  Supplemental Financial Information\n44\nNote 4:  Goodwill and Intangible Assets\n46\nNote 5:  Income Taxes\n48\nNote 6:  Earnings Per Share\n50\nNote 7:  Share-based Compensation\n51\nNote 8:  Postretirement Benefits and Employee Stock Ownership Plan\n53\nNote 9:  Risk Management"
+      }
+    ]
+  },
+  "TSLA": {
+    "ticker": "TSLA",
+    "file_exists": true,
+    "file_size": 191745,
+    "tables_found": 2,
+    "tables": [
+      {
+        "pattern": "segment information",
+        "position": 4270,
+        "context": "ion to sustainable energy. We believe that this mission, along with our engineering expertise, vertically integrated business model and focus on user experience differentiate us from other companies.\nSegment Information\nWe operate as two reportable segments: (i) automotive and (ii) energy generation and storage.\nThe automotive segment includes the design, development, manufacturing, sales and leasing of high-performance fully electric vehicles as well as sales of automotive regulatory credits. A"
+      },
+      {
+        "pattern": "revenue from contracts",
+        "position": 158212,
+        "context": "es related to cash and financing deliveries of new vehicles, and specific other features and services that meet the definition of a performance obligation under Accounting Standards Codification 606,\nRevenue from Contracts with Customers\n(“ASC 606”), including access to our FSD (Supervised) features and their ongoing maintenance, internet connectivity, free Supercharging programs and over-the-air software updates. We recognize revenue on automotive sales upon delivery to the customer, which is w"
+      }
+    ]
+  }
+}

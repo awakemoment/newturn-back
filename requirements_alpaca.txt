@@ -1,0 +1,10 @@
+# Alpaca API - 주식 매매
+alpaca-py>=0.1.0  # 최신 Python SDK (REST API)
+
+# Plaid API - 은행 계좌 연동 및 ACH 전송
+plaid-python>=9.0.0  # Plaid API
+
+# 기타
+python-dotenv>=1.0.0  # 환경변수 관리
+requests>=2.31.0  # HTTP 요청
+

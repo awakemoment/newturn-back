@@ -1,0 +1,66 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA Corporation",
+  "business_model": {
+    "model_type": "GPU + AI Chips",
+    "description": "GPU 설계 및 판매. 게이밍, 데이터센터(AI), 자율주행 칩.",
+    "understandability_score": 7,
+    "reason": "GPU는 알지만 AI칩, CUDA 생태계는 다소 전문적."
+  },
+  "competitive_advantages": {
+    "moat_strength": "매우 강함",
+    "moat_sustainability": 9,
+    "moat_factors": [
+      {
+        "type": "Technology Lead",
+        "strength": 10,
+        "description": "AI 칩 시장 80%+ 점유. 경쟁사 2-3년 뒤처짐."
+      },
+      {
+        "type": "CUDA Ecosystem",
+        "strength": 10,
+        "description": "모든 AI 개발자가 CUDA 사용. 락인 강력."
+      },
+      {
+        "type": "Brand",
+        "strength": 9,
+        "description": "GeForce 브랜드. 게이머 충성도 높음."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "중간",
+    "risk_score": 50,
+    "top_3_risks": [
+      "AI 버블 리스크",
+      "AMD/Intel 경쟁",
+      "중국 수출 규제"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 88,
+    "grade": "A+"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 60,
+      "assessment": "HOLD",
+      "verdict": "밸류에이션 매우 높음 (PER 60+). 안전마진 부족."
+    },
+    "fisher": {
+      "score": 98,
+      "assessment": "STRONG BUY",
+      "verdict": "AI 혁명 선도. 기술력 압도적. 성장 전망 최상."
+    },
+    "greenblatt": {
+      "score": 85,
+      "assessment": "BUY",
+      "verdict": "ROIC 매우 높지만 밸류에이션 부담."
+    },
+    "daily": {
+      "score": 80,
+      "assessment": "BUY",
+      "verdict": "RTX 그래픽카드. 게이머라면 필수. AI는 복잡."
+    }
+  }
+}

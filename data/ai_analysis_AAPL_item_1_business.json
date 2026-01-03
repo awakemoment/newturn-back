@@ -1,0 +1,161 @@
+{
+  "ticker": "AAPL",
+  "section": "item_1_business",
+  "analyzed_at": "2025-11-06",
+  
+  "business_model": {
+    "products": [
+      {
+        "name": "iPhone",
+        "revenue_share": "~50%",
+        "description": "스마트폰 라인. iPhone 17 Pro, iPhone Air, iPhone 17, iPhone 16, iPhone 16e 포함. iOS 기반."
+      },
+      {
+        "name": "Mac",
+        "revenue_share": "~8%",
+        "description": "개인용 컴퓨터 라인. macOS 기반. MacBook Air, MacBook Pro (노트북), iMac, Mac mini, Mac Studio, Mac Pro (데스크탑) 포함."
+      },
+      {
+        "name": "iPad",
+        "revenue_share": "~7%",
+        "description": "태블릿 라인. iPadOS 기반. iPad Pro, iPad Air, iPad, iPad mini 포함."
+      },
+      {
+        "name": "Wearables, Home and Accessories",
+        "revenue_share": "~9%",
+        "description": "스마트워치(Apple Watch Series 11, SE 3, Ultra 3), 무선 헤드폰(AirPods, AirPods Pro, AirPods Max, Beats), 공간 컴퓨터(Apple Vision Pro), 홈 기기(Apple TV 4K, HomePod), 액세서리"
+      },
+      {
+        "name": "Services",
+        "revenue_share": "~26%",
+        "description": "광고, AppleCare, 클라우드 서비스, 디지털 콘텐츠(App Store, Apple Arcade, Apple Fitness+, Apple Music, Apple News+, Apple TV+), 결제 서비스(Apple Card, Apple Pay)"
+      }
+    ],
+    "revenue_model": [
+      "제품 판매 (Hardware)",
+      "서비스 수수료 (App Store 등)",
+      "구독 (Apple Music, iCloud, Apple TV+ 등)",
+      "광고",
+      "결제 수수료 (Apple Pay)",
+      "보험 및 지원 서비스 (AppleCare)"
+    ],
+    "target_customers": [
+      "소비자 (Consumer)",
+      "중소기업 (SMB)",
+      "교육 기관 (Education)",
+      "기업 (Enterprise)",
+      "정부 (Government)"
+    ],
+    "differentiation": [
+      "완전 통합 생태계 (하드웨어 + OS + 소프트웨어 + 서비스)",
+      "디자인 및 기술 혁신",
+      "프리미엄 브랜드 포지셔닝",
+      "강력한 서드파티 생태계",
+      "보안 기능",
+      "Apple University 등 내부 인재 육성",
+      "지식재산권 포트폴리오"
+    ],
+    "changes": [
+      "Services 비중 확대 (~26%, 지속 성장 중)",
+      "Apple Vision Pro 출시 (공간 컴퓨팅 진입)",
+      "직접 판매 40% vs 간접 유통 60% (셀룰러 통신사, 리셀러 등)"
+    ]
+  },
+  
+  "competition": {
+    "competitors": [
+      {
+        "name": "명시되지 않음 (문서에서 구체적 경쟁사 이름 없음)",
+        "market_share": "N/A",
+        "strength": "적극적 가격 경쟁, 낮은 비용 구조, Apple 제품 모방, 넓은 제품 라인, 대규모 설치 기반, 이익 없이 또는 손실로 제품 제공 가능"
+      }
+    ],
+    "our_market_share": "minority (소수) - 글로벌 스마트폰, PC, 태블릿, 웨어러블 시장",
+    "competitive_advantages": [
+      "지속적이고 시기적절한 혁신 제품/서비스/기술 출시",
+      "전체 솔루션 설계 (하드웨어 + OS + 소프트웨어 + 서비스)",
+      "제품 및 서비스 품질과 신뢰성",
+      "디자인 및 기술 혁신",
+      "강력한 서드파티 소프트웨어 및 액세서리 생태계",
+      "마케팅 및 유통 역량",
+      "기업 평판",
+      "지식재산권 보호 및 집행 능력"
+    ],
+    "competitive_weaknesses": [
+      "소수 시장 점유율 → 개발자들이 Apple 플랫폼 우선순위 낮출 가능성",
+      "경쟁사들의 적극적 가격 인하 및 마진 축소",
+      "일부 시장 성장 정체 또는 축소"
+    ],
+    "market_trends": [
+      "적극적 가격 경쟁",
+      "총마진 하향 압력",
+      "제품 성능 지속적 개선",
+      "소비자 및 기업의 가격 민감도",
+      "신제품/서비스 빈번한 출시",
+      "짧은 제품 수명 주기",
+      "진화하는 산업 표준",
+      "경쟁사의 빠른 기술 채택",
+      "경쟁사들이 Apple 제품 기능 모방 및 통합 솔루션 제공 증가"
+    ]
+  },
+  
+  "supply_chain": {
+    "key_suppliers": [
+      {
+        "name": "명시되지 않음",
+        "role": "대부분 부품은 다수 공급원, 일부 부품은 단일 또는 제한된 공급원",
+        "dependency": "일부 부품 sole/limited source"
+      },
+      {
+        "name": "커스텀 부품 공급업체",
+        "role": "Apple만 사용하는 커스텀 부품 제조 (경쟁사 미사용)",
+        "dependency": "신제품 출시 시 종종 단일 공급원 (sole source)"
+      }
+    ],
+    "risks": [
+      "단일/제한 공급원 부품 존재",
+      "스마트폰, PC, 태블릿, 웨어러블 시장 참여자들과 부품 경쟁",
+      "산업 전반 부품 부족 (industry-wide shortage)",
+      "원자재 가격 변동 (commodity pricing fluctuations)",
+      "국제 무역 제한 → 비용 증가 및 부품/희토류/원자재 가용성 제한",
+      "신기술 사용 시 초기 생산 용량 제약 (suppliers' yields 성숙 또는 제조 용량 증가 필요)",
+      "공급 계약 연장/갱신 실패 가능성",
+      "공급업체 파산, 통폐합, 또는 일반 부품 생산으로 전환 가능성"
+      ],
+    "manufacturing_strategy": "자체 설계 + 외주 제조 (공급업체와 계약)",
+    "investments": [
+      "R&D 지속 투자 (신제품/서비스 기술 개발)",
+      "지식재산권 라이선싱",
+      "제3자 비즈니스 및 기술 인수"
+    ],
+    "financial_impact": "명시되지 않음 (구체적 금액 없음)"
+  },
+  
+  "additional_insights": {
+    "geographic_segments": [
+      "Americas (북미 + 남미)",
+      "Europe (유럽 + 인도 + 중동 + 아프리카)",
+      "Greater China (중국 본토 + 홍콩 + 대만)",
+      "Japan",
+      "Rest of Asia Pacific (호주, 뉴질랜드 등)"
+    ],
+    "distribution": {
+      "direct": "40% (Apple 리테일 스토어, 온라인 스토어, 직접 영업)",
+      "indirect": "60% (셀룰러 통신사, 리셀러 등)"
+    },
+    "seasonality": "1분기 (10~12월) 매출 높음 (계절적 휴일 수요)",
+    "employees": "약 166,000명 (2025년 9월 27일 기준)",
+    "ip_strategy": "특허, 디자인, 저작권, 상표, 영업비밀 등 광범위한 지식재산권 보유. 수천 건의 출원 진행 중. 단일 지식재산권이 아닌 포트폴리오로 보호."
+  },
+  
+  "key_takeaways": [
+    "✅ Services 비중 26% (고마진 반복 수익, 지속 성장)",
+    "✅ 완전 통합 생태계가 핵심 차별화",
+    "⚠️ 소수 시장 점유율 (minority) - 스마트폰/PC/태블릿/웨어러블",
+    "⚠️ 공급망 리스크: 일부 부품 sole source, 국제 무역 제한",
+    "⚠️ 경쟁 심화: 가격 경쟁, 모방, 통합 솔루션 제공 업체 증가",
+    "🆕 Apple Vision Pro 출시 (공간 컴퓨팅 시장 진입)",
+    "📊 간접 유통 60% vs 직접 40%"
+  ]
+}
+

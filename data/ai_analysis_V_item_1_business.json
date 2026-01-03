@@ -1,0 +1,122 @@
+{
+  "ticker": "V",
+  "section": "item_1_business",
+  "analyzed_at": "2025-11-06",
+  
+  "business_model": {
+    "purpose": "모두를 위한 최고의 결제 방법이 되어 모든 사람을 향상시킴",
+    "model": "4-party 모델 (소비자 - 가맹점 - 매입은행 - 발급은행)",
+    "role": "결제 네트워크 (카드 발급 안 함, 신용 제공 안 함, 수수료 설정 안 함)",
+    
+    "scale": {
+      "transactions_2024": "303B (일평균 829M)",
+      "processed_by_visa": "234B",
+      "payment_volume": "$16T",
+      "credentials": "4.6B 계정",
+      "merchant_locations": "150M+",
+      "countries": "200+ 국가/지역",
+      "financial_institutions": "14,500개"
+    },
+    
+    "revenue_streams": [
+      {
+        "name": "Service Revenue",
+        "description": "Visa 결제 서비스 사용 지원",
+        "share": "~50%"
+      },
+      {
+        "name": "Data Processing Revenue",
+        "description": "승인, 청산, 정산, 리스크/ID 솔루션, 네트워크 접근",
+        "share": "~36%"
+      },
+      {
+        "name": "International Transaction Revenue",
+        "description": "국경 간 거래 처리 및 환전",
+        "share": "~28%"
+      },
+      {
+        "name": "Other Revenue",
+        "description": "부가 서비스, 브랜드 라이선스, 카드 혜택",
+        "share": "~5%"
+      }
+    ],
+    
+    "note": "합계 >100% (중복 카테고리, Client Incentives 차감 전)",
+    
+    "products": {
+      "core": [
+        "Credit (신용카드/디지털 크레덴셜)",
+        "Debit (직불카드, PLUS ATM 네트워크)",
+        "Prepaid (선불카드 - 급여, 정부 지원금, 선물)"
+      ],
+      
+      "enablers": [
+        "Tap to Pay (비접촉 결제, 125개국 50%+ 점유)",
+        "Tokenization (VTS, 11.5B 토큰)",
+        "Click to Pay (온라인 간편 결제)"
+      ],
+      
+      "new_flows": [
+        "Visa Commercial Solutions (B2B, $145T TAM)",
+        "Visa Direct (P2P, B2C, G2C, $55T TAM, 10B 거래, 11B 엔드포인트)",
+        "Visa B2B Connect (국경 간 B2B, 100개국)",
+        "Visa+ (P2P 앱 간 상호운용성)",
+        "Currencycloud (실시간 FX)"
+      ],
+      
+      "value_added_services": [
+        "Issuing Solutions (Visa DPS, Pismo 인수)",
+        "Acceptance Solutions (Cybersource, Authorize.net)",
+        "Risk & Identity Solutions (사기 방지)",
+        "Open Banking Solutions",
+        "Advisory Services"
+      ]
+    }
+  },
+  
+  "strategy": {
+    "focus": [
+      "Consumer Payments ($20T TAM 전환 - 현금, 수표, ACH → 카드)",
+      "New Flows ($200T TAM - P2P, B2B, B2C, G2C)",
+      "Value-Added Services (200+ 제품/서비스)"
+    ]
+  },
+  
+  "competitive_advantages": [
+    "글로벌 네트워크 (200+ 국가, 150M 가맹점)",
+    "4.6B 크레덴셜 (카드 계정)",
+    "VisaNet 안정성 및 속도",
+    "네트워크 효과 (양면 시장)",
+    "자본 거의 불필요 (ROIC 무한대급)",
+    "브랜드 파워 (Visa)",
+    "11.5B 토큰 (보안 리더십)",
+    "Pismo 인수 (2024, 클라우드 네이티브 발급 플랫폼)"
+  ],
+  
+  "competition": {
+    "competitors": [
+      "Mastercard (결제 네트워크 과점)",
+      "American Express",
+      "Discover",
+      "PayPal, Venmo (P2P)",
+      "Stripe, Adyen (결제 게이트웨이)",
+      "국내 결제 시스템 (중국 UnionPay, 인도 UPI 등)",
+      "디지털 지갑 (Apple Pay, Google Pay, Alipay, WeChat Pay)"
+    ],
+    "market_share": "Visa + Mastercard ~80% (과점)",
+    "threat": "디지털 결제, 블록체인, CBDC (중앙은행 디지털 화폐)"
+  },
+  
+  "key_takeaways": [
+    "✅ 거래량 $14.3T/년 (압도적 규모)",
+    "✅ 과점 시장 (Visa+MC 80%)",
+    "✅ 자본 필요 거의 없음 (ROIC 무한대급)",
+    "✅ TAM $220T (소비자 $20T + 신규 플로우 $200T)",
+    "✅ 11.5B 토큰 (보안 리더)",
+    "✅ Pismo 인수 (2024, 클라우드 발급 플랫폼)",
+    "⚠️ 디지털 결제 장기 리스크 (Apple Pay, PayPal 등)",
+    "⚠️ 규제 리스크 (독점 우려)",
+    "📊 베니 1위 추천! (FCF 완벽, ROIC 무한대급)"
+  ]
+}
+

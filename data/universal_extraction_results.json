@@ -1,0 +1,1627 @@
+{
+  "AAPL": {
+    "ticker": "AAPL",
+    "extracted": {
+      "competitors": [
+        {
+          "matched": "minority market share",
+          "context": "ctures to provide products and services at little or no profit or even at a loss. The Company has a minority market share in the global smartphone, personal computer, tablet and wearables markets, and some of the markets",
+          "position": 10447
+        },
+        {
+          "matched": "minority market share",
+          "context": "ctures to provide products and services at little or no profit or even at a loss. The Company has a minority market share in the global smartphone, personal computer, tablet and wearables markets, and some of the markets",
+          "position": 33224
+        },
+        {
+          "matched": "minority market share",
+          "context": "growth of product sales, and the costs of developing such applications and services.\nThe Company’s minority market share in the global smartphone, personal computer, tablet and wearables markets can make developers less",
+          "position": 46642
+        },
+        {
+          "keyword": "Intel",
+          "context": "tors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company’s products and infringing on its intellectual property.",
+          "position": 8182
+        },
+        {
+          "keyword": "Intel",
+          "context": "m, marketing and distribution capability, service and support, corporate reputation, and the ability to effectively protect and enforce the Company’s intellectual property rights.",
+          "position": 9042
+        },
+        {
+          "keyword": "Intel",
+          "context": "chnologies to enhance existing products and services, and to expand the range of its offerings through research and development (“R&D”), licensing of intellectual property and acquisition of third-party businesses and technology.",
+          "position": 12909
+        },
+        {
+          "keyword": "Intel",
+          "context": "d is currently pursuing thousands of applications around the world. Over time, the Company has accumulated a large portfolio of issued and registered intellectual property rights around the world. No single intellectual property right is solely responsible for protecting the Company’s products and servic",
+          "position": 13982
+        },
+        {
+          "keyword": "Intel",
+          "context": "The Company’s ability to compete successfully also depends on the effective protection and enforcement of its intellectual property rights. Regulatory requirements, government investigations and litigation can force the Company to withdraw from, or modify its produ",
+          "position": 30701
+        },
+        {
+          "keyword": "Intel",
+          "context": "tors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company’s products and infringing on its intellectual property. Effective intellectual property protection is not consistently available in every country in which the Company operates. If the Comp",
+          "position": 31617
+        },
+        {
+          "keyword": "Intel",
+          "context": "rvices have not performed as anticipated and may not meet customer expectations. The introduction of new and complex technologies, such as artificial intelligence features, can increase these and other safety risks, including exposing users to harmful, inaccurate or other negative content and experiences",
+          "position": 40920
+        }
+      ],
+      "market_share": [
+        {
+          "matched": "10% of",
+          "context": "n that there has been a violation, it can issue a cease and desist order and may impose fines up to 10% of the Company’s annual worldwide net sales. The Commission may also seek to impose additional fines i",
+          "position": 91739
+        }
+      ],
+      "product_roadmap": [
+        {
+          "matched": "new products and services",
+          "context": "sinesses. The markets in which the Company competes are further defined by frequent introduction of new products and services, short product life cycles, evolving industry standards, and rapid adoption of technological advanc",
+          "position": 8005
+        },
+        {
+          "matched": "new products",
+          "context": "mpete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace. The Company designs and develops nearly the entire s",
+          "position": 8514
+        },
+        {
+          "matched": "new products introduced by the Company often utilize custom components available from only one source",
+          "context": "to them.\nThe Company uses some custom components that are not commonly used by its competitors, and new products introduced by the Company often utilize custom components available from only one source. When a component or product uses new technologies, initial capacity constraints may exist until th",
+          "position": 11520
+        },
+        {
+          "matched": "new product and service introductions can significantly impact net sales",
+          "context": "compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. The timing of product introductions can also impact the Comp",
+          "position": 15229
+        },
+        {
+          "matched": "new products and development of new services",
+          "context": "the supply of current products and offering of existing services, and delays in production ramps of new products and development of new services.\nApple Inc. | 2025 Form 10-K | 6\nFollowing any interruption to its business, the Company can requir",
+          "position": 28676
+        },
+        {
+          "matched": "new products and services",
+          "context": "the part of consumers and businesses. These markets are further defined by frequent introduction of new products and services, short product life cycles, evolving industry standards, and rapid adoption of technological advanc",
+          "position": 29995
+        },
+        {
+          "matched": "new products and services successfully",
+          "context": "investments may not achieve expected returns, and the Company may not be able to develop and market new products and services successfully.\nThe Company’s ability to compete successfully also depends on the effective protection and enforce",
+          "position": 30661
+        },
+        {
+          "matched": "new products with attractive margins or if competitors infringe on the Company",
+          "context": "in which the Company operates. If the Company is unable to continue to develop and sell innovative new products with attractive margins or if competitors infringe on the Company’s intellectual property, the Company’s ability to maintain a competitive advantage could be materia",
+          "position": 31979
+        },
+        {
+          "matched": "new products",
+          "context": "of the markets and industries in which the Company competes, the Company must continually introduce new products, services and technologies, enhance existing products and services, effectively stimulate customer",
+          "position": 33978
+        },
+        {
+          "matched": "new products",
+          "context": "te on its strategic initiatives, and the timely and successful development and market acceptance of new products, services and technologies. Success also relies on the Company’s ability to manage the risks associ",
+          "position": 34572
+        }
+      ],
+      "supply_chain": [],
+      "management_guidance": [
+        {
+          "keyword": "expect",
+          "context": "under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For ex",
+          "position": 1265
+        },
+        {
+          "keyword": "expect",
+          "context": "on as competitors imitate the Company’s product features and applications within their products to offer more competitive solutions. The Company also expects competition to intensify as competitors imitate the Company’s approach to providing components seamlessly within their offerings or work collaborati",
+          "position": 9679
+        },
+        {
+          "keyword": "expect",
+          "context": "for protecting the Company’s products and services. The Company believes the duration of its intellectual property rights is adequate relative to the expected lives of its products and services.",
+          "position": 14239
+        },
+        {
+          "keyword": "expect",
+          "context": "rous software applications and related services. As a result, the Company must make significant investments in R&D. These investments may not achieve expected returns, and the Company may not be able to develop and market new products and services successfully.",
+          "position": 30439
+        },
+        {
+          "keyword": "expect",
+          "context": "on as competitors imitate the Company’s product features and applications within their products to offer more competitive solutions. The Company also expects competition to intensify as competitors imitate the Company’s approach to providing components seamlessly within their offerings or work collaborati",
+          "position": 32456
+        },
+        {
+          "keyword": "expect",
+          "context": "nts and the management of inventory levels in line with anticipated product demand, and the availability of products in appropriate quantities and at expected costs to meet anticipated demand. Additionally, quality issues or other defects or deficiencies can adversely affect the success of new product and",
+          "position": 35057
+        },
+        {
+          "keyword": "expect",
+          "context": "d manufacturing defects. Sophisticated operating system software and applications, such as those offered by the Company, often have issues that can unexpectedly interfere with the intended operation of hardware or software products and services. Defects can also exist in components and products the Compan",
+          "position": 40146
+        },
+        {
+          "keyword": "expect",
+          "context": "tages, service slowdowns or errors. As a result, from time to time the Company’s services have not performed as anticipated and may not meet customer expectations. The introduction of new and complex technologies, such as artificial intelligence features, can increase these and other safety risks, includi",
+          "position": 40837
+        },
+        {
+          "keyword": "expect",
+          "context": "ms. This analysis may be based on factors such as the market position of the Company and its products, the anticipated revenue that may be generated, expected future growth of product sales, and the costs of developing such applications and services.",
+          "position": 46377
+        },
+        {
+          "keyword": "expect",
+          "context": "ips, and expose the Company to litigation or government investigations, potentially resulting in penalties, fines or judgments. Globally, attacks are expected to continue accelerating in both frequency and sophistication with increasing use by actors of tools and techniques that are designed to circumvent",
+          "position": 55664
+        }
+      ],
+      "customer_concentration": [],
+      "geopolitical_impact": [
+        {
+          "matched": "trade restrictions, their overall magnitude and duration, and retaliatory actions in response; and the introduction of new products or services, including new products or services with lower profit margins. These and other factors could have a materially adverse impact",
+          "context": "; inflation and other macroeconomic pressures; the imposition of new or increased tariffs and other trade restrictions, their overall magnitude and duration, and retaliatory actions in response; and the introduction of new products or services, including new products or services with lower profit margins. These and other factors could have a materially adverse impact on the Company’s results of operations, financial condition and stock price. Further, the Company g",
+          "position": 78724
+        },
+        {
+          "matched": "export controls, among others, can materially adversely affect",
+          "context": "s strategic initiatives. Laws and regulations, including immigration, labor and employment laws and export controls, among others, can materially adversely affect the Company’s ability to recruit and retain a highly skilled, global workforce. If the Company does",
+          "position": 50272
+        },
+        {
+          "keyword": "tariff",
+          "context": "te to any historical or current fact. For example, statements in this Form 10-K regarding the potential future impact of macroeconomic conditions and tariffs and other measures on the Company’s business and results of operations are forward-looking statements. Forward-looking statements can also be identi",
+          "position": 1527
+        },
+        {
+          "keyword": "tariff",
+          "context": "outh Korea, Taiwan and Vietnam, in addition to sourcing from partners and facilities located in the U.S. Restrictions on international trade, such as tariffs and other controls on imports or exports of goods, technology or data, can materially adversely affect the Company’s business and supply chain. The",
+          "position": 23231
+        },
+        {
+          "keyword": "tariff",
+          "context": "ntrated, and an escalation of geopolitical tensions or conflict could result in significant disruptions. Beginning in the second quarter of 2025, new tariffs were announced on imports to the U.S. (“U.S. Tariffs”), including additional tariffs on imports from China, India, Japan, South Korea, Taiwan, Vietn",
+          "position": 25041
+        },
+        {
+          "keyword": "tariff",
+          "context": "made in the future, which may include additional sector-based tariffs or other measures. For example, the U.S. Department of Commerce has initiated an investigation under Section 232 of the Trade Expansion Act of 1962,",
+          "position": 25632
+        },
+        {
+          "keyword": "tariff",
+          "context": "Tariffs and Other Measures",
+          "position": 100546
+        },
+        {
+          "keyword": "tariff",
+          "context": "s of semiconductors, semiconductor manufacturing equipment, and their derivative products, including downstream products that contain semiconductors. Tariffs and other measures that are applied to the Company’s products or their components can have a material adverse impact on the Company’s business, resu",
+          "position": 101268
+        },
+        {
+          "keyword": "tariff",
+          "context": "Products gross margin increased during 2025 compared to 2024 primarily due to favorable costs and a different mix of products, partially offset by tariff costs.",
+          "position": 105485
+        },
+        {
+          "keyword": "China",
+          "context": "The Company manages its business primarily on a geographic basis. The Company’s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle Eas",
+          "position": 6070
+        }
+      ],
+      "rd_focus": [
+        {
+          "keyword": "AI",
+          "context": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+          "position": 586
+        },
+        {
+          "keyword": "AI",
+          "context": "and Analysis of Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Form 10-K reg",
+          "position": 1308
+        },
+        {
+          "keyword": "AI",
+          "context": "is the Company’s line of smartphones based on its iOS operating system. The iPhone line includes iPhone 17 Pro, iPhone Air™, iPhone 17, iPhone 16 and iPhone 16e.",
+          "position": 3256
+        },
+        {
+          "keyword": "AI",
+          "context": ", iPad Air",
+          "position": 3785
+        },
+        {
+          "keyword": "AI",
+          "context": "brand. The offerings provide priority access to Apple technical support, access to the global Apple authorized service network for repair and replacement services, and in many cases additional coverage for instances of accidental damage or theft and loss, depending on the country and t",
+          "position": 4841
+        },
+        {
+          "keyword": "AI",
+          "context": "ncludes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia, New Zealand and those Asian countries not included in the Company’s other report",
+          "position": 6260
+        },
+        {
+          "keyword": "AI",
+          "context": "government markets. The Company sells its products and resells third-party products in most of its major markets directly to customers through its retail and online stores and its direct sales force. The Company sells its services in the same markets through its various service platforms. The Company",
+          "position": 6991
+        },
+        {
+          "keyword": "AI",
+          "context": "ces, and large customer bases. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain competitors have the resources, experience or cost structures to provide products and services at little or no profit or even at a loss. The Company",
+          "position": 10138
+        },
+        {
+          "keyword": "AI",
+          "context": "Although most components essential to the Company’s business are generally available from multiple sources, certain components are currently obtained from single or limited sources. The Company also competes for various components with other participants in the markets for smartphones, personal",
+          "position": 10697
+        },
+        {
+          "keyword": "AI",
+          "context": "nal trade can increase the cost or limit the availability of the Company’s products and the components and rare earths and other raw materials that go into them.",
+          "position": 11267
+        }
+      ],
+      "ma_activity": [],
+      "restructuring": []
+    }
+  },
+  "META": {
+    "ticker": "META",
+    "extracted": {
+      "competitors": [
+        {
+          "matched": "compete with companies providing connection, sharing, discovery, and communication products and services to users online, as well as companies that sell advertising to businesses looking to reach consumers and",
+          "context": "petition\nOur business is characterized by innovation, rapid change, and disruptive technologies. We compete with companies providing connection, sharing, discovery, and communication products and services to users online, as well as companies that sell advertising to businesses looking to reach consumers and/or develop tools and systems for managing and optimizing advertising campaigns. We face significant",
+          "position": 21618
+        },
+        {
+          "matched": "compete with companies that develop and deliver consumer hardware and augmented, mixed, and virtual reality products and services",
+          "context": "t and retain developers who build compelling applications that integrate with our products. We also compete with companies that develop and deliver consumer hardware and augmented, mixed, and virtual reality products and services. We also expect to face additional competition as we introduce or acquire new products, as our exis",
+          "position": 22474
+        },
+        {
+          "matched": "compete with companies providing connection, sharing, discovery, and communication products and services to users online, as well as companies that sell advertising to businesses looking to reach consumers and",
+          "context": "ss is highly competitive. Competition presents an ongoing threat to the success of our business.\nWe compete with companies providing connection, sharing, discovery, and communication products and services to users online, as well as companies that sell advertising to businesses looking to reach consumers and/or develop tools and systems for managing and optimizing advertising campaigns. We face significant",
+          "position": 102948
+        },
+        {
+          "matched": "compete with companies that develop and deliver consumer hardware and augmented, mixed, and virtual reality products and services",
+          "context": "t and retain developers who build compelling applications that integrate with our products. We also compete with companies that develop and deliver consumer hardware and augmented, mixed, and virtual reality products and services. We also expect to face additional competition as we introduce or acquire new products, as our exis",
+          "position": 103825
+        },
+        {
+          "matched": "compete with our business",
+          "context": "ssurance that others will not offer products or concepts that are substantially similar to ours and compete with our business. In addition, we regularly contribute software source code under open source and other permissive l",
+          "position": 227916
+        },
+        {
+          "matched": "advertising market share",
+          "context": "onstrate the value of our ads to marketers, or our ability to further improve such tools;\n•\nloss of advertising market share to our competitors, including if prices to purchase our ads increase or if competitors offer lower",
+          "position": 69511
+        },
+        {
+          "keyword": "Intel",
+          "context": "Across our work, we are innovating in artificial intelligence (AI) technologies to build new experiences that help make our platform more social, useful, and immersive. Our AI investments support initiati",
+          "position": 13788
+        },
+        {
+          "keyword": "Intel",
+          "context": "Intellectual Property",
+          "position": 26277
+        },
+        {
+          "keyword": "Intel",
+          "context": "protection and personal information, the provision of our services to younger users, biometrics, encryption, rights of publicity, content, integrity, intellectual property, advertising, marketing, distribution, data security, data retention and deletion, data localization and storage, data disclosure, AI",
+          "position": 27380
+        },
+        {
+          "keyword": "Intel",
+          "context": "ata Privacy Framework (EU-U.S. DPF). On October 7, 2022, President Biden signed the Executive Order on Enhancing Safeguards for United States Signals Intelligence Activities (E.O.), and on June 30, 2023, the European Union and the three additional countries making up the EEA were designated by the United",
+          "position": 32605
+        }
+      ],
+      "market_share": [
+        {
+          "matched": "3% of",
+          "context": "metrics to vary from period to period, we estimate that such margin generally will be approximately 3% of our worldwide DAP. At our scale, it is very difficult to attribute multiple user accounts within an",
+          "position": 7394
+        },
+        {
+          "matched": "3% of",
+          "context": "rms of service, including bots and spam. In the fourth quarter of 2024, we estimated that less than 3% of our worldwide DAP consisted solely of violating accounts. Such estimation is based on an internal r",
+          "position": 10530
+        },
+        {
+          "matched": "79% of",
+          "context": "pacity.\nThe majority of our investments are directed toward developing our family of apps. In 2024, 79% of our total costs and expenses were recognized in FoA and 21% were recognized in RL. Our FoA investme",
+          "position": 15576
+        },
+        {
+          "matched": "50% of",
+          "context": "nger-term research and development projects. For example, in 2025, we expect to spend approximately 50% of our Reality Labs operating expenses on our wearables initiatives, and the remaining 50% on our meta",
+          "position": 20923
+        },
+        {
+          "matched": "3% of",
+          "context": "metrics to vary from period to period, we estimate that such margin generally will be approximately 3% of our worldwide DAP. At our scale, it is very difficult to attribute multiple user accounts within an",
+          "position": 132435
+        },
+        {
+          "matched": "3% of",
+          "context": "rms of service, including bots and spam. In the fourth quarter of 2024, we estimated that less than 3% of our worldwide DAP consisted solely of violating accounts. Such estimation is based on an internal r",
+          "position": 135572
+        },
+        {
+          "matched": "9.1% of",
+          "context": "d to our stockholders for approval so long as the shares of Class B common stock represent at least 9.1% of all outstanding shares of our Class A and Class B common stock. This concentrated control will limi",
+          "position": 236803
+        },
+        {
+          "matched": "35% of",
+          "context": "ntil the first date on which the outstanding shares of our Class B common stock represent less than 35% of the combined voting power of our common stock, any transaction that would result in a change in con",
+          "position": 239611
+        },
+        {
+          "matched": "79% of",
+          "context": "ating efficiency, while still remaining focused on investing in significant opportunities. In 2024, 79% of our total costs and expenses were recognized in FoA and 21% were recognized in RL. Our FoA investme",
+          "position": 299228
+        },
+        {
+          "matched": "3% of",
+          "context": "timates to vary from period to period, we estimate that such margin generally will be approximately 3% of our worldwide DAP. At our scale, it is very difficult to attribute multiple user accounts within an",
+          "position": 304903
+        }
+      ],
+      "product_roadmap": [
+        {
+          "matched": "new products",
+          "context": "ity products and services. We also expect to face additional competition as we introduce or acquire new products, as our existing products evolve, or as other companies introduce new products and services, includ",
+          "position": 22678
+        },
+        {
+          "matched": "new products as well as new features for existing products",
+          "context": "ertising tools and improve our ad delivery, targeting, and measurement capabilities, and to develop new products as well as new features for existing products.\nWe also believe in the power of open source innovation and have released our Llama models, consist",
+          "position": 24416
+        },
+        {
+          "matched": "new products",
+          "context": "litical law compliance, securities law compliance, and online payment services. The introduction of new products, expansion of our activities in certain jurisdictions, or other actions that we may take may subjec",
+          "position": 28077
+        },
+        {
+          "matched": "new products",
+          "context": "ing systems or changes in our relationships with mobile operating system partners;\n•\nfailure of our new products, or changes to our existing products, to attract or retain users or generate revenue;\nRisks Related",
+          "position": 54610
+        },
+        {
+          "matched": "new products or services",
+          "context": "e fail to introduce new features, products, or services that users find engaging or if we introduce new products or services, or make changes to existing products and services, that are not favorably received;\n•\nusers feel t",
+          "position": 59769
+        },
+        {
+          "matched": "new products and changes to existing products could fail to attract or retain users or generate revenue and profits",
+          "context": "devices, which may in turn materially and adversely affect our business and financial results.\nOur new products and changes to existing products could fail to attract or retain users or generate revenue and profits, or otherwise adversely affect our business.\nOur ability to retain, increase, and engage our user b",
+          "position": 82892
+        },
+        {
+          "matched": "new products or changes to existing products fail to engage users",
+          "context": "of default end-to-end encryption on Messenger for all Nevada residents under the age of 18.\nIf our new products or changes to existing products fail to engage users, marketers, or developers, or if our business plans are unsuccessful, we may fail to attract or ret",
+          "position": 84927
+        },
+        {
+          "matched": "new products",
+          "context": "ther things, recommend relevant content across our products, enhance our advertising tools, develop new products, and develop new features for existing products. In particular, we expect our AI initiatives will r",
+          "position": 85581
+        },
+        {
+          "matched": "new products",
+          "context": "reliable, trustworthy, and innovative products, which we may not do successfully. We may introduce new products, terms of service, or policies that users do not like, which may negatively affect our brands. Addi",
+          "position": 96986
+        },
+        {
+          "matched": "new products",
+          "context": "ity products and services. We also expect to face additional competition as we introduce or acquire new products, as our existing products evolve, or as other companies introduce new products and services, includ",
+          "position": 104029
+        }
+      ],
+      "supply_chain": [],
+      "management_guidance": [
+        {
+          "matched": "expect to spend approximately 50%",
+          "context": "e primarily directed toward longer-term research and development projects. For example, in 2025, we expect to spend approximately 50% of our Reality Labs operating expenses on our wearables initiatives, and the remaining 50% on our m",
+          "position": 20893
+        },
+        {
+          "matched": "expect our effective tax rate for the full year 2025 to be in the range of 12-15%",
+          "context": "ice remains constant to the January 24, 2025 price, and absent any changes to our tax landscape, we expect our effective tax rate for the full year 2025 to be in the range of 12-15%. This includes the effects of the mandatory capitalization and amortization of research and develop",
+          "position": 334430
+        },
+        {
+          "keyword": "expect",
+          "context": "bjectives for future operations, are forward-looking statements. The words \"believe,\" \"may,\" \"will,\" \"estimate,\" \"continue,\" \"anticipate,\" \"intend,\" \"expect,\" and similar expressions are intended to identify forward-looking statements. We have based these forward-looking statements largely on our current",
+          "position": 1297
+        },
+        {
+          "keyword": "expect",
+          "context": "ential error in our Family metrics primarily based on user survey data as described further below, which itself is subject to error as well. While we expect the error margin for our Family metrics to vary from period to period, we estimate that such margin generally will be approximately 3% of our worldwi",
+          "position": 7105
+        },
+        {
+          "keyword": "expect",
+          "context": "in 2024 and include expenses relating to headcount and technology development across these efforts. These are fundamentally new technologies that we expect will evolve as the next computing platform develops, and many products may only be fully realized in the next decade. Although it is inherently diffi",
+          "position": 16159
+        },
+        {
+          "keyword": "expect",
+          "context": "rm is dependent on generating sufficient profits from other areas of our business. We expect this will be a complex, evolving, and long-term initiative. We are investing now because we believe this is the next chapter of the internet and will",
+          "position": 16695
+        },
+        {
+          "keyword": "expect",
+          "context": "s. We also compete with companies that develop and deliver consumer hardware and augmented, mixed, and virtual reality products and services. We also expect to face additional competition as we introduce or acquire new products, as our existing products evolve, or as other companies introduce new products",
+          "position": 22463
+        },
+        {
+          "keyword": "expect",
+          "context": "dent on any single patent or copyright or groups of related patents or copyrights. We believe the duration of our patents is adequate relative to the expected lives of our products.",
+          "position": 26827
+        },
+        {
+          "keyword": "expect",
+          "context": "which are expected to be less relevant and effective than our premium ad offerings. These or any similar developments in the future may negatively impact our user gro",
+          "position": 39085
+        },
+        {
+          "keyword": "expect",
+          "context": "tes. We may face similar challenges in light of recent legislation in Australia which imposes a social media ban for users under 16 years old that is expected to be effective by December 2025, requiring certain social media companies to take reasonable steps to ensure under 16 year olds do not create user",
+          "position": 42240
+        }
+      ],
+      "customer_concentration": [],
+      "geopolitical_impact": [
+        {
+          "matched": "export controls, among others. It is also uncertain how various laws related to online services, intermediary liability, and other issues will apply to content generated by AI. In addition, we are subject to the risks of new or enhanced governmental or regulatory scrutiny, litigation, or other legal liability, ethical concerns, negative consumer perceptions as to automation and AI, activities that threaten people's safety or well-being on- or offline, or other complications that could adversely affect",
+          "context": "operty infringement or misappropriation, defamation, data privacy, cybersecurity, and sanctions and export controls, among others. It is also uncertain how various laws related to online services, intermediary liability, and other issues will apply to content generated by AI. In addition, we are subject to the risks of new or enhanced governmental or regulatory scrutiny, litigation, or other legal liability, ethical concerns, negative consumer perceptions as to automation and AI, activities that threaten people's safety or well-being on- or offline, or other complications that could adversely affect our business, reputation, or financial results.\nAs a result of the complexity and rapid development",
+          "position": 86498
+        },
+        {
+          "matched": "export controls, consumer protection, and e-commerce, which may delay or impede the development of our products and services, increase our operating costs, require significant management time and attention, or otherwise harm our business. As a result of these or other factors, our Reality Labs strategy and investments may not be successful in the foreseeable future, or at all, which could adversely affect",
+          "context": "sdictions, including in the areas of privacy, safety, AI, competition, content regulation, tariffs, export controls, consumer protection, and e-commerce, which may delay or impede the development of our products and services, increase our operating costs, require significant management time and attention, or otherwise harm our business. As a result of these or other factors, our Reality Labs strategy and investments may not be successful in the foreseeable future, or at all, which could adversely affect our business, reputation, or financial results.\nIf we are not able to maintain and enhance our bran",
+          "position": 95833
+        },
+        {
+          "keyword": "tariff",
+          "context": "n Europe and other regions, and advertiser spending also can be subject to adverse effects from conflicts in the Middle East or the implementation of tariffs by the United States, China, or other governments).",
+          "position": 73176
+        },
+        {
+          "keyword": "tariff",
+          "context": "Any of the foregoing delays or disruptions, including actions by governments or geopolitical events such as international conflicts, could result in tariffs, sanctions, export or import controls, and other measures that restrict international trade, could reduce or eliminate the ability of our suppliers,",
+          "position": 127634
+        },
+        {
+          "keyword": "tariff",
+          "context": "economic conditions, geopolitical challenges, trade disputes, or other actions by governments or non-state actors (including international conflicts, tariffs, sanctions, export controls, and other measures that restrict international trade) that subject us to supply shortages, increased costs, or supply c",
+          "position": 147403
+        },
+        {
+          "keyword": "tariff",
+          "context": "uptions, changes in consumer demand and consumer spending patterns, changes in consumer tastes with respect to our consumer hardware products, higher tariffs that increase consumer prices, and other factors. The demand for our products can also change significantly between the time inventory or components",
+          "position": 148743
+        },
+        {
+          "keyword": "tariff",
+          "context": "action that reduces or eliminates our China-based advertising revenue, whether as a result of the trade dispute with the United States, including any tariffs implemented by the United States or China, in response to content issues or information requests in Hong Kong or elsewhere, or for other reasons, or",
+          "position": 174256
+        },
+        {
+          "keyword": "China",
+          "context": "may not be available in certain regions due to legal and regulatory complexities. For example, several of our products are not generally available in China. We also outsource certain operational functions to third parties globally. If we fail to deploy, manage, or oversee our international operations suc",
+          "position": 141704
+        },
+        {
+          "keyword": "China",
+          "context": "me or indefinitely. For example, user access to Facebook and certain of our other products has been or is currently restricted in whole or in part in China, Iran, and North Korea. In addition, government authorities in other countries may seek to restrict user access to our products if they consider us t",
+          "position": 172416
+        },
+        {
+          "keyword": "export control",
+          "context": "encies in jurisdictions around the world, which are applying, or are considering applying, platform moderation, intellectual property, cybersecurity, export controls, and data protection laws to AI and/or are considering general legal frameworks on AI (such as the recently passed EU AI Act). We may not always be",
+          "position": 87195
+        }
+      ],
+      "rd_focus": [
+        {
+          "matched": "developing specific product",
+          "context": "build the next computing platform, our metaverse efforts also include notable shorter-term projects developing specific products and services to go to market, whereas our wearables efforts are primarily directed toward longer-t",
+          "position": 20702
+        },
+        {
+          "matched": "creating and improving product",
+          "context": "op the metaverse.\nTechnology\nOur product development philosophy centers on continuous innovation in creating and improving products that are social by design, which means that our products are designed to place people and their so",
+          "position": 23025
+        },
+        {
+          "matched": "developing relationships with key participants in the mobile ecosystem or in developing product",
+          "context": "manufacturers, mobile carriers, and browser developers. We may not be successful in maintaining or developing relationships with key participants in the mobile ecosystem or in developing products that operate effectively with these technologies, products, systems, networks, or standards. In th",
+          "position": 81299
+        },
+        {
+          "matched": "developing and deploying AI and there can be no assurance that the usage of AI will enhance our product",
+          "context": "financial performance could be harmed.\n20\nTable of\nContents\nThere are significant risks involved in developing and deploying AI and there can be no assurance that the usage of AI will enhance our products or services or be beneficial to our business, including our efficiency or profitability. For examp",
+          "position": 85922
+        },
+        {
+          "matched": "developing AI technology",
+          "context": "ot control the availability or pricing, especially in a highly competitive environment.\nWe are also developing AI technology that we make available via open source, commercial, and non-commercial license agreements to third-",
+          "position": 88930
+        },
+        {
+          "matched": "building products that integrate with our product",
+          "context": "ay choose to build on other platforms, including platforms controlled by third parties, rather than building products that integrate with our products. We are continuously seeking to balance the distribution objectives of our developers with our des",
+          "position": 101343
+        },
+        {
+          "matched": "building applications that integrate with our product",
+          "context": "elling return on their investments;\n•\nour ability to establish and maintain developers' interest in building applications that integrate with our products;\n•\nour ability to establish and maintain publisher interest in integrating their content with our",
+          "position": 108671
+        },
+        {
+          "matched": "developing growing formats such as Reels ads and our business messaging ad product",
+          "context": "ate our advertising tools to help marketers prepare campaigns and connect with consumers, including developing growing formats such as Reels ads and our business messaging ad products. Across all of these efforts, we are making significant investments in artificial intelligence (AI",
+          "position": 295149
+        },
+        {
+          "matched": "developing new technologies and product",
+          "context": "ation and benefits for our employees on our engineering and technical teams who are responsible for developing new technologies and products; RL technology development costs; infrastructure costs; and facilities-related costs.\nMarketing an",
+          "position": 320723
+        },
+        {
+          "keyword": "AI",
+          "context": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+          "position": 591
+        }
+      ],
+      "ma_activity": [],
+      "restructuring": [
+        {
+          "keyword": "layoff",
+          "context": "previously undertaken cost reduction efforts such as scaling back budgets, reducing company perks, shrinking our real estate footprint, and employee layoffs and restructurings. We make it a priority to treat outgoing employees with respect and provide a generous severance package. For U.S. employees, tha",
+          "position": 46323
+        },
+        {
+          "keyword": "layoff",
+          "context": "nd realign our business and strategic priorities. For example, in 2022 and 2023, we announced several initiatives, including restructurings, employee layoffs, and measures to scale down our office facilities. These efforts also subject us to risks such as greater than anticipated costs, adverse effects on",
+          "position": 140118
+        },
+        {
+          "keyword": "restructuring",
+          "context": "are feet of unoccupied office and building space that we plan to either sublease, early terminate, or abandon related to our facilities consolidation restructuring efforts. We also owned and leased approximately 62 acres of land to be developed to accommodate anticipated future growth.",
+          "position": 248905
+        },
+        {
+          "keyword": "restructuring",
+          "context": "ue to increases in operational expenses related to our data centers and technical infrastructure and employee compensation, partially offset by lower restructuring and legal-related costs.",
+          "position": 289030
+        },
+        {
+          "keyword": "restructuring",
+          "context": ". The increase was mostly due to higher employee compensation as well as infrastructure costs for research and development, partially offset by lower restructuring charges.",
+          "position": 328249
+        },
+        {
+          "keyword": "restructuring",
+          "context": "t on Form 10-K for additional information regarding restructuring charges.",
+          "position": 328825
+        },
+        {
+          "keyword": "restructuring",
+          "context": "See Note 3 — Restructuring in the notes to the consolidated financial statements included in Part II, Item 8, \"Financial Statements and Supplementary Data\" of this Annual Repor",
+          "position": 329363
+        },
+        {
+          "keyword": "restructuring",
+          "context": "crease was mostly driven by a favorable impact of $1.55 billion in legal-related costs. To a lesser extent, the decrease was also attributed to lower restructuring charges, partially offset by an increase in other taxes.",
+          "position": 329961
+        },
+        {
+          "keyword": "restructuring",
+          "context": "elated to our data centers and technical infrastructure, mostly from higher depreciation expense and employee compensation, partially offset by lower restructuring and legal-related costs.",
+          "position": 331238
+        },
+        {
+          "keyword": "restructuring",
+          "context": "ts included in Part II, Item 8, \"Financial Statements and Supplementary Data\" of this Annual Report on Form 10-K for additional information regarding restructuring charges, depreciation expense, legal-related costs, and segment employee compensation, respectively.",
+          "position": 331885
+        }
+      ]
+    }
+  },
+  "NVDA": {
+    "ticker": "NVDA",
+    "extracted": {
+      "competitors": [
+        {
+          "matched": "compete with our AI cloud service offerings, and we may not be able to establish market share sufficient to achieve the scale necessary to meet our business objectives",
+          "context": "olutions to replace those we are providing. For example, others may offer cloud-based services that compete with our AI cloud service offerings, and we may not be able to establish market share sufficient to achieve the scale necessary to meet our business objectives. If we are unable to successfully compete in this environment, demand for our products, services an",
+          "position": 69035
+        },
+        {
+          "matched": "compete with our new products and distribution channels",
+          "context": "ket,” which also makes demand forecasting difficult. Gray market products and reseller marketplaces compete with our new products and distribution channels. Our inability to accurately predict our demand that arises from new use cases may create volatilit",
+          "position": 80131
+        },
+        {
+          "matched": "significant market share",
+          "context": "dition, it is possible that new competitors or alliances among competitors could emerge and acquire significant market share.\nA significant source of competition comes from companies that provide or intend to provide GPUs, C",
+          "position": 35762
+        },
+        {
+          "matched": "our market share",
+          "context": "dustry and markets may adversely impact our financial results.\n•\nCompetition could adversely impact our market share and financial results.\nRisks Related to Demand, Supply, and Manufacturing\n•\nLong manufacturing lead",
+          "position": 60532
+        },
+        {
+          "matched": "our market share",
+          "context": "nd may not achieve any significant revenue from these offerings.\nCompetition could adversely impact our market share and financial results.\nOur target markets remain competitive, and competition may intensify with ex",
+          "position": 67550
+        },
+        {
+          "matched": "acquire market share",
+          "context": "financial, sales, marketing and distribution resources than we do. These competitors may be able to acquire market share and/or prevent us from doing so, more effectively identify and capitalize upon opportunities in new",
+          "position": 68438
+        },
+        {
+          "matched": "and market share",
+          "context": "er, or at all. Our reputation and customer relationships could be damaged and we could lose revenue and market share. Additionally, since some of our products are part of a complex data center buildout, supply constr",
+          "position": 71060
+        },
+        {
+          "matched": "lose market share",
+          "context": "ause us to incur significant expenses to remediate, which can damage our reputation and cause us to lose market share.\nOur hardware and software product and service offerings are complex. They have in the past and may",
+          "position": 83688
+        },
+        {
+          "matched": "lose market share",
+          "context": "our customers may purchase products from our competitors; and our partners may discontinue sales or lose market share in the markets for which they purchase our products, all of which may alter partners’ or customers’",
+          "position": 115969
+        },
+        {
+          "keyword": "Samsung",
+          "context": "ain is mainly concentrated in the Asia-Pacific region. We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung.",
+          "position": 34109
+        }
+      ],
+      "market_share": [
+        {
+          "matched": "market share in the markets for which they purchase our products, all of which may alter partners’ or customers’ purchasing patterns. Many of our indirect customers often do not purchase directly from us but through multiple OEMs, ODMs, system integrators, distributors, and other channel partners. For fiscal year 2025, an indirect customer which primarily purchases our products through system integrators and distributors, including through Customer B, is estimated to represent 10%",
+          "context": "ustomers may purchase products from our competitors; and our partners may discontinue sales or lose market share in the markets for which they purchase our products, all of which may alter partners’ or customers’ purchasing patterns. Many of our indirect customers often do not purchase directly from us but through multiple OEMs, ODMs, system integrators, distributors, and other channel partners. For fiscal year 2025, an indirect customer which primarily purchases our products through system integrators and distributors, including through Customer B, is estimated to represent 10% or more of total revenue, attributable to the Compute & Networking segment. If end demand increases",
+          "position": 115974
+        },
+        {
+          "matched": "75% of",
+          "context": "ence and from wind tunnel simulation to genomics. Including GPUs and networking, NVIDIA powers over 75% of the supercomputers on the global TOP500 list, including 38 of the top 50 systems on the Green500 li",
+          "position": 11221
+        },
+        {
+          "matched": "100% of",
+          "context": "om sourcing renewable energy. We committed to purchase or generate enough renewable energy to match 100% of our global electricity usage for offices and data centers under our operational control starting wi",
+          "position": 47683
+        },
+        {
+          "matched": "41% of",
+          "context": "welcome employees of all backgrounds. Our own employees also help to surface top talent, with over 41% of our new hires in fiscal year 2025 coming from employee referrals.\nDevelopment and Retention\nTo supp",
+          "position": 50434
+        },
+        {
+          "matched": "6% of",
+          "context": "e end of fiscal year 2025, our global workforce was 78% male, 21% female, and 1% not declared, with 6% of our workforce in the United States composed of Black or African American and Hispanic or Latino emp",
+          "position": 54085
+        },
+        {
+          "matched": "53% of",
+          "context": "embled, tested and packaged by third parties located outside of the United States, and we generated 53% of our revenue in fiscal year 2025 from sales outside the United States. The market in China, where ou",
+          "position": 91658
+        },
+        {
+          "matched": "11% of",
+          "context": "stomers, and this trend may continue. Sales to direct Customers A, B and C represented 12%, 11% and 11% of total revenue, respectively, for fiscal year 2025, all of which were primarily attributable to the",
+          "position": 114582
+        },
+        {
+          "matched": "4% of",
+          "context": "themselves. If we are found not to comply, we could be subject to penalties of up to €20 million or 4% of worldwide revenue, whichever is greater, and classes of individuals or consumer protection organiza",
+          "position": 159325
+        },
+        {
+          "matched": "2% of",
+          "context": "Non-compliance with NIS2 may lead to administrative fines of a maximum of 10 million Euros or up to 2% of the total worldwide revenue of the preceding fiscal year.\nIn the ordinary course of business, we tr",
+          "position": 160021
+        },
+        {
+          "matched": "30% of",
+          "context": "ws. Under our agreement with Microsoft for the Xbox, if someone makes an offer to purchase at least 30% of our outstanding common stock, Microsoft may have first and last rights of refusal to purchase the s",
+          "position": 170304
+        }
+      ],
+      "product_roadmap": [
+        {
+          "matched": "new products and technologies through investments in research and development",
+          "context": "ould render our products incompatible with those developed by other companies;\n•\ndevelop or acquire new products and technologies through investments in research and development;\n•\nlaunch new offerings with new business models including software, services, and cloud solutions,",
+          "position": 64717
+        },
+        {
+          "matched": "new products and technologies",
+          "context": "may not produce meaningful revenue for several years, if at all. If we fail to develop or monetize new products and technologies, or if they do not become widely adopted, our financial results could be adversely affected. Obtain",
+          "position": 65871
+        },
+        {
+          "matched": "new product introductions and transitions resulting in less demand for existing products",
+          "context": "ements;\n•\nthe availability of sufficient data center capacity or energy for customers to procure;\n•\nnew product introductions and transitions resulting in less demand for existing products;\n•\nnew or unexpected end-use cases;\n•\nincrease in demand for competitive products;\n•\nchanges in end",
+          "position": 73050
+        },
+        {
+          "matched": "new products",
+          "context": "and prior architecture products simultaneously as our channel partners prepare to ship and support new products. We are generally in various stages of transitioning the architectures of our Data Center, Gaming,",
+          "position": 75640
+        },
+        {
+          "matched": "new products",
+          "context": "ng our supply and demand which may further create volatility in our revenue. Qualification time for new products, customers anticipating product transitions, and channel partners reducing channel inventory of pri",
+          "position": 76428
+        },
+        {
+          "matched": "new products",
+          "context": "ons for low-yielding Blackwell material.\nWe incur significant engineering development resources for new products, and changes to our product roadmap may impact our ability to develop other products or adequately",
+          "position": 77532
+        },
+        {
+          "matched": "new products or previously sold products may be resold online or on the unauthorized ",
+          "context": "ld negatively impact retail prices for our GPUs and reduce demand for our new GPUs. In general, our new products or previously sold products may be resold online or on the unauthorized “gray market,” which also makes demand forecasting difficult. Gray market products and reseller mark",
+          "position": 79937
+        },
+        {
+          "matched": "new products",
+          "context": "ts to remedy these issues may not be timely or satisfactory to our customers. An error or defect in new products, releases or related software drivers after commencement of commercial shipments could result in fa",
+          "position": 85925
+        },
+        {
+          "matched": "new products or sell our products",
+          "context": "ccessfully integrate acquired companies, which could hurt our ability to grow our business, develop new products or sell our products.\n22\nTable of Contents\nWe acquire and invest in businesses that offer products, services and technol",
+          "position": 109301
+        },
+        {
+          "matched": "new product is ready for market",
+          "context": "trols increase the risk of investing in U.S. advanced semiconductor products, because by the time a new product is ready for market, it may be subject to new unilateral export controls restricting its sale. At the same time, such c",
+          "position": 146015
+        }
+      ],
+      "supply_chain": [],
+      "management_guidance": [
+        {
+          "keyword": "expect",
+          "context": "le to our management. In some cases, you can identify forward-looking statements by terms such as “may,” “will,” “should,” “could,” “goal,” “would,” “expect,” “plan,” “anticipate,” “believe,” “estimate,” “project,” “predict,” “potential,” and similar expressions intended to identify forward-looking statem",
+          "position": 2616
+        },
+        {
+          "keyword": "expect",
+          "context": "ld read this Annual Report on Form 10-K completely and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these",
+          "position": 3638
+        },
+        {
+          "keyword": "expect",
+          "context": "C GPUs is expanding because of the burgeoning population of live streamers, broadcasters, artists, and creators. With the advent of generative AI, we expect a broader set of PC users to choose NVIDIA GPUs for running generative AI applications locally on their PC, which is critical for privacy, latency, a",
+          "position": 11485
+        },
+        {
+          "keyword": "expect",
+          "context": "tners will demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality and at competitive prices. We expect competition to increase from both existing competitors and new market entrants with products that may be lower priced than ours or may provide better",
+          "position": 35285
+        },
+        {
+          "keyword": "expect",
+          "context": "ter marketing, financial, distribution and manufacturing resources than we do and may be more able to adapt to customers or technological changes. We expect an increasingly competitive environment in the future.",
+          "position": 36157
+        },
+        {
+          "keyword": "expect",
+          "context": "We have licensed technology from third parties and expect to continue entering such license agreements.",
+          "position": 39460
+        },
+        {
+          "keyword": "expect",
+          "context": "ing with management our practices related to sustainability and corporate governance. We assess our programs annually in consideration of stakeholder expectations, market trends, and business risks and opportunities. These issues are important for our continued business success and reflect the topics of h",
+          "position": 46107
+        },
+        {
+          "keyword": "expect",
+          "context": "In May 2024, we published metrics related to our environmental impact for fiscal year 2024. Fiscal year 2025 metrics are expected to be published in the first half of fiscal year 2026. There has been no material impact to our capital expenditures, results of operations or comp",
+          "position": 47201
+        },
+        {
+          "keyword": "expect",
+          "context": "Our operating results have in the past fluctuated and may in the future fluctuate, and if our operating results are below the expectations of securities analysts or investors, our stock price could decline.",
+          "position": 62370
+        },
+        {
+          "keyword": "expect",
+          "context": "Our operating results may be adversely impacted by additional tax liabilities, higher than expected tax rates, changes in tax laws, and other tax-related factors.",
+          "position": 63570
+        }
+      ],
+      "customer_concentration": [],
+      "geopolitical_impact": [
+        {
+          "matched": "trade sanctions, the imposition of or increase to import duties or tariffs, restrictions and controls on imports or exports, or other retaliatory actions, which could have an adverse effect on our business plans or impact",
+          "context": "aws or regulations or their interpretation and enforcement could also result in increased taxation, trade sanctions, the imposition of or increase to import duties or tariffs, restrictions and controls on imports or exports, or other retaliatory actions, which could have an adverse effect on our business plans or impact the timing of our shipments. Additionally, changes in the public perception of governments in the r",
+          "position": 126585
+        },
+        {
+          "matched": "export control restrictions, impact",
+          "context": "governments.\nOver the past three years, we have been subject to a series of shifting and expanding export control restrictions, impacting our ability to serve customers outside the United States.\nIn August 2022, the U.S. government, o",
+          "position": 39815
+        },
+        {
+          "matched": "Export Control Classification Numbers, or ECCNs, 3A090.a, 4A090.a, or corresponding .z ECCNs, including all related software and technology. Any system that incorporates one or more of the covered integrated circuits, or ICs, (including but not limit",
+          "context": "FR will, unless modified, impose a worldwide licensing requirement on all products classified under Export Control Classification Numbers, or ECCNs, 3A090.a, 4A090.a, or corresponding .z ECCNs, including all related software and technology. Any system that incorporates one or more of the covered integrated circuits, or ICs, (including but not limited to NVIDIA DGX, HGX, and MGX systems) will be covered by the new licensing requirement. The licens",
+          "position": 41987
+        },
+        {
+          "matched": "export controls, and our competitive position and future results may be further harmed, over the long term, if there are further changes in the USG’s export controls. Given the increasing strategic importance of AI and rising geopolitical tensions, the USG has changed and may again change the export control rules at any time and further subject a wider range of our products to export restrictions and licensing requirements, negatively impact",
+          "context": ", B200, GB200, L4, L40S, and RTX 6000 Ada.\nOur competitive position has been harmed by the existing export controls, and our competitive position and future results may be further harmed, over the long term, if there are further changes in the USG’s export controls. Given the increasing strategic importance of AI and rising geopolitical tensions, the USG has changed and may again change the export control rules at any time and further subject a wider range of our products to export restrictions and licensing requirements, negatively impacting our business and financial results. In the event of such change, we may be unable to sell our in",
+          "position": 42913
+        },
+        {
+          "matched": "export controls, the USG may impose restrictions on the import and sale of products that incorporate technologies developed or manufactured in whole or in part in China. For example, the USG is considering restrictions on the import and sale of certain automotive products in the United States, which if adopted and interpreted broadly, could impact",
+          "context": "including the Middle East and countries designated “Tier 2” by the AI Diffusion IFR. In addition to export controls, the USG may impose restrictions on the import and sale of products that incorporate technologies developed or manufactured in whole or in part in China. For example, the USG is considering restrictions on the import and sale of certain automotive products in the United States, which if adopted and interpreted broadly, could impact our ability to develop and supply solutions for our automotive customers.\nWhile we work to enhance",
+          "position": 43774
+        },
+        {
+          "matched": "export controls or changes to existing export controls could limit",
+          "context": "y of our supply chain, which is currently concentrated in the Asia-Pacific region, new and existing export controls or changes to existing export controls could limit alternative manufacturing locations and negatively impact our business. Refer to “Item 1A. Risk Fac",
+          "position": 44351
+        },
+        {
+          "matched": "export control laws or sanctions of the U.S. or similar applicable non-U.S. laws, even if the violation occurred without our knowledge, we may be subject to various penalties available under the laws, any of which could have a material and adverse impact",
+          "context": "igations and have a material adverse effect on our business. If we were ever found to have violated export control laws or sanctions of the U.S. or similar applicable non-U.S. laws, even if the violation occurred without our knowledge, we may be subject to various penalties available under the laws, any of which could have a material and adverse impact on our business, operating results and financial condition.\nFor example, in response to the war in",
+          "position": 127813
+        },
+        {
+          "matched": "export controls on certain products or technology, including but not limit",
+          "context": "siness and financial results.\nSuch restrictions could include additional unilateral or multilateral export controls on certain products or technology, including but not limited to AI technologies. As geopolitical tensions have increased, semiconductors associated with AI, i",
+          "position": 129606
+        },
+        {
+          "matched": "Export controls targeting GPUs and semiconductors associated with AI, which have been imposed and are increasingly likely to be further tightened, would further restrict our ability to export our technology, products, or services even though competitors may not be subject to similar restrictions, creating a competitive disadvantage for us and negatively impact",
+          "context": "mand abroad and could negatively and materially impact our business, revenue and financial results. Export controls targeting GPUs and semiconductors associated with AI, which have been imposed and are increasingly likely to be further tightened, would further restrict our ability to export our technology, products, or services even though competitors may not be subject to similar restrictions, creating a competitive disadvantage for us and negatively impacting our business and financial results. Export controls targeting GPUs and semiconductors associated",
+          "position": 130658
+        },
+        {
+          "matched": "Export controls could disrupt our supply chain and distribution channels, negatively impact",
+          "context": "ability for our CSPs and customers to provide services to their end customers, even outside China.\nExport controls could disrupt our supply chain and distribution channels, negatively impacting our ability to serve demand, including in markets outside China and for our gaming products. The",
+          "position": 131590
+        }
+      ],
+      "rd_focus": [
+        {
+          "matched": "creating visual effects in movies or designing buildings and product",
+          "context": "celerated with our GPUs and software platform for a range of creative and design use cases, such as creating visual effects in movies or designing buildings and products. In addition, generative AI is expanding the market for our workstation-class GPUs, as more enterp",
+          "position": 12003
+        },
+        {
+          "matched": "creating more complexity in managing multiple suppliers with variations in product",
+          "context": "uantity, quality, and delivery schedules;\n•\nintegration of new suppliers and contract manufacturers creating more complexity in managing multiple suppliers with variations in production planning, execution, and logistics;\n•\nsuppliers or their suppliers failing to provide high quali",
+          "position": 82506
+        },
+        {
+          "matched": "building AI capabilities and protections into many of our product",
+          "context": "cial harm and liability and may cause us to incur costs to resolve such issues. We are increasingly building AI capabilities and protections into many of our products and services, and we also offer stand-alone AI applications. AI poses emerging legal, social, and",
+          "position": 150583
+        },
+        {
+          "keyword": "AI",
+          "context": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+          "position": 595
+        },
+        {
+          "keyword": "AI",
+          "context": "This Annual Report on Form 10-K contains forward-looking statements which are based on our management's beliefs and assumptions and on information currently available to our management. In",
+          "position": 2452
+        },
+        {
+          "keyword": "AI",
+          "context": "ts, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties, and other factors in this Annual Report on Form 10-K in greater detail under the heading “Risk Factors.” Given these risks, uncertainties, and",
+          "position": 3136
+        },
+        {
+          "keyword": "AI",
+          "context": "date the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future.",
+          "position": 3989
+        },
+        {
+          "keyword": "AI",
+          "context": "d or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements.",
+          "position": 4627
+        },
+        {
+          "keyword": "AI",
+          "context": "Our full-stack includes the foundational CUDA programming model that runs on all NVIDIA GPUs, as well as hundreds of domain-specific software libraries, software development kits, or SDKs, and Application Programming Interfaces, or APIs. This deep and broad software stack",
+          "position": 5243
+        },
+        {
+          "keyword": "AI",
+          "context": "nected to function as a single giant computer; this type of data center architecture and scale is needed for the development and deployment of modern AI applications.",
+          "position": 6047
+        }
+      ],
+      "ma_activity": [],
+      "restructuring": [
+        {
+          "keyword": "efficiency",
+          "context": "st compute-intensive workloads, such as AI, data analytics, graphics, and scientific computing, delivering significantly better performance and power efficiency relative to conventional CPU-only approaches. It is deployed in cloud, hyperscale, on-premises and edge data centers. The platform consists of comput",
+          "position": 13655
+        },
+        {
+          "keyword": "efficiency",
+          "context": "etworking adapters. Blackwell excels at processing cutting edge generative AI and accelerated computing workloads with market leading performance and efficiency. Offered in a number of configurations, it can address the needs of customers across industries and a diverse set of AI and accelerated computing use",
+          "position": 17210
+        },
+        {
+          "keyword": "efficiency",
+          "context": "Whether it is creation of technology to power next-generation laptops or designs to support high-performance supercomputers, improving energy efficiency is important in our research, development, and design processes. GPU-accelerated computing is inherently more energy efficient than traditional compu",
+          "position": 48177
+        }
+      ]
+    }
+  },
+  "AMZN": {
+    "ticker": "AMZN",
+    "extracted": {
+      "competitors": [
+        {
+          "matched": "compete against us",
+          "context": "and comparison shopping, which enhances the ability of new, smaller, or lesser-known businesses to compete against us. Each of our businesses is also subject to rapid change and the development of new business models",
+          "position": 7421
+        },
+        {
+          "matched": "compete against us",
+          "context": "and comparison shopping, which enhances the ability of new, smaller, or lesser known businesses to compete against us. As a result of competition, our product and service offerings may not be successful, we may fail t",
+          "position": 17087
+        },
+        {
+          "matched": "versus the U",
+          "context": "flows.\nEffect of Foreign Exchange Rates\nInformation regarding the effect of foreign exchange rates, versus the U.S. Dollar, on our net sales, operating expenses, and operating income is provided to show reported",
+          "position": 125645
+        },
+        {
+          "keyword": "Intel",
+          "context": "t provide information technology services or products, including on-premises or cloud-based infrastructure, tools and services relating to artificial intelligence, and other services; (7) companies that design, manufacture, market, or sell consumer electronics, communications, and other electronic device",
+          "position": 5812
+        },
+        {
+          "keyword": "Intel",
+          "context": "f legal precedent, and varying rules, regulations, and practices regarding the physical and digital distribution of media products and enforcement of intellectual property rights;",
+          "position": 19954
+        },
+        {
+          "keyword": "Intel",
+          "context": "We Face Risks Related to Adequately Protecting Our Intellectual Property Rights and Being Accused of Infringing Intellectual Property Rights of Third Parties",
+          "position": 28550
+        },
+        {
+          "keyword": "Intel",
+          "context": "by third parties that license our proprietary rights may materially diminish the value of our proprietary rights or reputation. The protection of our intellectual property requires the expenditure of significant financial and managerial resources. Moreover, the steps we take to protect our intellectual p",
+          "position": 29762
+        },
+        {
+          "keyword": "Intel",
+          "context": "We have been subject to, and expect to continue to be subject to, claims and legal proceedings regarding alleged infringement by us of the intellectual property rights of third parties. Such claims, whether or not meritorious, have in the past, and may in the future, result in the expenditure",
+          "position": 30367
+        },
+        {
+          "keyword": "Intel",
+          "context": "rease in third parties whose sole or primary business is to assert such claims. In addition, our and our customers’ development and use of artificial intelligence may result in increased claims of infringement or other claims, including those based on unauthorized use of third-party technology or content",
+          "position": 31025
+        },
+        {
+          "keyword": "Intel",
+          "context": "changes in usage or adoption rates of the internet, e-commerce, electronic devices, web services, satellite communications services, and artificial intelligence and machine learning technologies, products, and services, including outside the U.S.;",
+          "position": 34689
+        }
+      ],
+      "market_share": [
+        {
+          "matched": "1% of",
+          "context": "may cause us to realize material write-downs in the future. As a measure of sensitivity, for every 1% of additional inventory valuation allowance as of December 31, 2024, we would have recorded an additio",
+          "position": 92326
+        }
+      ],
+      "product_roadmap": [
+        {
+          "matched": "New Products",
+          "context": "ing or lower prices, any of which could materially reduce our sales and profits.\nOur Expansion into New Products, Services, Technologies, and Geographic Regions Subjects Us to Additional Risks\nWe may have limited",
+          "position": 17378
+        },
+        {
+          "matched": "new product launches",
+          "context": "ificant inventory risks that may adversely affect our operating results as a result of seasonality, new product launches, rapid changes in product cycles and pricing, defective merchandise, changes in customer demand and",
+          "position": 54588
+        },
+        {
+          "matched": "new product or offering a new service",
+          "context": "components are ordered and the date of sale. In addition, when we begin selling or manufacturing a new product or offering a new service, it may be difficult to establish vendor relationships, determine appropriate product or component",
+          "position": 55131
+        },
+        {
+          "matched": "new products and service offerings and a reduction in depreciation and amortization expense from our change in the estimated useful life of our servers",
+          "context": "cal teams responsible for expanding our existing products and services and initiatives to introduce new products and service offerings and a reduction in depreciation and amortization expense from our change in the estimated useful life of our servers. Changes in foreign exchange rates reduced technology and infrastructure costs by $244 million in 2",
+          "position": 112804
+        },
+        {
+          "keyword": "launch",
+          "context": "ent and potential competitors have greater resources, longer histories, more customers, and/or greater brand recognition, particularly with our newly-launched products and services and in our newer geographic regions. They may secure better terms from vendors, adopt more aggressive pricing, and devote mor",
+          "position": 15993
+        },
+        {
+          "keyword": "launch",
+          "context": "Demand for our products and services can fluctuate significantly for many reasons, including as a result of seasonality, promotions, product launches, or unforeseeable events, such as in response to global economic conditions such as recessionary fears or rising inflation, natural or human-caused",
+          "position": 24731
+        },
+        {
+          "keyword": "release",
+          "context": "he Securities and Exchange Commission (“SEC”), corporate governance information (including our Code of Business Conduct and Ethics), and select press releases.",
+          "position": 10435
+        },
+        {
+          "keyword": "release",
+          "context": "We provided guidance on February 6, 2025, in our earnings release furnished on Form 8-K as set forth below. These forward-looking statements reflect Amazon.com’s expectations as of February 6, 2025, and are subject",
+          "position": 126834
+        }
+      ],
+      "supply_chain": [],
+      "management_guidance": [
+        {
+          "keyword": "expect",
+          "context": "This Annual Report on Form 10-K and the documents incorporated herein by reference contain forward-looking statements based on expectations, estimates, and projections as of the date of this filing. Actual results and outcomes may differ materially from those expressed in forward-lo",
+          "position": 986
+        },
+        {
+          "keyword": "expect",
+          "context": "ays, setbacks, or failures or quality issues. In addition, profitability or other intended benefits, if any, in our newer activities may not meet our expectations, and we may not be successful enough in these newer activities to recoup our investments in them, which investments are often significant. Fail",
+          "position": 17803
+        },
+        {
+          "keyword": "expect",
+          "context": "used disasters (including public health crises) or extreme weather (including as a result of climate change), or geopolitical events. For example, we expect a disproportionate amount of our retail sales to occur during our fourth quarter. Our failure to stock or restock popular products in sufficient amou",
+          "position": 25024
+        },
+        {
+          "keyword": "expect",
+          "context": "We have been subject to, and expect to continue to be subject to, claims and legal proceedings regarding alleged infringement by us of the intellectual property rights of third parties.",
+          "position": 30367
+        },
+        {
+          "keyword": "expect",
+          "context": "duct and service offerings are exposed to foreign exchange rate fluctuations. Due to these fluctuations, operating results may differ materially from expectations, and we may record significant gains or losses on the remeasurement of intercompany balances. As we have expanded our international operations,",
+          "position": 31804
+        },
+        {
+          "keyword": "expect",
+          "context": ". Dollar strengthens compared to these currencies, cash equivalents, and marketable securities balances, when translated, may be materially less than expected and vice versa.",
+          "position": 32329
+        },
+        {
+          "keyword": "expect",
+          "context": "ificant portion of our expenses and investments is fixed, and we are not always able to adjust our spending quickly enough if our sales are less than expected.",
+          "position": 33456
+        },
+        {
+          "keyword": "expect",
+          "context": "tely forecast product demand may result in us being unable to secure sufficient storage space or to optimize our fulfillment network or cause other unexpected costs and other harm to our business and reputation.",
+          "position": 40260
+        },
+        {
+          "keyword": "expect",
+          "context": "s, computer scientists, and other technical staff. In addition, changes we make to our current and future work environments may not meet the needs or expectations of our employees or may be perceived as less favorable compared to other companies’ policies, which could negatively impact our ability to hire",
+          "position": 45363
+        },
+        {
+          "keyword": "expect",
+          "context": "volume of the other company’s sales. Therefore, when the other company’s offerings are not successful, the compensation we receive may be lower than expected or the agreement may be terminated. Moreover, we may not be able to enter into additional or alternative commercial relationships and strategic all",
+          "position": 49762
+        }
+      ],
+      "customer_concentration": [],
+      "geopolitical_impact": [
+        {
+          "matched": "trade restrictions, data protection and cybersecurity laws, economic factors, geopolitical events, security issues, or other factors negatively impact",
+          "context": "a-based suppliers provide significant portions of our components and finished goods, regulatory and trade restrictions, data protection and cybersecurity laws, economic factors, geopolitical events, security issues, or other factors negatively impacting China-based sellers and suppliers could adversely affect our operating results.\nThe Variability",
+          "position": 24416
+        },
+        {
+          "keyword": "tariff",
+          "context": "gs and of competition); restrictive governmental actions (such as trade protection measures, including export duties and quotas and custom duties and tariffs, and restrictions around the import and export of certain products, technologies, and components); nationalization; and restrictions on foreign owne",
+          "position": 19403
+        },
+        {
+          "keyword": "tariff",
+          "context": "cluding restrictive governmental actions impacting us, our customers, and our third-party sellers and suppliers in China or other foreign countries), tariff policy changes, and similar events; and",
+          "position": 37679
+        },
+        {
+          "keyword": "China",
+          "context": "The People’s Republic of China (“PRC”) and India regulate Amazon’s and its affiliates’ businesses and operations in country through regulations and license requirements that may re",
+          "position": 22000
+        },
+        {
+          "keyword": "China",
+          "context": "nese and Indian businesses and operations may be unable to continue to operate if we or our affiliates are unable to access sufficient funding or, in China, enforce contractual relationships we or our affiliates have in place. Violation of any existing or future PRC, Indian, or other laws or regulations",
+          "position": 23606
+        },
+        {
+          "keyword": "sanction",
+          "context": "flows. In addition, it is possible that a resolution of one or more such proceedings, including as a result of a settlement, could involve licenses, sanctions, consent decrees, or orders requiring us to make substantial future payments, preventing us from offering certain products or services, requiring us",
+          "position": 66655
+        },
+        {
+          "keyword": "sanction",
+          "context": "s and investigations relating to our government contracts, and any violations could result in various civil and criminal penalties and administrative sanctions, including termination of contract, refunding or suspending of payments, forfeiture of profits, payment of fines, and suspension or debarment from f",
+          "position": 73170
+        },
+        {
+          "keyword": "geopolitical",
+          "context": "Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” and in the risk factors below, global economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events may give rise to or amplify many of the risks discussed below. Many of",
+          "position": 15036
+        },
+        {
+          "keyword": "geopolitical",
+          "context": "geopolitical events, including war and terrorism.",
+          "position": 21456
+        },
+        {
+          "keyword": "geopolitical",
+          "context": "rising inflation, natural or human-caused disasters (including public health crises) or extreme weather (including as a result of climate change), or geopolitical events. For example, we expect a disproportionate amount of our retail sales to occur during our fourth quarter. Our failure to stock or restock popu",
+          "position": 24987
+        }
+      ],
+      "rd_focus": [
+        {
+          "keyword": "AI",
+          "context": "Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters",
+          "position": 586
+        },
+        {
+          "keyword": "AI",
+          "context": "“AWS”). These segments reflect the way the Company evaluates its business performance and manages its operations. Information on our net sales is contained in Item 8 of Part II, “Financial Statements and Supplementary Data — Note 10 — Segment Information.”",
+          "position": 1979
+        },
+        {
+          "keyword": "AI",
+          "context": "umber of ways, including through: North America and International fulfillment networks that we operate; co-sourced and outsourced arrangements in certain countries; digital delivery; and through our physical stores. We operate customer service centers globally, which are supplemented by co-sourced arr",
+          "position": 3170
+        },
+        {
+          "keyword": "AI",
+          "context": "rs from many different industry sectors around the world. Our current and potential competitors include: (1) physical, e-commerce, and omnichannel retailers, publishers, vendors, distributors, manufacturers, and producers of the products we offer and sell to consumers and businesses; (2) publishers, p",
+          "position": 4780
+        },
+        {
+          "keyword": "AI",
+          "context": "tants, and other online and app-based means of discovering, using, or acquiring goods and services, either directly or in collaboration with other retailers; (4) companies that provide e-commerce services, including website development and hosting, omnichannel sales, inventory and supply chain managem",
+          "position": 5294
+        },
+        {
+          "keyword": "AI",
+          "context": "digital or other formats; and (10) providers of virtual or in-person healthcare services. We believe that the principal competitive factors in our retail businesses include selection, price, and convenience, including fast and reliable fulfillment. Additional competitive factors for our seller and ent",
+          "position": 6265
+        },
+        {
+          "keyword": "AI",
+          "context": "e internet facilitates competitive entry and comparison shopping, which enhances the ability of new, smaller, or lesser-known businesses to compete against us. Each of our businesses is also subject to rapid change and the development of new business models and the entry of new and well-funded competi",
+          "position": 7281
+        },
+        {
+          "keyword": "AI",
+          "context": "partners, and others to protect our proprietary rights. We have registered, or applied for the registration of, a number of U.S. and international domain names, trademarks, service marks, and copyrights. Additionally, we have filed U.S. and international patent applications covering certain of our pro",
+          "position": 8074
+        },
+        {
+          "keyword": "AI",
+          "context": "force. Competition for qualified personnel is intense, particularly for software engineers, computer scientists, and other technical staff, and constrained labor markets have increased competition for personnel across other parts of our business.",
+          "position": 8847
+        },
+        {
+          "keyword": "AI",
+          "context": "have participated in Career Choice. We also continue to inspect and refine the mechanisms we use to hire, develop, evaluate, and retain our employees. In addition, safety is integral to everything we do at Amazon and we continue to invest in safety improvements such as capital improv",
+          "position": 9485
+        }
+      ],
+      "ma_activity": [
+        {
+          "matched": "invested $1.25 billion in a convertible note from Anthropic",
+          "context": "d the acquisition of 1Life Healthcare, Inc. (One Medical) in 2023 with cash on hand. In Q3 2023, we invested $1.25 billion in a convertible note from Anthropic, PBC. In Q1 2024, we invested $2.75 billion in a second convertible note. In Q4 2024, we entered in",
+          "position": 98392
+        }
+      ],
+      "restructuring": [
+        {
+          "keyword": "restructuring",
+          "context": "This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal settlements are concluded.",
+          "position": 128150
+        },
+        {
+          "keyword": "efficiency",
+          "context": "our products and services. Steps we take to add software and hardware, upgrade our systems and network infrastructure, and improve the stability and efficiency of our systems may not be sufficient to avoid system interruptions or delays that could adversely affect our operating results.",
+          "position": 43403
+        },
+        {
+          "keyword": "efficiency",
+          "context": "yees from time to time. These organizational efforts, if successful, decrease our operational flexibility, which could adversely affect our operating efficiency. In addition, our response to any organizational efforts could be perceived negatively and harm our business and reputation.",
+          "position": 46614
+        },
+        {
+          "keyword": "efficiency",
+          "context": "o invest efficiently in numerous areas of technology and infrastructure so we may continue to enhance the customer experience and improve our process efficiency through rapid technology developments, while operating at an ever increasing scale. Our technology and infrastructure investment and capital spending",
+          "position": 111830
+        }
+      ]
+    }
+  },
+  "TSLA": {
+    "ticker": "TSLA",
+    "extracted": {
+      "competitors": [
+        {
+          "matched": "compete with small to medium",
+          "context": "Model S and Model X compete primarily with premium sedans and premium SUVs and Model 3 and Model Y compete with small to medium-sized sedans and compact SUVs, all of which are extremely competitive markets. Competing products t",
+          "position": 35370
+        },
+        {
+          "matched": "compete with these companies based on price, energy density and efficiency",
+          "context": "at are similar to our product portfolio or that are alternatives to the elements of our systems. We compete with these companies based on price, energy density and efficiency. We believe that the specifications and features of our products, our strong brand and the modular,",
+          "position": 36988
+        },
+        {
+          "matched": "compete with solar energy companies that provide products and services similar to ours",
+          "context": "he ease by which customers can switch to electricity generated by our solar energy systems. We also compete with solar energy companies that provide products and services similar to ours. Many solar energy companies only install solar energy systems, while others only provide financing",
+          "position": 37605
+        },
+        {
+          "matched": "compete with each other, our business, prospects, financial condition and operating results may be harmed",
+          "context": "more slowly than we expect, or if demand for our vehicles decreases in our markets or our vehicles compete with each other, our business, prospects, financial condition and operating results may be harmed.\nIn addition, electric vehicles still constitute a small percentage of overall vehicle sales. As a",
+          "position": 67894
+        },
+        {
+          "matched": "compete with both mature and prosperous companies that have far greater financial resources than we do and start",
+          "context": "ledge of electric vehicles, engineering and electrical and building construction expertise. We also compete with both mature and prosperous companies that have far greater financial resources than we do and start-ups and emerging companies that promise short-term growth opportunities.\nFinally, our compensation",
+          "position": 87429
+        },
+        {
+          "matched": "of market share",
+          "context": "t in our lower vehicle unit sales, price reductions, revenue shortfalls, loss of customers and loss of market share, which may harm our business, financial condition and operating results.\n16\nTable of Contents\nWe al",
+          "position": 71245
+        },
+        {
+          "keyword": "Intel",
+          "context": "Self-Driving Development and Artificial Intelligence",
+          "position": 9480
+        },
+        {
+          "keyword": "Intel",
+          "context": "We are also applying our artificial intelligence learnings from self-driving technology to the field of robotics, such as through Optimus, a robotic humanoid in development, which is controll",
+          "position": 10952
+        },
+        {
+          "keyword": "Intel",
+          "context": "gram has provided funding to 5,436 actively enrolled learners and 1,338 graduates acquiring valuable skills in manufacturing, engineering, artificial intelligence, supply chain management and leadership. The program partners with top-ranked online institutions and local colleges offering both flexible se",
+          "position": 45735
+        },
+        {
+          "keyword": "Intel",
+          "context": "nergy storage products and Solar Roof; new product versions or variants; new vehicles; and future products, features and services based on artificial intelligence. Likewise, we may encounter delays with the design, construction and regulatory or other approvals necessary to build and bring online future",
+          "position": 55223
+        }
+      ],
+      "market_share": [
+        {
+          "matched": "50% of",
+          "context": "enue Code (”IRC”), standalone energy storage technology is eligible for a tax credit between 6% and 50% of qualified expenditures, regardless of the source of energy, which may be claimed by our customers f",
+          "position": 26722
+        },
+        {
+          "matched": "70% of",
+          "context": "ular, pursuant to the IRA, Sections 48, 48E and 25D of the IRC provides a tax credit between 6% and 70% of qualified commercial or residential expenditures for solar energy systems, which may be claimed by",
+          "position": 27494
+        },
+        {
+          "matched": "80% of",
+          "context": "e employees based on their skills and performance. In 2024, over 13,000 of our employees worldwide, 80% of whom represent Tesla’s frontline workforce, took advantage of opportunities to advance their career",
+          "position": 42476
+        },
+        {
+          "matched": "2.3% of",
+          "context": "veterans, disabled veterans and individuals with disabilities. As of December 31, 2024, in the US, 2.3% of our employees are veterans or active-duty military personnel, 3.3% of our employees are identify as",
+          "position": 48537
+        },
+        {
+          "matched": "increased from 4% to 5%",
+          "context": "by additional costs year over year related to AI programs. R&D expenses as a percentage of revenue increased from 4% to 5% in the year ended December 31, 2024 as compared to the year ended December 31, 2023 as we continue",
+          "position": 179074
+        }
+      ],
+      "product_roadmap": [
+        {
+          "matched": "new products and features",
+          "context": "have previously experienced and may in the future experience launch and production ramp delays for new products and features. For example, we encountered unanticipated supplier issues that led to delays during the initial ra",
+          "position": 53531
+        },
+        {
+          "matched": "new product versions or variants",
+          "context": "future delays in launching and/or ramping production of our energy storage products and Solar Roof; new product versions or variants; new vehicles; and future products, features and services based on artificial intelligence. Likewis",
+          "position": 55262
+        },
+        {
+          "matched": "new products and increase production capacity by expanding our current manufacturing facilities and adding future facilities",
+          "context": "ch we anticipate will fluctuate as the pace at which we continue to design, develop and manufacture new products and increase production capacity by expanding our current manufacturing facilities and adding future facilities, may not be consistent or linear between periods. Additionally, our revenues from period to period",
+          "position": 128389
+        },
+        {
+          "matched": "new product manufacturing ramps",
+          "context": "timately be accurate and has in the past been inaccurate in certain respects, such as the timing of new product manufacturing ramps. Our guidance is based on certain assumptions such as those relating to anticipated production and",
+          "position": 129779
+        },
+        {
+          "matched": "new products",
+          "context": "he continued ramp at our factories and be initiated by advances in autonomy and the introduction of new products, including those built on our next generation vehicle platform, as well as our ability to add to ou",
+          "position": 147783
+        },
+        {
+          "matched": "new product and manufacturing technologies we introduce",
+          "context": "tainties inherent in establishing and ramping manufacturing operations, which may be exacerbated by new product and manufacturing technologies we introduce, the number of concurrent international projects, any industry-wide component constraints, labor sh",
+          "position": 148328
+        },
+        {
+          "matched": "new products will help enable future growth",
+          "context": "d focus on operating leverage will continue to benefit us in relation to our competitors, while our new products will help enable future growth.\nAs our production increases, we must work constantly to similarly increase vehicle delivery capabi",
+          "position": 151942
+        },
+        {
+          "matched": "new products",
+          "context": "d by uncertainties in future global market conditions. We are simultaneously developing and ramping new products, building or ramping manufacturing facilities on three continents, piloting the development and man",
+          "position": 154133
+        },
+        {
+          "matched": "new products and technologies including our proprietary battery cells",
+          "context": "ons enables us to fund ongoing operations and production, our research and development projects for new products and technologies including our proprietary battery cells, additional manufacturing ramps at existing manufacturing facilities, the construction of future fa",
+          "position": 184532
+        },
+        {
+          "keyword": "launch",
+          "context": "In 2025, we intend to begin launching our Robotaxi business, a ride-hailing network that will eventually operate fully autonomous vehicles. We expect this business will open access to",
+          "position": 10537
+        }
+      ],
+      "supply_chain": [],
+      "management_guidance": [
+        {
+          "keyword": "expect",
+          "context": "ate Securities Litigation Reform Act of 1995. Forward-looking statements are based on assumptions with respect to the future and management’s current expectations, involve certain risks and uncertainties and are not guarantees. These forward-looking statements include, but are not limited to, statements c",
+          "position": 1093
+        },
+        {
+          "keyword": "expect",
+          "context": "s in which we operate, prospects and plans and objectives of management. The words “anticipates,” “believes,” “could,” “estimates,” “expects,” “intends,” “may,” “plans,” “projects,” “will,” “would,” “predicts” and similar expressions are intended to identify forward-looking statements, al",
+          "position": 1737
+        },
+        {
+          "keyword": "expect",
+          "context": "r materially from the plans, intentions and expectations disclosed in the forward-looking statements that we make. These forward-looking statements involve risks and uncertainties that could cause our",
+          "position": 2310
+        },
+        {
+          "keyword": "expect",
+          "context": "In 2025, we intend to begin launching our Robotaxi business, a ride-hailing network that will eventually operate fully autonomous vehicles. We expect this business will open access to a new customer base even as modes of transportation evolve. We believe our capabilities and advancements in AI, inc",
+          "position": 10537
+        },
+        {
+          "keyword": "expect",
+          "context": "tely over-the-air, our customers may purchase additional paid options and features through the Tesla app or through the in-vehicle user interface. We expect that this functionality will also allow us to offer certain options and features on a subscription basis in the future.",
+          "position": 17219
+        },
+        {
+          "keyword": "expect",
+          "context": "andard. Numerous FMVSS apply to our vehicles, such as crash-worthiness and occupant protection requirements. Our current vehicles fully comply and we expect that our vehicles in the future will fully comply with all applicable FMVSS with limited or no exemptions; however, FMVSS are subject to change from",
+          "position": 28134
+        },
+        {
+          "keyword": "expect",
+          "context": "slators to interpret existing laws or enact new laws in ways not favorable to our ownership and operation of our own retail and service locations. We expect such challenges to continue, and we intend to actively fight any such efforts.",
+          "position": 32789
+        },
+        {
+          "keyword": "expect",
+          "context": "The worldwide automotive market is highly competitive and we expect it will become even more competitive in the future as a significant and growing number of established and new automobile manufacturers, as well as ot",
+          "position": 34752
+        },
+        {
+          "keyword": "expect",
+          "context": "petition for our vehicle offerings as a platform for delivering self-driving technologies, charging solutions and other features and services, and we expect to compete in this developing market through continued progress on our Autopilot, FSD (Supervised) and neural network capabilities, Supercharger netw",
+          "position": 36355
+        },
+        {
+          "keyword": "expect",
+          "context": "At Tesla, our employees’ passion is what powers our mission. Everyone is expected to be trustworthy, demonstrate excellence in their performance and collaborate with others. Our factories, offices, stores and service centers are",
+          "position": 48895
+        }
+      ],
+      "customer_concentration": [],
+      "geopolitical_impact": [
+        {
+          "matched": "trade restrictions, customs regulations, tariffs and price or exchange controls; and preferences in foreign nations for domestically manufactured products. For example, we monitor tax legislation changes on a global basis, including changes arising as a result of the Organization for Economic Cooperation and Development’s multi-jurisdictional plan of action to address base erosion and profit shifting. Such conditions may increase our cost",
+          "context": "gn government taxes, regulations and permit requirements; enforceability of our contractual rights; trade restrictions, customs regulations, tariffs and price or exchange controls; and preferences in foreign nations for domestically manufactured products. For example, we monitor tax legislation changes on a global basis, including changes arising as a result of the Organization for Economic Cooperation and Development’s multi-jurisdictional plan of action to address base erosion and profit shifting. Such conditions may increase our costs, impact our ability to sell our products and require significant management attention, and may har",
+          "position": 74190
+        },
+        {
+          "keyword": "tariff",
+          "context": "rdability of our vehicles for customers in local markets by reducing transportation and manufacturing costs and eliminating the impact of unfavorable tariffs. In March 2023, we announced the location of our next Gigafactory in Monterrey, Mexico. Generally, we continue to expand production capacity at our",
+          "position": 21761
+        },
+        {
+          "keyword": "tariff",
+          "context": "pact on the pricing of, and order rate for our vehicles, and in turn our operating margin. Changes in government and economic policies, incentives or tariffs may also impact our production, sales, cost structure and the competitive landscape. We will continue to adjust accordingly to such developments, an",
+          "position": 151386
+        },
+        {
+          "keyword": "tariff",
+          "context": "ill have to maintain adequate battery cell supply for our energy storage products. At the same time, changes in government and economic incentives or tariffs may also impact our sales, cost structure and the competitive landscape.",
+          "position": 153584
+        },
+        {
+          "keyword": "China",
+          "context": "Other key markets, including China, continue to consider self-driving regulation. Any implemented regulations may differ materially from the U.S. and ECE markets, which may further inc",
+          "position": 31371
+        },
+        {
+          "keyword": "China",
+          "context": "tive to internal combustion vehicles. Many major automobile manufacturers have electric vehicles available today in major markets including the U.S., China and Europe, and other current and prospective automobile manufacturers are also developing electric vehicles. In addition, several manufacturers offe",
+          "position": 35939
+        },
+        {
+          "keyword": "China",
+          "context": "chains and achieve the design tolerances, high quality and output rates we have planned at our manufacturing facilities in California, Nevada, Texas, China, Germany and any future sites such as Mexico. We will also need to hire, train and compensate skilled employees to operate these facilities. Bottlene",
+          "position": 54393
+        },
+        {
+          "keyword": "China",
+          "context": "other vehicle applications and software platforms. In some cases, our competitors offer or will offer electric vehicles in important markets such as China and Europe, and/or have announced an intention to produce electric vehicles exclusively at some point in the future. In addition, certain government",
+          "position": 70388
+        },
+        {
+          "keyword": "China",
+          "context": "erently unpredictable. Our operations in such jurisdictions, particularly as a company based in the U.S., with additional manufacturing operations in China and Europe, create risks relating to conforming our products to regulatory and safety requirements and charging and other electric infrastructures; o",
+          "position": 73641
+        },
+        {
+          "keyword": "China",
+          "context": "continue to be subject to complex environmental, occupational, health and safety laws and regulations at numerous jurisdictional levels in the U.S., China, Germany and other locations abroad, including laws relating to the use, handling, storage, recycling, disposal and/or human exposure to hazardous ma",
+          "position": 115766
+        }
+      ],
+      "rd_focus": [
+        {
+          "matched": "developing and manufacturing our current or future product",
+          "context": "from financial institutions to fund, together with our principal sources of liquidity, the costs of developing and manufacturing our current or future products, to pay any significant unplanned or accelerated expenses or for new significant strategic investm",
+          "position": 102320
+        },
+        {
+          "matched": "developing and ramping new product",
+          "context": "may further be impacted by uncertainties in future global market conditions. We are simultaneously developing and ramping new products, building or ramping manufacturing facilities on three continents, piloting the development and ma",
+          "position": 154110
+        },
+        {
+          "keyword": "AI",
+          "context": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+          "position": 588
+        },
+        {
+          "keyword": "AI",
+          "context": "ptions with respect to the future and management’s current expectations, involve certain risks and uncertainties and are not guarantees. These forward-looking statements include, but are not limited to, statements concerning supply chain constraints, our st",
+          "position": 1184
+        },
+        {
+          "keyword": "AI",
+          "context": "ll,” “would,” “predicts” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements and you shoul",
+          "position": 1922
+        },
+        {
+          "keyword": "AI",
+          "context": "lower the cost of ownership for our customers through continuous efforts to reduce manufacturing costs and by offering financial and other services tailored to our products.",
+          "position": 3847
+        },
+        {
+          "keyword": "AI",
+          "context": "otive regulatory credits. Additionally, the automotive segment also includes services and other, which includes sales of used vehicles, non-warranty maintenance services and collision, part sales, paid Supercharging, insurance services revenue and retail merchandise sales. The energy generation and st",
+          "position": 4543
+        },
+        {
+          "keyword": "AI",
+          "context": "ly. In November 2023, we entered the consumer pickup truck market with first deliveries of the Cybertruck, a full-size electric pickup truck with a stainless steel exterior that has the utility and strength of a truck while featuring the speed of a sports car.",
+          "position": 5655
+        },
+        {
+          "keyword": "AI",
+          "context": "nts for our retrofit solar energy systems from multiple sources to ensure competitive pricing and adequate supply. We also design and manufacture certain components for our solar energy products.",
+          "position": 7397
+        },
+        {
+          "keyword": "AI",
+          "context": "Battery and Powertrain",
+          "position": 7908
+        }
+      ],
+      "ma_activity": [],
+      "restructuring": [
+        {
+          "matched": "reduce costs and improve efficiency. As a result, we recognized $583 million",
+          "context": "e second quarter of 2024, we initiated and substantially completed certain restructuring actions to reduce costs and improve efficiency. As a result, we recognized $583 million of employee termination expenses in Restructuring and other in our consolidated income statement. T",
+          "position": 180482
+        },
+        {
+          "keyword": "cost reduction",
+          "context": "trategy, competition, future operations and production capacity, future financial position, future revenues, projected costs, profitability, expected cost reductions, capital adequacy, expectations regarding demand and acceptance for our technologies, growth opportunities and trends in the markets in which we ope",
+          "position": 1440
+        },
+        {
+          "keyword": "cost reduction",
+          "context": "ill be able to do so quickly or at all. Additionally, we may be unsuccessful in our continuous efforts to negotiate with existing suppliers to obtain cost reductions and avoid unfavorable changes to terms, source less expensive suppliers for certain parts and redesign certain parts to make them less expensive to",
+          "position": 58404
+        },
+        {
+          "keyword": "cost reduction",
+          "context": "oduction and sales volumes (which generally are not linear throughout a given period), average sales prices, supplier and commodity costs and planned cost reductions. If our guidance varies from actual results, such as due to our assumptions not being met or the impact on our financial performance that could occu",
+          "position": 129897
+        },
+        {
+          "keyword": "cost reduction",
+          "context": "rth quarter of 2023.We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate ou",
+          "position": 145669
+        },
+        {
+          "keyword": "cost reduction",
+          "context": "Our cost reduction efforts, cost innovation strategies, and additional localized procurement and manufacturing are key to our vehicles’ affordability and have allowed u",
+          "position": 149363
+        },
+        {
+          "keyword": "cost reduction",
+          "context": "duction, sales, cost structure and the competitive landscape. We will continue to adjust accordingly to such developments, and we believe our ongoing cost reduction, including improved production innovation and efficiency at our newest factories and lower logistics costs, and focus on operating leverage will cont",
+          "position": 151567
+        },
+        {
+          "keyword": "cost reduction",
+          "context": "ded December 31, 2024 as compared to the year ended December 31, 2023, primarily due to margin improvements for our energy storage products driven by cost reductions, including benefits from IRA manufacturing credits, and a higher proportion of our storage business, which operated at a higher gross margin, within",
+          "position": 177910
+        },
+        {
+          "keyword": "efficiency",
+          "context": "um glass roof tiles with energy generation, to consumers, including through channel customers. We continue to improve our installation capability and efficiency, including through collaboration with real estate developers and builders on new homes.",
+          "position": 7637
+        },
+        {
+          "keyword": "efficiency",
+          "context": "We have engineered Solar Roof over numerous iterations to combine aesthetic appeal and durability with power generation. The efficiency of our solar energy products is aided by our own solar inverter, which incorporates our power electronics technologies. We designed both products to",
+          "position": 11782
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "ticker": "AMZN",
+  "company_name": "Amazon.com Inc.",
+  "analyzed_at": "2025-11-06T11:51:18.869481",
+  "business_model": {
+    "model_type": "E-commerce + Cloud + Advertising",
+    "description": "이커머스(아마존닷컴)와 AWS(클라우드)가 양대 축. 광고 사업 급성장 중.",
+    "revenue_streams": [
+      {
+        "stream": "E-commerce",
+        "characteristics": "저마진(5%), 거대 규모, 프라임 멤버십"
+      },
+      {
+        "stream": "AWS",
+        "characteristics": "초고마진(30%), 클라우드 1위, 핵심 수익원"
+      },
+      {
+        "stream": "Advertising",
+        "characteristics": "고성장(20%+), 고마진, 신성장 동력"
+      },
+      {
+        "stream": "Prime",
+        "characteristics": "구독(연회비), 락인 효과"
+      }
+    ],
+    "understandability_score": 9,
+    "reason": "아마존 쇼핑 누구나 알고 사용. AWS는 좀 복잡하지만 클라우드 컴퓨팅."
+  },
+  "competitive_advantages": {
+    "moat_strength": "매우 강함 (Wide Moat)",
+    "moat_sustainability": 9,
+    "moat_factors": [
+      {
+        "type": "Scale",
+        "strength": 10,
+        "description": "물류 네트워크 세계 최대. 2일 배송 인프라. 경쟁사 불가능."
+      },
+      {
+        "type": "Network Effects",
+        "strength": 9,
+        "description": "판매자 많음 → 상품 다양 → 고객 증가 → 판매자 증가 (선순환)"
+      },
+      {
+        "type": "Prime Ecosystem",
+        "strength": 9,
+        "description": "Prime 멤버 2억명+. Video, Music, 배송 혜택. 락인 강력."
+      },
+      {
+        "type": "AWS Leadership",
+        "strength": 8,
+        "description": "AWS 클라우드 1위(32%). 기술력, 생태계 최강."
+      }
+    ],
+    "moat_durability": "10년+",
+    "moat_widening": true
+  },
+  "risks": {
+    "overall_risk_level": "중간",
+    "risk_score": 50,
+    "top_3_risks": [
+      "AWS 경쟁 심화 (MSFT, Google)",
+      "E-commerce 저마진",
+      "규제 리스크 (반독점, 노동 이슈)"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 85,
+    "grade": "A",
+    "strengths": [
+      "AWS 압도적 리더 (32% 점유율)",
+      "거대 물류 네트워크",
+      "Prime 2억 멤버",
+      "광고 고성장",
+      "혁신 문화"
+    ],
+    "sustainability_score": 7
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 65,
+      "assessment": "HOLD",
+      "verdict": "E-commerce 저마진 우려. AWS는 우수. 전체적으로 안전마진 부족.",
+      "recommendation": "하락 시 검토."
+    },
+    "fisher": {
+      "score": 92,
+      "assessment": "STRONG BUY",
+      "verdict": "혁신 능력 최고. AWS, 광고 고성장. 장기 전망 탁월.",
+      "recommendation": "10년 보유."
+    },
+    "greenblatt": {
+      "score": 75,
+      "assessment": "BUY",
+      "verdict": "AWS는 ROIC 높지만 E-commerce가 희석. 종합 적당.",
+      "recommendation": "적정가 이하 시 매수."
+    },
+    "daily": {
+      "score": 98,
+      "assessment": "MUST OWN",
+      "verdict": "매일 쓰는 아마존. 배송 빠르고 편리. 생활 필수.",
+      "recommendation": "핵심 보유."
+    }
+  }
+}

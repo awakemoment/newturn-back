@@ -1,0 +1,66 @@
+{
+  "ticker": "WMT",
+  "company_name": "Walmart Inc.",
+  "business_model": {
+    "model_type": "Retail (Discount)",
+    "description": "할인 소매. 슈퍼마켓, E-commerce.",
+    "understandability_score": 10,
+    "reason": "Walmart 마트. 최고로 이해 쉬움."
+  },
+  "competitive_advantages": {
+    "moat_strength": "강함",
+    "moat_sustainability": 8,
+    "moat_factors": [
+      {
+        "type": "Scale",
+        "strength": 10,
+        "description": "세계 최대 소매. 구매력 압도적."
+      },
+      {
+        "type": "Cost Leadership",
+        "strength": 9,
+        "description": "EDLP (매일 저가). 원가 최저."
+      },
+      {
+        "type": "Distribution",
+        "strength": 8,
+        "description": "물류 네트워크 최강."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "낮음",
+    "risk_score": 35,
+    "top_3_risks": [
+      "Amazon 경쟁",
+      "저마진",
+      "노동 비용 상승"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 80,
+    "grade": "A"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 82,
+      "assessment": "BUY",
+      "verdict": "안정적. 배당 우수. 필수소비재."
+    },
+    "fisher": {
+      "score": 72,
+      "assessment": "HOLD",
+      "verdict": "성장 제한적. E-commerce 전환 중."
+    },
+    "greenblatt": {
+      "score": 70,
+      "assessment": "HOLD",
+      "verdict": "ROE 낮음. 저마진 구조."
+    },
+    "daily": {
+      "score": 95,
+      "assessment": "MUST OWN",
+      "verdict": "매주 가는 마트. 생활 필수."
+    }
+  }
+}

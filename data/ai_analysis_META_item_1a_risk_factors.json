@@ -1,0 +1,288 @@
+{
+  "ticker": "META",
+  "section": "item_1a_risk_factors",
+  "analyzed_at": "2025-11-06",
+  
+  "risk_summary": {
+    "total_pages": "~80.7 pages (가장 긴 Risk Factors 섹션)",
+    "categories": 7,
+    "note": "Meta는 소셜 미디어/광고 비즈니스 특성상 규제 리스크가 매우 높음"
+  },
+  
+  "risk_categories": {
+    "product_user_risks": {
+      "importance": "Very High",
+      "risks": [
+        {
+          "risk": "사용자 추가 및 유지 실패",
+          "description": "사용자 성장 둔화, 참여도 감소",
+          "impact": "광고 노출 감소 → 매출 감소",
+          "new": false
+        },
+        {
+          "risk": "광고주 손실 또는 지출 감소",
+          "description": "광고주 이탈, 광고 예산 축소",
+          "impact": "매출의 98% 영향 (FoA 광고)",
+          "new": false
+        },
+        {
+          "risk": "데이터 시그널 가용성 감소",
+          "description": "광고 타겟팅 및 측정 도구에 사용되는 데이터 시그널 감소",
+          "impact": "광고 효과 감소 → 광고주 지출 감소",
+          "new": false
+        },
+        {
+          "risk": "모바일 OS 파트너 관계 변화",
+          "description": "Apple iOS, Google Android 등과의 관계 변화 (예: iOS 14+ 추적 투명성)",
+          "impact": "앱 배포 제한, 기능 제한, 데이터 접근 제한",
+          "new": false
+        },
+        {
+          "risk": "신제품 실패",
+          "description": "Threads, RL 제품 등 신제품의 사용자 유치 또는 수익 창출 실패",
+          "impact": "투자 손실, 수익 다변화 실패",
+          "new": false
+        }
+      ]
+    },
+    
+    "business_operations": {
+      "importance": "High",
+      "risks": [
+        {
+          "risk": "경쟁 심화",
+          "description": "TikTok 등 소셜 미디어, 광고 플랫폼 경쟁",
+          "impact": "사용자 및 광고주 이탈, 시장 점유율 손실",
+          "new": false
+        },
+        {
+          "risk": "재무 결과 변동성",
+          "description": "분기별 매출 및 수익 변동",
+          "impact": "투자자 신뢰 감소, 주가 변동",
+          "new": false
+        },
+        {
+          "risk": "부정적 미디어 보도 및 브랜드 평판",
+          "description": "콘텐츠 조정, 프라이버시, 정신 건강 영향 등 부정적 보도",
+          "impact": "사용자 및 광고주 이탈, 평판 손상",
+          "new": false
+        },
+        {
+          "risk": "인프라 확장 및 유지",
+          "description": "AI, 비디오, VR/MR 증가로 인한 컴퓨팅 수요 폭발. 데이터 센터, 전력, 네트워크 용량 필요.",
+          "impact": "CAPEX 증가, 서비스 중단 리스크",
+          "new": false
+        },
+        {
+          "risk": "글로벌 운영",
+          "description": "여러 국가에서 운영. 각국 법률, 규제, 문화 차이.",
+          "impact": "컴플라이언스 복잡도 증가, 비용 증가",
+          "new": false
+        }
+      ]
+    },
+    
+    "government_regulation": {
+      "importance": "Very High",
+      "risks": [
+        {
+          "risk": "EU GDPR 데이터 이전 제한",
+          "description": "€1.2B 벌금 (2023년 5월). EEA 사용자 데이터의 미국 이전 금지 명령. EU-U.S. DPF 프레임워크 도입됐으나, 이전 2개 프레임워크가 CJEU에 의해 무효화된 전례. DPF도 무효화 시 Facebook/Instagram EU 서비스 제공 불가.",
+          "impact": "EU 서비스 중단 가능 (최악의 경우), 매출 및 사용자 대폭 감소",
+          "financial_impact": "€1.2B 벌금 (이미 부과)",
+          "new": true,
+          "severity": "Very High"
+        },
+        {
+          "risk": "EU DMA (Digital Markets Act) 컴플라이언스",
+          "description": "2024년 3월부터 게이트키퍼 기업 적용. '광고 없는 구독' 모델 미준수 예비 판단 (2024년 7월). 2025년 3월 결론 예정. 데이터 결합, M&A, 제품 설계 제한.",
+          "impact": "높은 벌금, 사업 모델 변경, 매출 감소",
+          "financial_impact": "미명시 (상당한 벌금 가능)",
+          "new": true,
+          "severity": "Very High"
+        },
+        {
+          "risk": "EU DSA (Digital Services Act)",
+          "description": "2023년 8월부터 적용. 제품 및 서비스 제한 및 요구사항.",
+          "impact": "컴플라이언스 비용 증가, 높은 벌금 가능",
+          "new": true,
+          "severity": "Medium-High"
+        },
+        {
+          "risk": "FTC 동의 명령 위반 혐의",
+          "description": "FTC가 COPPA 위반 혐의로 행정 절차 개시. 18세 미만 사용자 데이터 사용 제한, 신제품 출시 제한 요구.",
+          "impact": "사업 제한, 벌금, 평판 손상",
+          "status": "법원에서 이의 제기 중",
+          "new": true,
+          "severity": "High"
+        },
+        {
+          "risk": "미성년자 보호 법률",
+          "description": "호주: 16세 미만 소셜 미디어 금지 (2025년 12월). 미국: Arkansas, Utah, Texas, California, Florida 등 부모 동의 요구 또는 서비스 제한.",
+          "impact": "특정 지역 사용자 감소, 매출 감소",
+          "new": true,
+          "severity": "Medium-High"
+        },
+        {
+          "risk": "Section 230 보호 약화",
+          "description": "온라인 플랫폼 보호 (Section 230)를 제한하려는 입법 및 소송 지속",
+          "impact": "콘텐츠 조정 비용 증가, 법적 책임 증가",
+          "new": false,
+          "severity": "Medium"
+        },
+        {
+          "risk": "정부의 플랫폼 접근 차단",
+          "description": "특정 국가에서 Facebook 또는 다른 제품 접근 차단",
+          "impact": "해당 국가 매출 및 사용자 손실",
+          "new": false
+        }
+      ]
+    },
+    
+    "data_security_ip": {
+      "importance": "Very High",
+      "risks": [
+        {
+          "risk": "보안 침해 및 데이터 유출",
+          "description": "사이버 공격, 해킹, 내부자 위협. 30억+ 사용자 데이터 보호.",
+          "impact": "막대한 벌금, 평판 손상, 사용자 이탈, 법적 책임",
+          "new": false
+        },
+        {
+          "risk": "플랫폼 오용 및 유해 콘텐츠",
+          "description": "허위 정보, 혐오 발언, 불법 활동, 사기 등 플랫폼 악용",
+          "impact": "평판 손상, 규제 조치, 광고주 이탈",
+          "new": false
+        },
+        {
+          "risk": "지식재산권 침해 소송",
+          "description": "특허, 저작권, 상표 침해 소송. AI/ML 도입으로 리스크 증가.",
+          "impact": "법적 비용, 라이선스 비용, 제품 변경",
+          "new": false
+        }
+      ]
+    },
+    
+    "rl_metaverse": {
+      "importance": "High",
+      "risks": [
+        {
+          "risk": "Reality Labs 지속 손실",
+          "description": "$19.88B 투자 (2024년) vs $2.1B 매출. 향후에도 손실 지속 예상. 많은 제품이 10년 내 실현.",
+          "impact": "FoA 수익으로 RL 손실 보전. FoA 수익성 악화 시 RL 투자 지속 불가.",
+          "dependency": "FoA 수익성에 의존",
+          "new": false,
+          "severity": "Medium-High"
+        },
+        {
+          "risk": "메타버스 시장 미성숙",
+          "description": "메타버스 개발 초기 단계. 시장 수용도 불확실.",
+          "impact": "투자 회수 불확실, 장기 손실",
+          "new": false
+        }
+      ]
+    },
+    
+    "ownership": {
+      "importance": "Medium",
+      "risks": [
+        {
+          "risk": "이중 주식 구조 및 Mark Zuckerberg 통제",
+          "description": "Mark Zuckerberg가 의결권 과반 보유. Class A 주주는 기업 결정에 영향력 제한.",
+          "impact": "주주 거버넌스 제한",
+          "new": false
+        }
+      ]
+    }
+  },
+  
+  "new_risks_2024_2025": [
+    {
+      "risk": "EU GDPR €1.2B 벌금 및 데이터 이전 금지",
+      "severity": "Very High",
+      "status": "항소 중 (임시 정지)",
+      "worst_case": "EU-U.S. DPF 무효화 시 Facebook/Instagram EU 서비스 중단"
+    },
+    {
+      "risk": "EU DMA '광고 없는 구독' 조사",
+      "severity": "Very High",
+      "status": "2025년 3월 결론 예정 (예비 판단: 미준수)",
+      "response": "2024년 11월 '덜 개인화된 광고' 옵션 도입"
+    },
+    {
+      "risk": "FTC COPPA 위반 혐의",
+      "severity": "High",
+      "impact": "18세 미만 데이터 사용 제한, 신제품 출시 제한",
+      "status": "법원 이의 제기 중"
+    },
+    {
+      "risk": "호주 16세 미만 소셜 미디어 금지",
+      "severity": "Medium-High",
+      "timing": "2025년 12월 시행 예정",
+      "impact": "호주 미성년자 사용자 손실"
+    },
+    {
+      "risk": "EU DSA 적용",
+      "severity": "Medium-High",
+      "timing": "2023년 8월부터",
+      "impact": "콘텐츠 조정 요구사항, 컴플라이언스 비용"
+    }
+  ],
+  
+  "top_5_risks": [
+    {
+      "rank": 1,
+      "risk": "EU 데이터 규제 (GDPR, DMA)",
+      "impact": "€1.2B 벌금 + 추가 벌금 가능. 최악의 경우 EU 서비스 중단 (매출의 ~25% 위험)",
+      "mitigation": "EU-U.S. DPF 프레임워크 활용, DMA 컴플라이언스 계획 수정"
+    },
+    {
+      "rank": 2,
+      "risk": "광고 수익 의존도 (98%)",
+      "description": "FoA 광고가 전체 매출의 98%. 광고주 이탈 또는 규제로 인한 타겟팅 제한 시 치명적.",
+      "mitigation": "수익 다변화 노력 (RL, WhatsApp Business)"
+    },
+    {
+      "rank": 3,
+      "risk": "Reality Labs 지속 손실 ($19.88B)",
+      "impact": "FoA 수익성 악화 시 RL 투자 지속 불가. 장기 투자 회수 불확실.",
+      "mitigation": "FoA 수익 최적화, RL 비용 관리"
+    },
+    {
+      "rank": 4,
+      "risk": "사용자 성장 및 참여도 유지",
+      "impact": "사용자 감소 → 광고 노출 감소 → 매출 감소",
+      "mitigation": "AI 디스커버리 엔진, Reels, Threads 등 신제품"
+    },
+    {
+      "rank": 5,
+      "risk": "사이버 보안 및 데이터 유출",
+      "impact": "막대한 벌금, 평판 손상, 사용자 이탈",
+      "mitigation": "보안 투자, 암호화, 플랫폼 무결성 팀"
+    }
+  ],
+  
+  "regulatory_timeline": {
+    "2023_05": "EU GDPR 벌금 €1.2B",
+    "2023_08": "EU DSA 적용 시작",
+    "2024_03": "EU DMA 적용 시작, '광고 없는 구독' 조사 시작",
+    "2024_07": "DMA 예비 판단 (미준수)",
+    "2024_11": "'덜 개인화된 광고' 옵션 도입",
+    "2025_03": "DMA 조사 결론 예정 (향후)",
+    "2025_12": "호주 16세 미만 금지 시행 예정 (향후)"
+  },
+  
+  "key_takeaways": [
+    "🚨 EU 규제 폭풍: GDPR €1.2B + DMA 조사 (2025년 3월 결론)",
+    "🚨 광고 의존도 98% (단일 수익원 리스크)",
+    "🚨 RL 손실 $19.88B (FoA 수익으로 보전)",
+    "🚨 FTC COPPA 위반 혐의 (18세 미만 데이터 제한 위험)",
+    "🚨 호주 16세 미만 금지 (2025년 12월)",
+    "⚠️ 사용자 성장 둔화 리스크",
+    "⚠️ 데이터 시그널 감소 (iOS 추적 투명성 등)",
+    "⚠️ TikTok 등 경쟁 심화",
+    "⚠️ Mark Zuckerberg 통제 (이중 주식 구조)",
+    "📊 ~80페이지 리스크 (가장 긴 섹션) - 규제 환경 매우 복잡"
+  ]
+}
+

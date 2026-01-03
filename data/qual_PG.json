@@ -1,0 +1,66 @@
+{
+  "ticker": "PG",
+  "company_name": "Procter & Gamble Co.",
+  "business_model": {
+    "model_type": "Consumer Goods",
+    "description": "생활용품. Tide, Pampers, Gillette 등.",
+    "understandability_score": 10,
+    "reason": "Tide 세제, Gillette 면도기. 집에 다 있음."
+  },
+  "competitive_advantages": {
+    "moat_strength": "매우 강함",
+    "moat_sustainability": 10,
+    "moat_factors": [
+      {
+        "type": "Brand Portfolio",
+        "strength": 10,
+        "description": "65개 $1B+ 브랜드. 브랜드 파워 최강."
+      },
+      {
+        "type": "Distribution",
+        "strength": 9,
+        "description": "전 세계 유통망. 신제품 즉시 배포."
+      },
+      {
+        "type": "Customer Loyalty",
+        "strength": 9,
+        "description": "한 번 쓰면 계속 씀. 전환 이유 없음."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "매우 낮음",
+    "risk_score": 25,
+    "top_3_risks": [
+      "원자재 가격",
+      "환율",
+      "경쟁 (Unilever)"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 88,
+    "grade": "A+"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 95,
+      "assessment": "STRONG BUY",
+      "verdict": "배당 65년+ 연속 증액. 초디펜시브. 완벽한 안전 자산."
+    },
+    "fisher": {
+      "score": 70,
+      "assessment": "HOLD",
+      "verdict": "성장 둔화. 성숙 시장. 혁신 제한적."
+    },
+    "greenblatt": {
+      "score": 88,
+      "assessment": "BUY",
+      "verdict": "ROE 30%+. 자본 효율 우수."
+    },
+    "daily": {
+      "score": 100,
+      "assessment": "MUST OWN",
+      "verdict": "집에 있는 모든 생필품이 P&G. Tide, Pampers, Gillette."
+    }
+  }
+}

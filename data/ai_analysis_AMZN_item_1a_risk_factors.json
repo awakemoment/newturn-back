@@ -1,0 +1,14 @@
+{
+  "ticker": "AMZN",
+  "section": "item_1a_risk_factors",
+  "analyzed_at": "2025-11-06",
+  
+  "top_5_risks": [
+    {"rank": 1, "risk": "경쟁 심화 (소매 및 클라우드)", "severity": "High"},
+    {"rank": 2, "risk": "AWS 경쟁 (Azure, Google Cloud)", "severity": "High"},
+    {"rank": 3, "risk": "규제 (독점금지, 프라이버시)", "severity": "Medium"},
+    {"rank": 4, "risk": "사이버 보안", "severity": "Medium"},
+    {"rank": 5, "risk": "글로벌 운영", "severity": "Medium"}
+  ]
+}
+

@@ -1,0 +1,66 @@
+{
+  "ticker": "XOM",
+  "company_name": "Exxon Mobil Corporation",
+  "business_model": {
+    "model_type": "Integrated Oil & Gas",
+    "description": "석유 탐사, 정제, 판매. 통합 석유 기업.",
+    "understandability_score": 9,
+    "reason": "Exxon 주유소. 석유 회사. 이해 쉬움."
+  },
+  "competitive_advantages": {
+    "moat_strength": "강함",
+    "moat_sustainability": 7,
+    "moat_factors": [
+      {
+        "type": "Scale",
+        "strength": 9,
+        "description": "세계 최대 석유 기업 중 하나."
+      },
+      {
+        "type": "Integrated",
+        "strength": 8,
+        "description": "탐사부터 정제까지. 수직 통합."
+      },
+      {
+        "type": "Oil Reserves",
+        "strength": 8,
+        "description": "막대한 매장량."
+      }
+    ]
+  },
+  "risks": {
+    "overall_risk_level": "중간",
+    "risk_score": 55,
+    "top_3_risks": [
+      "유가 변동",
+      "탄소중립 전환",
+      "규제"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 75,
+    "grade": "B+"
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 80,
+      "assessment": "BUY",
+      "verdict": "배당 우수. 유가 상승 시 안전마진. 장기는 리스크."
+    },
+    "fisher": {
+      "score": 50,
+      "assessment": "SELL",
+      "verdict": "석유는 쇠퇴 산업. 장기 성장 의문."
+    },
+    "greenblatt": {
+      "score": 65,
+      "assessment": "HOLD",
+      "verdict": "ROIC 변동 심함. 자본 집약적."
+    },
+    "daily": {
+      "score": 85,
+      "assessment": "BUY",
+      "verdict": "Exxon 주유소. 매주 기름 넣음."
+    }
+  }
+}

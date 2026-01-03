@@ -1,0 +1,21 @@
+{
+  "ticker": "V",
+  "section": "item_1a_risk_factors",
+  "analyzed_at": "2025-11-06",
+  
+  "top_5_risks": [
+    {"rank": 1, "risk": "디지털 지갑 및 대체 결제 방식 (Apple Pay, PayPal, CBDC)", "severity": "Medium-High"},
+    {"rank": 2, "risk": "규제 (독점금지, 수수료 규제)", "severity": "Medium"},
+    {"rank": 3, "risk": "사이버 보안 및 사기", "severity": "High"},
+    {"rank": 4, "risk": "경쟁 (Mastercard, Amex, 국내 시스템)", "severity": "Medium"},
+    {"rank": 5, "risk": "지정학 및 국제 규제", "severity": "Medium"}
+  ],
+  
+  "key_takeaways": [
+    "⚠️ 장기 리스크: 디지털 지갑, CBDC",
+    "⚠️ 독점 우려 (Visa+MC 80%)",
+    "⚠️ 사이버 보안 중요 (글로벌 네트워크)",
+    "✅ 단기적으로는 견고 (네트워크 효과)"
+  ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "ticker": "AAPL",
+  "collected_at": "2025-11-06T12:01:38.174312",
+  "filing_info": {
+    "cik": "0000320193",
+    "filing_date": "2025-10-31",
+    "documents_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/0000320193-25-000079-index.htm"
+  },
+  "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+  "parsed": {
+    "full_text_length": 86,
+    "part_i": {}
+  }
+}

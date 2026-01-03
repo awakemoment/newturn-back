@@ -1,0 +1,228 @@
+{
+  "ticker": "NVDA",
+  "section": "item_1_business",
+  "analyzed_at": "2025-11-06",
+  
+  "business_model": {
+    "core": "가속 컴퓨팅 플랫폼 (Accelerated Computing Platform)",
+    "value_proposition": "복잡한 문제를 CPU 대비 훨씬 빠르고 전력 효율적으로 해결",
+    
+    "products": [
+      {
+        "segment": "Compute & Networking",
+        "revenue_share": "89%",
+        "products": [
+          "Data Center GPU (A100, H100, H200, Blackwell B200/GB200)",
+          "AI 소프트웨어 (NVIDIA AI Enterprise, NIM, NeMo, AI Blueprints)",
+          "Networking (InfiniBand, Ethernet, DPU, 스위치)",
+          "Automotive (DRIVE Hyperion, DRIVE AGX)",
+          "Jetson (로보틱스, 임베디드)",
+          "DGX Cloud (AI 훈련 as-a-service)"
+        ]
+      },
+      {
+        "segment": "Graphics",
+        "revenue_share": "11%",
+        "products": [
+          "GeForce RTX/GTX (게이밍)",
+          "GeForce NOW (클라우드 게이밍)",
+          "Quadro/NVIDIA RTX (워크스테이션)",
+          "vGPU (가상화)",
+          "Automotive 인포테인먼트",
+          "Omniverse Enterprise (산업용 디지털 트윈)"
+        ]
+      }
+    ],
+    
+    "target_markets": [
+      {
+        "name": "Data Center",
+        "description": "AI, 데이터 분석, 과학 컴퓨팅. 클라우드, 하이퍼스케일, 온프레미스, 엣지.",
+        "customers": "CSP (클라우드), 소비자 인터넷 기업, 기업, 공공 부문"
+      },
+      {
+        "name": "Gaming",
+        "description": "PC 게이밍 (가장 큰 엔터테인먼트 산업). RTX 100M+ 설치 기반, 700+ RTX AI 앱/게임.",
+        "products": "GeForce RTX/GTX, GeForce NOW"
+      },
+      {
+        "name": "Professional Visualization",
+        "description": "디자인, 제조, 디지털 콘텐츠 제작 (영화, 방송). AI 생성 도구 증가.",
+        "products": "Quadro/RTX, vGPU, Omniverse"
+      },
+      {
+        "name": "Automotive",
+        "description": "자율주행 (AV), 전기차 (EV). 클라우드에서 차량까지.",
+        "products": "DRIVE Hyperion (AI 하드웨어 + DRIVE OS + 소프트웨어 스택)",
+        "partners": "수백 개 파트너 (OEM, Tier-1, 센서, 매핑, 스타트업)"
+      }
+    ],
+    
+    "revenue_model": [
+      "GPU, CPU, DPU, SoC 하드웨어 판매",
+      "네트워킹 장비 (스위치, 어댑터, 케이블)",
+      "소프트웨어 라이선스 (NVIDIA AI Enterprise, vGPU)",
+      "DGX Cloud (AI 훈련 SaaS)"
+    ],
+    
+    "differentiation": [
+      "풀스택 플랫폼 (칩 + 시스템 + 네트워킹 + 소프트웨어)",
+      "CUDA 생태계 (590만 개발자)",
+      "데이터 센터 스케일 아키텍처 (수천 노드 연결)",
+      "AI 리더십 (Tensor Core, Blackwell)",
+      "업계 최고 성능 및 효율",
+      "강력한 소프트웨어 스택 (400+ 라이브러리, SDK, API)",
+      "Mellanox 인수 (2020) → 네트워킹 통합"
+    ]
+  },
+  
+  "innovation_history": {
+    "rd_investment": "$58.2B (설립 이래)",
+    "milestones": [
+      "1999: GPU 발명 → PC 게이밍 시장 성장",
+      "2006: CUDA 도입 → 병렬 처리 개방",
+      "2012: AlexNet (NVIDIA GPU 훈련) → AI 빅뱅",
+      "2017: Tensor Core GPU → AI 전용",
+      "2018: 자율주행 SoC",
+      "2020: Mellanox 인수 → 네트워킹",
+      "2020: DPU 도입",
+      "2023: Grace CPU (데이터센터 CPU)",
+      "2024: Grace CPU 상용화",
+      "2025: Blackwell 아키텍처 (차세대 AI)"
+    ],
+    "engineer_focus": "엔지니어의 50% 이상이 소프트웨어 개발"
+  },
+  
+  "competition": {
+    "competitive_factors": [
+      "성능",
+      "제품 범위",
+      "고객 및 파트너 접근",
+      "소프트웨어 지원",
+      "표준 API 준수",
+      "제조 능력",
+      "가격",
+      "총 시스템 비용"
+    ],
+    
+    "competitors": [
+      {
+        "category": "GPU/AI 칩",
+        "names": ["AMD", "Huawei", "Intel"]
+      },
+      {
+        "category": "클라우드 자체 칩",
+        "names": ["Alibaba", "Alphabet (Google)", "Amazon", "Baidu", "Huawei", "Microsoft"],
+        "threat": "내부 AI 하드웨어/소프트웨어 설계 (자급자족)"
+      },
+      {
+        "category": "Arm 기반 CPU",
+        "names": ["Amazon", "Huawei", "Microsoft"]
+      },
+      {
+        "category": "SoC (자동차, 임베디드)",
+        "names": ["Ambarella", "AMD", "Broadcom", "Intel", "Qualcomm", "Renesas", "Samsung", "Tesla (자체 칩)"]
+      },
+      {
+        "category": "네트워킹",
+        "names": ["AMD", "Arista", "Broadcom", "Cisco", "HPE", "Huawei", "Intel", "Lumentum", "Marvell"]
+      }
+    ],
+    
+    "competitive_threat": "클라우드/빅테크가 자체 칩 설계 → NVIDIA 의존도 감소 가능"
+  },
+  
+  "supply_chain": {
+    "strategy": "Fabless (외주 제조)",
+    
+    "key_suppliers": [
+      {
+        "name": "TSMC, Samsung",
+        "role": "웨이퍼 제조 (파운드리)",
+        "dependency": "High"
+      },
+      {
+        "name": "SK Hynix, Micron, Samsung",
+        "role": "메모리",
+        "dependency": "High"
+      },
+      {
+        "name": "CoWoS",
+        "role": "반도체 패키징",
+        "dependency": "High"
+      },
+      {
+        "name": "Hon Hai (Foxconn), Wistron, Fabrinet",
+        "role": "조립, 테스트, 패키징",
+        "dependency": "Medium"
+      }
+    ],
+    
+    "concentration": "공급망 주로 아시아-태평양 지역 집중",
+    
+    "risks": [
+      "공급망 집중도 높음 (Asia-Pacific)",
+      "수요 증가 시 선주문, 프리미엄, 보증금 필요",
+      "공급 부족 및 가격 상승 리스크"
+    ]
+  },
+  
+  "export_controls": {
+    "timeline": [
+      {
+        "date": "2022-08",
+        "action": "A100, H100 중국/러시아 라이선스 요구"
+      },
+      {
+        "date": "2023-07",
+        "action": "A100, H100 일부 중동 고객 라이선스 요구"
+      },
+      {
+        "date": "2023-10",
+        "action": "중국 및 D1/D4/D5 국가 (사우디, UAE, 베트남 등) 라이선스 요구. A100, A800, H100, H800, L4, L40, L40S, RTX 4090 등. 즉시 발효.",
+        "note": "Blackwell (GB200, B200) 포함"
+      },
+      {
+        "date": "2025-01-15",
+        "action": "AI Diffusion IFR 발표. 120일 후 **전세계** 라이선스 요구. A100, H100, H200, B100, B200, GB200, L4, L40S, RTX 6000 Ada 등 모든 고성능 제품.",
+        "severity": "Very High"
+      }
+    ],
+    
+    "current_status": {
+      "china_licenses": "받지 못함 (To date, we have not received licenses)",
+      "partner_licenses": "파트너 및 고객도 라이선스 받지 못함",
+      "impact": "중국 시장 사실상 차단, 중동 제한, 'Tier 2' 국가 제한"
+    },
+    
+    "competitive_impact": {
+      "current": "경쟁력 저해됨 (has been harmed)",
+      "future": "장기적으로 추가 저해 가능 (may be further harmed over the long term)",
+      "risk": "규칙 변경 가능 (at any time), 더 넓은 제품군 적용 가능"
+    },
+    
+    "worst_case": "중국 및 기타 영향 받는 시장에서 사실상 배제 (effectively excluding us)"
+  },
+  
+  "ecosystem": {
+    "developers": "590만 명 (CUDA 및 기타 도구 사용)",
+    "applications": "4,400+ 애플리케이션",
+    "universities": "수백 개 대학 파트너십",
+    "startups": "수천 개 스타트업 (Inception 프로그램)",
+    "training": "Deep Learning Institute (DLI)"
+  },
+  
+  "key_takeaways": [
+    "✅ AI 가속 컴퓨팅 절대 강자 (풀스택 플랫폼)",
+    "✅ CUDA 생태계 590만 개발자",
+    "✅ 2025 Blackwell 출시 (차세대 AI 칩)",
+    "✅ R&D $58.2B 누적 투자",
+    "✅ 100M+ RTX PC (AI PC 리더)",
+    "🚨 **수출 규제 치명적**: 중국 라이선스 받지 못함",
+    "🚨 2025년 1월 AI Diffusion IFR (전세계 라이선스)",
+    "⚠️ 클라우드 자체 칩 개발 (Amazon, Google, Microsoft)",
+    "⚠️ 공급망 아시아 집중 (TSMC, Samsung)",
+    "📊 경쟁사: AMD, Intel, Huawei, 클라우드 빅테크"
+  ]
+}
+

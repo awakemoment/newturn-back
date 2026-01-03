@@ -1,0 +1,51 @@
+{
+  "ticker": "PG",
+  "collected_at": "2025-11-06T12:27:39.301585",
+  "filing_info": {
+    "ticker": "PG",
+    "cik": "0000080424",
+    "filing_date": "2025-08-04",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm",
+    "primary_document": "pg-20250630.htm"
+  },
+  "parsed": {
+    "text_length": 303676,
+    "line_count": 7539,
+    "structure": {
+      "has_toc": true,
+      "toc_position": 4829,
+      "items_found": [
+        "Part I - Item 1A"
+      ]
+    },
+    "sections": {
+      "item_1_business": {
+        "char_count": 16484,
+        "word_count": 2435,
+        "line_count": 165,
+        "page_estimate": 5.494666666666666,
+        "start_position": 4859,
+        "end_position": 21343,
+        "text_file": "data/section_PG_item_1_business.txt"
+      },
+      "item_1a_risk_factors": {
+        "char_count": 54604,
+        "word_count": 7912,
+        "line_count": 232,
+        "page_estimate": 18.201333333333334,
+        "start_position": 4878,
+        "end_position": 59482,
+        "text_file": "data/section_PG_item_1a_risk_factors.txt"
+      },
+      "item_7_mda": {
+        "char_count": 162275,
+        "word_count": 24194,
+        "line_count": 1513,
+        "page_estimate": 54.09166666666667,
+        "start_position": 5254,
+        "end_position": 167529,
+        "text_file": "data/section_PG_item_7_mda.txt"
+      }
+    }
+  }
+}

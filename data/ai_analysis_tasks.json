@@ -1,0 +1,142 @@
+[
+  {
+    "ticker": "AAPL",
+    "section": "item_1_business",
+    "text_length": 19351,
+    "analysis_type": [
+      "business_model",
+      "competition",
+      "supply_chain"
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "section": "item_1a_risk_factors",
+    "text_length": 87382,
+    "analysis_type": [
+      "risks",
+      "regulatory"
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "section": "item_7_mda",
+    "text_length": 100019,
+    "analysis_type": [
+      "forward_guidance",
+      "supply_chain"
+    ]
+  },
+  {
+    "ticker": "META",
+    "section": "item_1_business",
+    "text_length": 53274,
+    "analysis_type": [
+      "business_model",
+      "competition",
+      "supply_chain"
+    ]
+  },
+  {
+    "ticker": "META",
+    "section": "item_1a_risk_factors",
+    "text_length": 100019,
+    "analysis_type": [
+      "risks",
+      "regulatory"
+    ]
+  },
+  {
+    "ticker": "META",
+    "section": "item_7_mda",
+    "text_length": 100019,
+    "analysis_type": [
+      "forward_guidance",
+      "supply_chain"
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "section": "item_1_business",
+    "text_length": 44853,
+    "analysis_type": [
+      "business_model",
+      "competition",
+      "supply_chain"
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "section": "item_1a_risk_factors",
+    "text_length": 100019,
+    "analysis_type": [
+      "risks",
+      "regulatory"
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "section": "item_7_mda",
+    "text_length": 100019,
+    "analysis_type": [
+      "forward_guidance",
+      "supply_chain"
+    ]
+  },
+  {
+    "ticker": "AMZN",
+    "section": "item_1_business",
+    "text_length": 14543,
+    "analysis_type": [
+      "business_model",
+      "competition",
+      "supply_chain"
+    ]
+  },
+  {
+    "ticker": "AMZN",
+    "section": "item_1a_risk_factors",
+    "text_length": 73986,
+    "analysis_type": [
+      "risks",
+      "regulatory"
+    ]
+  },
+  {
+    "ticker": "AMZN",
+    "section": "item_7_mda",
+    "text_length": 100019,
+    "analysis_type": [
+      "forward_guidance",
+      "supply_chain"
+    ]
+  },
+  {
+    "ticker": "TSLA",
+    "section": "item_1_business",
+    "text_length": 53096,
+    "analysis_type": [
+      "business_model",
+      "competition",
+      "supply_chain"
+    ]
+  },
+  {
+    "ticker": "TSLA",
+    "section": "item_1a_risk_factors",
+    "text_length": 100019,
+    "analysis_type": [
+      "risks",
+      "regulatory"
+    ]
+  },
+  {
+    "ticker": "TSLA",
+    "section": "item_7_mda",
+    "text_length": 100019,
+    "analysis_type": [
+      "forward_guidance",
+      "supply_chain"
+    ]
+  }
+]

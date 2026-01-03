@@ -1,0 +1,104 @@
+{
+  "ticker": "GOOGL",
+  "company_name": "Alphabet Inc.",
+  "analyzed_at": "2025-11-06T11:51:18.868003",
+  "business_model": {
+    "model_type": "Advertising + Cloud + Others",
+    "description": "Google Search, YouTube 광고가 핵심. Google Cloud 성장 중. Waymo(자율주행), Verily(헬스케어) 등 기타 사업.",
+    "revenue_streams": [
+      {
+        "stream": "Search Ads",
+        "characteristics": "압도적 점유율, 초고마진"
+      },
+      {
+        "stream": "YouTube Ads",
+        "characteristics": "동영상 광고 1위, 고성장"
+      },
+      {
+        "stream": "Google Cloud",
+        "characteristics": "3위(AWS, Azure 다음), 빠른 성장"
+      },
+      {
+        "stream": "Play Store",
+        "characteristics": "앱 수수료, Android 생태계"
+      }
+    ],
+    "understandability_score": 9,
+    "reason": "검색, YouTube 누구나 매일 사용. 비즈니스 모델 명확."
+  },
+  "competitive_advantages": {
+    "moat_strength": "매우 강함 (Wide Moat)",
+    "moat_sustainability": 10,
+    "moat_factors": [
+      {
+        "type": "Network Effects",
+        "strength": 10,
+        "description": "검색 많을수록 데이터 많음 → 검색 품질 상승 → 사용자 증가 (선순환)"
+      },
+      {
+        "type": "Brand Power",
+        "strength": 10,
+        "description": "\"구글링\" = 검색의 대명사. 브랜드 인지도 완벽."
+      },
+      {
+        "type": "Data Moat",
+        "strength": 10,
+        "description": "20년+ 축적 검색 데이터. 경쟁사 따라잡기 불가능."
+      },
+      {
+        "type": "Scale",
+        "strength": 10,
+        "description": "검색 시장 점유율 90%+. 광고주 플랫폼 필수."
+      }
+    ],
+    "moat_durability": "10년+",
+    "moat_widening": true
+  },
+  "risks": {
+    "overall_risk_level": "중간",
+    "risk_score": 45,
+    "top_3_risks": [
+      "AI 검색 전환 (ChatGPT, Bing AI)",
+      "광고 의존도 (80%+)",
+      "규제 리스크 (반독점, EU, 검색 독점)"
+    ]
+  },
+  "investment_appeal": {
+    "overall_score": 88,
+    "grade": "A+",
+    "strengths": [
+      "검색 독점 (90%+ 점유율)",
+      "YouTube 1위",
+      "초고마진 (60%+)",
+      "AI 기술 선도 (DeepMind, Gemini)",
+      "막강한 현금 보유"
+    ],
+    "sustainability_score": 9
+  },
+  "mate_assessments": {
+    "benjamin": {
+      "score": 82,
+      "assessment": "BUY",
+      "verdict": "현금 $100B+, 부채 거의 없음. FCF 강력. PER 25 정도로 합리적.",
+      "recommendation": "안전한 투자."
+    },
+    "fisher": {
+      "score": 88,
+      "assessment": "STRONG BUY",
+      "verdict": "AI 기술 최강. Cloud 고성장. 경영진 우수. 장기 성장 확실.",
+      "recommendation": "핵심 보유."
+    },
+    "greenblatt": {
+      "score": 100,
+      "assessment": "PERFECT",
+      "verdict": "ROIC 압도적. 이익 수익률 최상. 마법공식 1위급.",
+      "recommendation": "Must-own!"
+    },
+    "daily": {
+      "score": 100,
+      "assessment": "MUST OWN",
+      "verdict": "매일 쓰는 Google 검색, YouTube, Gmail, Maps. 삶의 필수품.",
+      "recommendation": "포트폴리오 핵심 (20%+)"
+    }
+  }
+}

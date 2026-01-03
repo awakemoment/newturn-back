@@ -1,0 +1,173 @@
+{
+  "AAPL": {
+    "ticker": "AAPL",
+    "sections": {
+      "item_1_business": {
+        "status": "OK",
+        "size": 19351,
+        "pages": 6.450333333333333
+      },
+      "item_1a_risk_factors": {
+        "status": "OK",
+        "size": 87382,
+        "pages": 29.127333333333333
+      },
+      "item_7_mda": {
+        "status": "OK",
+        "size": 116567,
+        "pages": 38.855666666666664
+      }
+    },
+    "total_chars": 207614
+  },
+  "MSFT": {
+    "status": "NO_META"
+  },
+  "GOOGL": {
+    "ticker": "GOOGL",
+    "sections": {
+      "item_1_business": {
+        "status": "OK",
+        "size": 29012,
+        "pages": 9.670666666666667
+      },
+      "item_1a_risk_factors": {
+        "status": "OK",
+        "size": 121579,
+        "pages": 40.52633333333333
+      },
+      "item_7_mda": {
+        "status": "OK",
+        "size": 148831,
+        "pages": 49.61033333333334
+      }
+    },
+    "total_chars": 352260
+  },
+  "AMZN": {
+    "ticker": "AMZN",
+    "sections": {
+      "item_1_business": {
+        "status": "OK",
+        "size": 14543,
+        "pages": 4.847666666666667
+      },
+      "item_1a_risk_factors": {
+        "status": "OK",
+        "size": 73986,
+        "pages": 24.662
+      },
+      "item_7_mda": {
+        "status": "OK",
+        "size": 128308,
+        "pages": 42.769333333333336
+      }
+    },
+    "total_chars": 281388
+  },
+  "NVDA": {
+    "ticker": "NVDA",
+    "sections": {
+      "item_1_business": {
+        "status": "OK",
+        "size": 44853,
+        "pages": 14.951
+      },
+      "item_1a_risk_factors": {
+        "status": "OK",
+        "size": 170989,
+        "pages": 56.99633333333333
+      },
+      "item_7_mda": {
+        "status": "OK",
+        "size": 219169,
+        "pages": 73.05633333333333
+      }
+    },
+    "total_chars": 350943
+  },
+  "META": {
+    "ticker": "META",
+    "sections": {
+      "item_1_business": {
+        "status": "OK",
+        "size": 53274,
+        "pages": 17.758
+      },
+      "item_1a_risk_factors": {
+        "status": "OK",
+        "size": 242198,
+        "pages": 80.73266666666666
+      },
+      "item_7_mda": {
+        "status": "OK",
+        "size": 346866,
+        "pages": 115.622
+      }
+    },
+    "total_chars": 501315
+  },
+  "V": {
+    "ticker": "V",
+    "sections": {
+      "item_1_business": {
+        "status": "OK",
+        "size": 62230,
+        "pages": 20.743333333333332
+      },
+      "item_1a_risk_factors": {
+        "status": "OK",
+        "size": 142444,
+        "pages": 47.48133333333333
+      },
+      "item_7_mda": {
+        "status": "OK",
+        "size": 203153,
+        "pages": 67.71766666666667
+      }
+    },
+    "total_chars": 408197
+  },
+  "PG": {
+    "ticker": "PG",
+    "sections": {
+      "item_1_business": {
+        "status": "OK",
+        "size": 16484,
+        "pages": 5.494666666666666
+      },
+      "item_1a_risk_factors": {
+        "status": "OK",
+        "size": 54604,
+        "pages": 18.201333333333334
+      },
+      "item_7_mda": {
+        "status": "OK",
+        "size": 162275,
+        "pages": 54.09166666666667
+      }
+    },
+    "total_chars": 303676
+  },
+  "TSLA": {
+    "ticker": "TSLA",
+    "sections": {
+      "item_1_business": {
+        "status": "OK",
+        "size": 53096,
+        "pages": 17.698666666666668
+      },
+      "item_1a_risk_factors": {
+        "status": "OK",
+        "size": 132812,
+        "pages": 44.27066666666666
+      },
+      "item_7_mda": {
+        "status": "OK",
+        "size": 191745,
+        "pages": 63.915
+      }
+    },
+    "total_chars": 386794
+  }
+}

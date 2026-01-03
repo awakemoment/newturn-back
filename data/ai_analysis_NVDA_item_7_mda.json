@@ -1,0 +1,48 @@
+{
+  "ticker": "NVDA",
+  "section": "item_7_mda",
+  "analyzed_at": "2025-11-06",
+  "fiscal_year": 2025,
+  
+  "financial_performance": {
+    "total_revenue": {
+      "fy2025": 130497,
+      "fy2024": 60922,
+      "growth": 114.0,
+      "insight": "🔥 2배 이상 성장!"
+    },
+    
+    "segment_performance": {
+      "Compute_Networking": {
+        "fy2025": 116193,
+        "fy2024": 47405,
+        "growth": 145.0,
+        "share": 89.0,
+        "insight": "🚀 AI 폭발! 145% 성장!"
+      },
+      "Graphics": {
+        "fy2025": 14304,
+        "fy2024": 13517,
+        "growth": 6.0,
+        "share": 11.0,
+        "insight": "게이밍 안정적 성장"
+      }
+    },
+    
+    "profitability": {
+      "gross_margin": 75.0,
+      "operating_margin": 62.4,
+      "net_margin": 55.8,
+      "insight": "압도적 수익성! (업계 최고)"
+    }
+  },
+  
+  "key_takeaways": [
+    "🚀 매출 2배 성장 ($61B → $130B)",
+    "🚀 Compute +145% (AI 데이터센터)",
+    "✅ 총마진 75% (압도적!)",
+    "✅ 순이익률 55.8% (경이적!)",
+    "📊 AI가 전부 (89% Compute)"
+  ]
+}
+

@@ -1,0 +1,37 @@
+{
+  "ticker": "PG",
+  "section": "item_1_business",
+  "analyzed_at": "2025-11-06",
+  
+  "business_model": {
+    "description": "글로벌 소비재 기업 (브랜드 포트폴리오)",
+    
+    "segments": [
+      {"name": "Beauty", "brands": "SK-II, Olay, Pantene, Head & Shoulders", "share": "~18%"},
+      {"name": "Grooming", "brands": "Gillette, Braun", "share": "~10%"},
+      {"name": "Health Care", "brands": "Oral-B, Crest, Vicks", "share": "~13%"},
+      {"name": "Fabric & Home Care", "brands": "Tide, Ariel, Downy, Febreze", "share": "~42%"},
+      {"name": "Baby, Feminine & Family Care", "brands": "Pampers, Always, Charmin, Bounty", "share": "~18%"}
+    ],
+    
+    "revenue_model": [
+      "제품 판매 (슈퍼마켓, 드럭스토어, 온라인)"
+    ],
+    
+    "differentiation": [
+      "브랜드 파워 (Tide, Pampers, Gillette 등)",
+      "글로벌 유통망",
+      "R&D 및 혁신",
+      "규모의 경제"
+    ]
+  },
+  
+  "key_takeaways": [
+    "✅ 브랜드 포트폴리오 (Tide, Pampers, Gillette)",
+    "✅ 안정적 현금 흐름",
+    "✅ 배당 귀족주",
+    "⚠️ Grooming 성장 둔화 (면도기 경쟁)",
+    "📊 Total ~$84B (추정)"
+  ]
+}
+

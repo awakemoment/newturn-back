@@ -1,0 +1,27 @@
+{
+  "ticker": "TSLA",
+  "section": "item_1_business",
+  "analyzed_at": "2025-11-06",
+  
+  "business_model": {
+    "products": [
+      "전기차 (Model S, 3, X, Y, Cybertruck)",
+      "에너지 저장 (Powerwall, Megapack)",
+      "태양광 (Solar Roof, Solar Panels)",
+      "FSD (Full Self-Driving) 소프트웨어"
+    ],
+    
+    "manufacturing": [
+      "미국 (Fremont, Austin)",
+      "중국 (Shanghai)",
+      "독일 (Berlin)"
+    ]
+  },
+  
+  "key_takeaways": [
+    "✅ 전기차 + 에너지 + FSD",
+    "⚠️ 경쟁 심화 (BYD 추월)",
+    "⚠️ 중국 의존도 높음"
+  ]
+}
+

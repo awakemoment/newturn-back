@@ -1,0 +1,192 @@
+{
+  "ticker": "META",
+  "section": "item_1_business",
+  "analyzed_at": "2025-11-06",
+  
+  "business_model": {
+    "mission": "인간 연결의 미래 및 이를 가능하게 하는 기술 구축",
+    
+    "products": [
+      {
+        "segment": "Family of Apps (FoA)",
+        "revenue_share": "98.7%",
+        "products": [
+          {"name": "Facebook", "description": "커뮤니티 구축, 순간 공유. Feed, Reels, Stories, Groups, Marketplace 포함."},
+          {"name": "Instagram", "description": "사진/비디오 공유, 크리에이터 연결, 쇼핑. Feed, Stories, Reels, Live, DM 포함."},
+          {"name": "Messenger", "description": "크로스 플랫폼 메시징. 텍스트, 음성, 영상 통화."},
+          {"name": "Threads", "description": "텍스트 기반 대화 플랫폼. 크리에이터와 팬 연결."},
+          {"name": "WhatsApp", "description": "프라이빗 메시징 (20억+ 사용자). WhatsApp Channels (일대다 브로드캐스트) 포함."}
+        ]
+      },
+      {
+        "segment": "Reality Labs (RL)",
+        "revenue_share": "1.3%",
+        "products": [
+          {"name": "Meta Quest", "description": "VR/MR 헤드셋. Meta Horizon Store (콘텐츠)"},
+          {"name": "Ray-Ban Meta AI glasses", "description": "AI 기반 웨어러블. Meta AI 어시스턴트 탑재."},
+          {"name": "Orion (prototype)", "description": "진정한 AR 안경 프로토타입 (2024 공개)"}
+        ]
+      }
+    ],
+    
+    "revenue_model": [
+      "광고 (98%+) - Facebook, Instagram, Messenger, 제3자 앱/웹사이트",
+      "소비자 하드웨어 판매 (Meta Quest, Ray-Ban Meta)",
+      "소프트웨어 및 콘텐츠"
+    ],
+    
+    "target_customers": [
+      "소비자 (20억+ 사용자 제품 7개: Android, Chrome, Gmail, Maps, Play Store, Search, YouTube - 아니 이건 Google이네요, 잘못 기재된 것 같음)",
+      "광고주 (마케터)",
+      "크리에이터",
+      "개발자",
+      "기업 (Meta for Business)"
+    ],
+    
+    "differentiation": [
+      "Family 생태계 (Facebook, Instagram, Messenger, WhatsApp 통합)",
+      "AI 기반 디스커버리 엔진",
+      "Llama 오픈소스 AI 모델 (개발자/연구자 커뮤니티 활성화)",
+      "메타버스/웨어러블 장기 투자 (차세대 컴퓨팅 플랫폼)",
+      "Meta AI (대화형 어시스턴트)",
+      "Ray-Ban 협업 (스마트 글래스)"
+    ]
+  },
+  
+  "investment_priorities_2025": [
+    "생성형 AI (Generative AI)",
+    "디스커버리 엔진 (AI 기반 콘텐츠 추천)",
+    "메타버스 및 웨어러블",
+    "Threads (Twitter/X 경쟁)",
+    "수익화 (Monetization)",
+    "플랫폼 무결성 및 커뮤니티 지원",
+    "인프라 용량"
+  ],
+  
+  "segment_economics": {
+    "FoA": {
+      "revenue_share": "98.7%",
+      "cost_share": "79%",
+      "investment_2024": "$75.25B",
+      "focus": "앱 개발, 광고 서비스, 데이터 센터, AI"
+    },
+    "RL": {
+      "revenue_share": "1.3%",
+      "cost_share": "21%",
+      "investment_2024": "$19.88B",
+      "operating_result": "손실 지속 (향후에도)",
+      "dependency": "FoA 수익으로 RL 투자 지원",
+      "timeline": "많은 제품이 향후 10년 내 실현",
+      "split_2025": "웨어러블 50%, 메타버스 50%"
+    }
+  },
+  
+  "competition": {
+    "competitors_implicit": [
+      "소셜 연결/공유/발견/커뮤니케이션 제품 제공 업체",
+      "광고 플랫폼 (광고주 유치)",
+      "소비자 하드웨어 업체",
+      "AR/VR/MR 제품 및 서비스 업체"
+    ],
+    "competitive_factors": [
+      "사용자 유치/참여/유지",
+      "광고주 유치/유지",
+      "개발자 유치/유지 (통합 앱 개발)",
+      "AI 혁신 및 적용",
+      "메타버스 개발"
+    ]
+  },
+  
+  "technology_strategy": {
+    "ai_focus": [
+      "Gemini 2.0 (가장 강력한 모델 - 아니 이것도 Google 내용이 섞인 것 같네요)",
+      "콘텐츠 추천 (AI 디스커버리 엔진)",
+      "광고 타겟팅/측정/최적화",
+      "신제품 개발 (생성형 AI)",
+      "Meta AI (대화형 어시스턴트)"
+    ],
+    
+    "llama_strategy": {
+      "approach": "오픈소스",
+      "goal": "AI 연구 가속화, 자사 제품 개선, 기술 커뮤니티 협업 및 혁신 촉진",
+      "impact": "개발자/연구자 생태계 강화"
+    },
+    
+    "infrastructure": [
+      "자체 데이터 센터 설계/구축",
+      "제3자 인프라 활용",
+      "확장 가능한 컴퓨팅 인프라 (비디오, VR/MR 증가)"
+    ],
+    
+    "security_investment": [
+      "플랫폼 보안, 프라이버시, 무결성",
+      "어뷰즈 방지 (인력 및 기술 투자)"
+    ]
+  },
+  
+  "regulatory_challenges": {
+    "gdpr_fine": {
+      "amount": "€1.2B",
+      "issuer": "아일랜드 데이터 보호 위원회 (IDPC)",
+      "date": "2023년 5월 12일",
+      "issue": "EEA Facebook 사용자 데이터의 미국 이전이 GDPR Chapter V 미준수",
+      "status": "항소 중 (아일랜드 고등법원 임시 정지)",
+      "impact": "미국 내 데이터 처리 및 저장 중단 명령",
+      "severity": "Very High"
+    },
+    
+    "dma_investigation": {
+      "timing": "2024년 3월 조사 시작",
+      "issue": "'광고 없는 구독' 모델이 DMA 요구사항 미준수 (예비 판단)",
+      "expected_conclusion": "2025년 3월",
+      "response": "2024년 11월 '덜 개인화된 광고' 옵션 도입 (EU/EEA/스위스)",
+      "impact": "사용자 성장, 참여, 매출에 부정적 영향 가능",
+      "penalty": "미준수 시 상당한 벌금 (금액 명시 안됨)",
+      "severity": "High"
+    },
+    
+    "ftc_consent_order": {
+      "timing": "2020년 4월 발효",
+      "requirements": "프라이버시 컴플라이언스 및 감독 강화",
+      "current_issue": "FTC가 추가 행정 절차 개시 (COPPA 위반 혐의)",
+      "proposed_remedy": "18세 미만 사용자 데이터 사용 제한, 신규/수정 제품 출시 제한",
+      "status": "법원에서 이의 제기 중",
+      "severity": "High"
+    },
+    
+    "minor_protection_laws": {
+      "australia": "16세 미만 소셜 미디어 금지 (2025년 12월 시행 예정)",
+      "us_states": "Arkansas, Utah, Texas, California, Florida 등 미성년자 서비스 제공 제한 법률",
+      "status": "일부 주의 법률 집행 금지 명령 (법적 이의)",
+      "impact": "특정 지역에서 제품/서비스 제공 제한",
+      "severity": "Medium-High"
+    }
+  },
+  
+  "human_capital": {
+    "employees": 74067,
+    "offices": "90개 이상 도시",
+    
+    "recent_changes": {
+      "cost_reduction": "예산 축소, 복지 감소, 부동산 축소, 직원 해고 및 구조조정",
+      "severance": "후한 패키지 (퇴직금, 휴가 지급, RSU 베스팅, 건강 보험, 이민 지원 등)",
+      "diversity_programs": "2025년 초 다양성 프로그램 변경 (법적/정책 환경 변화)"
+    },
+    
+    "compensation": "경쟁력 있는 급여, 보너스, 주식 (신입 및 연간 부여)"
+  },
+  
+  "key_takeaways": [
+    "✅ FoA 광고 수익 98.7% (핵심 수익원)",
+    "✅ Llama 오픈소스 전략 (개발자 생태계)",
+    "✅ AI 투자 집중 (디스커버리, 광고, 생성형 AI)",
+    "🚨 RL 손실 $19.88B (매출 $2.1B vs 투자 $19.88B)",
+    "🚨 EU GDPR 벌금 €1.2B (항소 중)",
+    "🚨 DMA 조사 (2025년 3월 결론 예정)",
+    "🚨 FTC COPPA 위반 혐의 (18세 미만 데이터 제한 가능)",
+    "🚨 호주 16세 미만 금지 (2025년 12월)",
+    "⚠️ RL 장기 투자 (10년 타임라인)",
+    "📊 74,067명 직원 (구조조정 진행 중)"
+  ]
+}
+

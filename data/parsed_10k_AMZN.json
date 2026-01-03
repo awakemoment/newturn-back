@@ -1,0 +1,52 @@
+{
+  "ticker": "AMZN",
+  "collected_at": "2025-11-06T12:26:50.082468",
+  "filing_info": {
+    "ticker": "AMZN",
+    "cik": "0001018724",
+    "filing_date": "2025-02-07",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm",
+    "primary_document": "amzn-20241231.htm"
+  },
+  "parsed": {
+    "text_length": 281388,
+    "line_count": 5842,
+    "structure": {
+      "has_toc": true,
+      "toc_position": 0,
+      "items_found": [
+        "Part III - Item 1",
+        "Part I - Item 10"
+      ]
+    },
+    "sections": {
+      "item_1_business": {
+        "char_count": 14543,
+        "word_count": 2121,
+        "line_count": 194,
+        "page_estimate": 4.847666666666667,
+        "start_position": 4677,
+        "end_position": 19220,
+        "text_file": "data/section_AMZN_item_1_business.txt"
+      },
+      "item_1a_risk_factors": {
+        "char_count": 73986,
+        "word_count": 10818,
+        "line_count": 428,
+        "page_estimate": 24.662,
+        "start_position": 4696,
+        "end_position": 78682,
+        "text_file": "data/section_AMZN_item_1a_risk_factors.txt"
+      },
+      "item_7_mda": {
+        "char_count": 128308,
+        "word_count": 18858,
+        "line_count": 991,
+        "page_estimate": 42.769333333333336,
+        "start_position": 5022,
+        "end_position": 133330,
+        "text_file": "data/section_AMZN_item_7_mda.txt"
+      }
+    }
+  }
+}

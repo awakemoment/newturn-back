@@ -1,0 +1,21 @@
+{
+  "ticker": "TSLA",
+  "section": "item_1a_risk_factors",
+  "analyzed_at": "2025-11-06",
+  
+  "top_5_risks": [
+    {"rank": 1, "risk": "BYD 등 경쟁 심화 (판매량 추월)", "severity": "Very High"},
+    {"rank": 2, "risk": "FSD 미완성 (수익화 불확실)", "severity": "High"},
+    {"rank": 3, "risk": "중국 의존도 (생산 50%+)", "severity": "High"},
+    {"rank": 4, "risk": "Elon Musk 리스크 (집중도 분산)", "severity": "Medium"},
+    {"rank": 5, "risk": "FCF 불안정 (자본 집약적)", "severity": "Medium"}
+  ],
+  
+  "key_takeaways": [
+    "🚨 BYD가 Tesla 판매량 추월",
+    "🚨 FSD 여전히 미완성",
+    "⚠️ 중국 의존도 높음",
+    "⚠️ Elon Musk 리스크"
+  ]
+}
+

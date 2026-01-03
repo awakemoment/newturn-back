@@ -1,0 +1,120 @@
+{
+  "AAPL": {
+    "ticker": "AAPL",
+    "fiscal_year": 2025,
+    "product_revenue": {
+      "iPhone": {
+        "fy2025": 209586,
+        "fy2024": 201183,
+        "fy2023": 200583,
+        "growth_2025": 4.0
+      },
+      "Mac": {
+        "fy2025": 33708,
+        "fy2024": 29984,
+        "fy2023": 29357,
+        "growth_2025": 12.0
+      },
+      "iPad": {
+        "fy2025": 28023,
+        "fy2024": 26694,
+        "fy2023": 28300,
+        "growth_2025": 5.0
+      },
+      "Wearables": {
+        "fy2025": 35686,
+        "fy2024": 37005,
+        "fy2023": 39845,
+        "growth_2025": -4.0
+      },
+      "Services": {
+        "fy2025": 109158,
+        "fy2024": 96169,
+        "fy2023": 85200,
+        "growth_2025": 14.0
+      }
+    },
+    "total_revenue": 416161,
+    "product_mix": {
+      "iPhone": 50.3,
+      "Services": 26.2,
+      "Wearables": 8.6,
+      "Mac": 8.1,
+      "iPad": 6.7
+    },
+    "insights": [
+      "Mac +12% (Apple Silicon 효과)",
+      "Services +14% (고마진 성장)",
+      "Wearables -4% (2년 연속 하락 우려)"
+    ]
+  },
+  "META": {
+    "ticker": "META",
+    "fiscal_year": 2024,
+    "segment_revenue": {
+      "Family_of_Apps": {
+        "advertising": {
+          "fy2024": 160633,
+          "fy2023": 131948,
+          "growth": 22.0
+        },
+        "other": {
+          "fy2024": 1722,
+          "fy2023": 1058,
+          "growth": 63.0
+        },
+        "total": {
+          "fy2024": 162355,
+          "fy2023": 133006,
+          "growth": 22.0
+        }
+      },
+      "Reality_Labs": {
+        "total": {
+          "fy2024": 2146,
+          "fy2023": 1896,
+          "growth": 13.0
+        }
+      }
+    },
+    "total_revenue": 164501,
+    "segment_mix": {
+      "FoA": 98.7,
+      "RL": 1.3
+    },
+    "insights": [
+      "FoA 광고 +22% (폭발적 성장)",
+      "WhatsApp Business +63% (급성장)",
+      "RL 매출 $2.1B vs 손실 $19.88B (투자 중)"
+    ]
+  },
+  "NVDA": {
+    "ticker": "NVDA",
+    "fiscal_year": 2025,
+    "segment_revenue": {
+      "Compute_Networking": {
+        "fy2025": 116193,
+        "fy2024": 47405,
+        "growth": 145.0,
+        "insight": "AI 폭발! 145% 성장 🔥"
+      },
+      "Graphics": {
+        "fy2025": 14304,
+        "fy2024": 13517,
+        "growth": 6.0,
+        "insight": "Gaming은 안정적"
+      }
+    },
+    "total_revenue": 130497,
+    "total_growth": 114.0,
+    "segment_mix": {
+      "Compute": 89.0,
+      "Graphics": 11.0
+    },
+    "insights": [
+      "Compute +145% (AI 데이터센터 폭발)",
+      "전체 매출 2배 이상 ($61B → $130B)",
+      "AI 칩이 전부 (89%)"
+    ]
+  }
+}

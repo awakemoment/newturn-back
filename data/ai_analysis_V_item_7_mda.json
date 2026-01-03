@@ -1,0 +1,46 @@
+{
+  "ticker": "V",
+  "section": "item_7_mda",
+  "analyzed_at": "2025-11-06",
+  "fiscal_year": 2024,
+  
+  "financial_performance": {
+    "total_revenue": {
+      "fy2024": 35900,
+      "growth": "~11% (추정)"
+    },
+    
+    "revenue_mix": {
+      "Service_revenues": {"share": "~50%", "growth": "~11%"},
+      "Data_processing": {"share": "~36%", "growth": "~10%"},
+      "International_transaction": {"share": "~28%", "growth": "~15%"},
+      "Other": {"share": "~5%", "growth": "~8%"}
+    },
+    
+    "note": "합계 >100% (Client Incentives 차감 전)"
+  },
+  
+  "profitability": {
+    "operating_margin": "~66%",
+    "net_margin": "~52%",
+    "insight": "✅ 압도적 수익성! (자본 거의 불필요)"
+  },
+  
+  "key_metrics": {
+    "transactions": "303B (일평균 829M)",
+    "payment_volume": "$16T",
+    "tap_to_pay": "125개국 50%+ 점유",
+    "visa_direct": "10B 거래, 550+ 파트너",
+    "tokens": "11.5B 네트워크 토큰"
+  },
+  
+  "key_takeaways": [
+    "✅ 거래량 $16T (압도적)",
+    "✅ 마진 66% (업계 최고급)",
+    "✅ Tap to Pay 글로벌 확산",
+    "✅ Visa Direct 10B 거래",
+    "🚀 국제 거래 +15% (고성장)",
+    "📊 베니가 사랑하는 종목! (ROIC 무한대급)"
+  ]
+}
+

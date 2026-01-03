@@ -1,0 +1,52 @@
+{
+  "ticker": "V",
+  "collected_at": "2025-11-06T12:27:29.097184",
+  "filing_info": {
+    "ticker": "V",
+    "cik": "0001403161",
+    "filing_date": "2024-11-13",
+    "document_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316124000058/v-20240930.htm",
+    "primary_document": "v-20240930.htm"
+  },
+  "parsed": {
+    "text_length": 408197,
+    "line_count": 8964,
+    "structure": {
+      "has_toc": true,
+      "toc_position": 0,
+      "items_found": [
+        "Part II - Item 7",
+        "Part I - Item 1A"
+      ]
+    },
+    "sections": {
+      "item_1_business": {
+        "char_count": 62230,
+        "word_count": 9090,
+        "line_count": 446,
+        "page_estimate": 20.743333333333332,
+        "start_position": 5151,
+        "end_position": 67381,
+        "text_file": "data/section_V_item_1_business.txt"
+      },
+      "item_1a_risk_factors": {
+        "char_count": 142444,
+        "word_count": 20896,
+        "line_count": 708,
+        "page_estimate": 47.48133333333333,
+        "start_position": 5169,
+        "end_position": 147613,
+        "text_file": "data/section_V_item_1a_risk_factors.txt"
+      },
+      "item_7_mda": {
+        "char_count": 203153,
+        "word_count": 30242,
+        "line_count": 2329,
+        "page_estimate": 67.71766666666667,
+        "start_position": 5486,
+        "end_position": 208639,
+        "text_file": "data/section_V_item_7_mda.txt"
+      }
+    }
+  }
+}
