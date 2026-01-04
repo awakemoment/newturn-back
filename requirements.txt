@@ -47,6 +47,9 @@ PyPDF2==3.0.1  # PDF 파싱
 python-dotenv==1.0.1
 Pillow==10.2.0
 
+# Django Extensions (개발용이지만 프로덕션에서도 일부 기능 사용)
+django-extensions==3.2.3
+
 # WSGI 서버
 gunicorn==21.2.0
 
