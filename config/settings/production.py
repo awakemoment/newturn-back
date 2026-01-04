@@ -42,7 +42,8 @@ DEFAULT_FROM_EMAIL = env('DEFAULT_FROM_EMAIL', default='noreply@newturn.com')
 # Static/Media 파일 - WhiteNoise (Railway 내장)
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATIC_URL = '/static/'
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+# CompressedStaticFilesStorage: manifest 없이 작동 (collectstatic 없어도 동작)
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
 
 # WhiteNoise Middleware 추가 (SecurityMiddleware 다음에 추가)
 # base.py의 MIDDLEWARE를 상속받아 WhiteNoise 추가
